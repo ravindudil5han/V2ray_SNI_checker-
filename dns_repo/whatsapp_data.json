@@ -1,0 +1,1200 @@
+[
+  {
+    "domain": "pps.whatsapp.net.",
+    "ipv4": "57.144.183.32",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f35b:120:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "dit.whatsapp.net.",
+    "ipv4": "157.240.3.54",
+    "ipv6": [
+      "scontent.whatsapp.net.",
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f201:c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "scontent.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "static.whatsapp.net.",
+    "ipv4": "157.240.3.54",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f201:c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "g.whatsapp.net.",
+    "ipv4": "157.240.3.55",
+    "ipv6": [
+      "chat.cdn.whatsapp.net.",
+      "2a03:2880:f201:c6:face:b00c:0:7260"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e3.whatsapp.net.",
+    "ipv4": "15.197.206.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "web.whatsapp.com.",
+    "ipv4": "57.144.183.32",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f35b:120:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "chat.cdn.whatsapp.net.",
+    "ipv4": "157.240.3.55",
+    "ipv6": [
+      "2a03:2880:f201:c6:face:b00c:0:7260"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mmx-ds.cdn.whatsapp.net.",
+    "ipv4": "157.240.200.60",
+    "ipv6": [
+      "2a03:2880:f253:c8:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "scontent.whatsapp.net.",
+    "ipv4": "31.13.80.53",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f20e:c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "media-iad3-2.cdn.whatsapp.net.",
+    "ipv4": "157.240.229.60",
+    "ipv6": [
+      "2a03:2880:f203:1c1:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-amt2-1.cdn.whatsapp.net.",
+    "ipv4": "31.13.64.51",
+    "ipv6": [
+      "2a03:2880:f206:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mmg.whatsapp.net.",
+    "ipv4": "157.240.11.53",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f20d:1c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "media.fyyz1-1.fna.whatsapp.net.",
+    "ipv4": "209.148.162.97",
+    "ipv6": [
+      "2607:f798:d00:201:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fyto1-2.fna.whatsapp.net.",
+    "ipv4": "72.136.192.32",
+    "ipv6": [
+      "2607:f798:1e:1c16:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e1.whatsapp.net.",
+    "ipv4": "3.33.252.61",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-hkg4-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.199.60",
+    "ipv6": [
+      "2a03:2880:f25e:c2:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-syd2-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.8.53",
+    "ipv6": [
+      "2a03:2880:f219:80c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e6.whatsapp.net.",
+    "ipv4": "3.33.221.48",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.fyyz1-2.fna.whatsapp.net.",
+    "ipv4": "72.136.192.161",
+    "ipv6": [
+      "2607:f798:1e:214:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fcuu1-1.fna.whatsapp.net.",
+    "ipv4": "187.189.253.226",
+    "ipv6": [
+      "2806:2f0:303f:3:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-sin6-2.cdn.whatsapp.net.",
+    "ipv4": "157.240.13.54",
+    "ipv6": [
+      "2a03:2880:f20c:2c6:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fhmo1-1.fna.whatsapp.net.",
+    "ipv4": "201.165.255.161",
+    "ipv6": [
+      "2806:260:1002:5:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fmex21-1.fna.whatsapp.net.",
+    "ipv4": "201.175.201.34",
+    "ipv6": [
+      "2806:288:4092:ff0f:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e2.whatsapp.net.",
+    "ipv4": "15.197.206.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.fykz1-2.fna.whatsapp.net.",
+    "ipv4": "72.136.192.96",
+    "ipv6": [
+      "2607:f798:1e:419:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e12.whatsapp.net.",
+    "ipv4": "15.197.206.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.ffjr1-4.fna.whatsapp.net.",
+    "ipv4": "195.229.137.224",
+    "ipv6": [
+      "2001:8f8:0:12b:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-yyz1-1.cdn.whatsapp.net.",
+    "ipv4": "31.13.80.53",
+    "ipv6": [
+      "2a03:2880:f20e:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-ort2-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.2.53",
+    "ipv6": [
+      "2a03:2880:f227:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "whatsapp.net.",
+    "ipv4": "31.13.80.53",
+    "ipv6": [
+      "2a03:2880:f20e:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e5.whatsapp.net.",
+    "ipv4": "15.197.210.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "e14.whatsapp.net.",
+    "ipv4": "15.197.206.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.fcen2-1.fna.whatsapp.net.",
+    "ipv4": "200.66.12.98",
+    "ipv6": [
+      "2806:260:1019:2:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e16.whatsapp.net.",
+    "ipv4": "15.197.206.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.whatsapp.com.",
+    "ipv4": "163.70.147.60",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f289:cd:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "media.fybz2-1.fna.whatsapp.net.",
+    "ipv4": "184.150.164.161",
+    "ipv6": [
+      "2001:4958:300:476:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-lga3-1.cdn.whatsapp.net.",
+    "ipv4": "31.13.71.49",
+    "ipv6": [
+      "2a03:2880:f212:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fykz1-1.fna.whatsapp.net.",
+    "ipv4": "209.148.160.97",
+    "ipv6": [
+      "2607:f798:d00:301:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "faq.whatsapp.com.",
+    "ipv4": "157.240.3.54",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f201:c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "e15.whatsapp.net.",
+    "ipv4": "15.197.206.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-qro1-1.cdn.whatsapp.net.",
+    "ipv4": "31.13.89.53",
+    "ipv6": [
+      "2a03:2880:f235:c6:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-lax3-1.cdn.whatsapp.net.",
+    "ipv4": "31.13.70.49",
+    "ipv6": [
+      "2a03:2880:f20d:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e4.whatsapp.net.",
+    "ipv4": "3.33.252.61",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "e7.whatsapp.net.",
+    "ipv4": "15.197.210.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-lax3-2.cdn.whatsapp.net.",
+    "ipv4": "157.240.11.53",
+    "ipv6": [
+      "2a03:2880:f20d:1c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fyzd1-2.fna.whatsapp.net.",
+    "ipv4": "72.136.192.225",
+    "ipv6": [
+      "2607:f798:1e:3:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-dfw5-1.cdn.whatsapp.net.",
+    "ipv4": "57.144.219.32",
+    "ipv6": [
+      "2a03:2880:f36d:120:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e11.whatsapp.net.",
+    "ipv4": "3.33.221.48",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "e9.whatsapp.net.",
+    "ipv4": "3.33.221.48",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "crashlogs.whatsapp.net.",
+    "ipv4": "157.240.14.52",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f22c:1c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "media.fyzd1-3.fna.whatsapp.net.",
+    "ipv4": "209.148.162.35",
+    "ipv6": [
+      "2607:f798:d00:101:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.faly3-2.fna.whatsapp.net.",
+    "ipv4": "62.240.97.34",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "e10.whatsapp.net.",
+    "ipv4": "15.197.210.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.fntr2-1.fna.whatsapp.net.",
+    "ipv4": "201.148.13.225",
+    "ipv6": [
+      "2001:1278:4000:9:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e13.whatsapp.net.",
+    "ipv4": "15.197.210.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "v.whatsapp.com.",
+    "ipv4": "157.240.200.60",
+    "ipv6": [
+      "www.whatsapp.com.",
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f253:c8:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "www.whatsapp.com."
+    ]
+  },
+  {
+    "domain": "media-ams4-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.201.60",
+    "ipv6": [
+      "2a03:2880:f245:c7:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftlc3-1.fna.whatsapp.net.",
+    "ipv4": "201.174.228.99",
+    "ipv6": [
+      "2604:d600:1000:3:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fhmo6-1.fna.whatsapp.net.",
+    "ipv4": "187.188.38.224",
+    "ipv6": [
+      "2806:2f0:324:1202:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "v.whatsapp.net.",
+    "ipv4": "157.240.3.54",
+    "ipv6": [
+      "mmg.whatsapp.net.",
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f201:c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmg.whatsapp.net.",
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "e8.whatsapp.net.",
+    "ipv4": "15.197.206.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "graph.whatsapp.net.",
+    "ipv4": "157.240.3.54",
+    "ipv6": [
+      "static.whatsapp.net.",
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f201:c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "static.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "media.fhkg4-2.fna.whatsapp.net.",
+    "ipv4": "219.76.57.97",
+    "ipv6": [
+      "2404:c800:8202:5:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "wa.me.",
+    "ipv4": "57.144.183.32",
+    "ipv6": [
+      "2a03:2880:f35b:120:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-cgk1-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.208.60",
+    "ipv6": [
+      "2a03:2880:f24d:c8:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fams2-1.fna.whatsapp.net.",
+    "ipv4": "83.119.28.226",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "chat.whatsapp.com.",
+    "ipv4": "157.240.11.53",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f20d:1c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net."
+    ]
+  },
+  {
+    "domain": "media.fcrl1-1.fna.whatsapp.net.",
+    "ipv4": "212.68.207.98",
+    "ipv6": [
+      "2a02:2788:fdf0:16:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "sonar.fykz1-2.fna.whatsapp.net.",
+    "ipv4": "72.136.192.96",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "c.whatsapp.net.",
+    "ipv4": "15.197.210.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-sin6-3.cdn.whatsapp.net.",
+    "ipv4": "157.240.15.60",
+    "ipv6": [
+      "2a03:2880:f20c:1c2:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-cgk1-2.cdn.whatsapp.net.",
+    "ipv4": "31.13.95.60",
+    "ipv6": [
+      "2a03:2880:f24d:1c3:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "whatsapp.com.",
+    "ipv4": "163.70.151.60",
+    "ipv6": [
+      "2a03:2880:f289:1d1:face:b00c:0:167"
+    ],
+    "mx": [
+      "mxa-00082601.gslb.pphosted.com.",
+      "mxb-00082601.gslb.pphosted.com."
+    ]
+  },
+  {
+    "domain": "media.fams2-2.fna.whatsapp.net.",
+    "ipv4": "83.119.28.161",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-kut2-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.10.53",
+    "ipv6": [
+      "2a03:2880:f22a:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "w21ac4c381-gi2damjxha3tqmd.snr.whatsapp.net.",
+    "ipv4": "157.240.14.52",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "w44ed2f7a1-ge3damjzge2danb.snr.whatsapp.net.",
+    "ipv4": "157.240.220.60",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-iad3-1.cdn.whatsapp.net.",
+    "ipv4": "31.13.66.56",
+    "ipv6": [
+      "2a03:2880:f203:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-dus1-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.27.54",
+    "ipv6": [
+      "2a03:2880:f23f:c7:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "api.whatsapp.com.",
+    "ipv4": "157.240.8.53",
+    "ipv6": [
+      "web.whatsapp.com.",
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f219:80c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "web.whatsapp.com."
+    ]
+  },
+  {
+    "domain": "media-bru2-1.cdn.whatsapp.net.",
+    "ipv4": "179.60.195.51",
+    "ipv6": [
+      "2a03:2880:f221:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftol1-1.fna.whatsapp.net.",
+    "ipv4": "66.209.140.34",
+    "ipv6": [
+      "2607:fa10:102:1000:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fyto2-1.fna.whatsapp.net.",
+    "ipv4": "24.235.59.226",
+    "ipv6": [
+      "2607:fbd8:2403:1:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fjan1-1.fna.whatsapp.net.",
+    "ipv4": "173.235.118.32",
+    "ipv6": [
+      "2607:f4a0:5001:4:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fcrl2-1.fna.whatsapp.net.",
+    "ipv4": "212.68.208.34",
+    "ipv6": [
+      "2a02:2788:fdf0:15:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "wb639a8241-gqytamrqgqydeojw.snr.whatsapp.net.",
+    "ipv4": "157.240.240.60",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-hkt1-2.cdn.whatsapp.net.",
+    "ipv4": "31.13.75.60",
+    "ipv6": [
+      "2a03:2880:f25a:1c1:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fmex29-1.fna.whatsapp.net.",
+    "ipv4": "189.195.148.161",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-sea1-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.3.54",
+    "ipv6": [
+      "2a03:2880:f201:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "sonar-ams.cdn.whatsapp.net.",
+    "ipv4": "57.144.223.32",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.fcuu3-1.fna.whatsapp.net.",
+    "ipv4": "177.238.191.99",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-cdt1-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.21.52",
+    "ipv6": [
+      "2a03:2880:f230:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fupn1-1.fna.whatsapp.net.",
+    "ipv4": "201.164.65.97",
+    "ipv6": [
+      "2806:260:103e:1:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-qro1-2.cdn.whatsapp.net.",
+    "ipv4": "157.240.25.60",
+    "ipv6": [
+      "2a03:2880:f235:1cd:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fsjd1-1.fna.whatsapp.net.",
+    "ipv4": "189.195.175.98",
+    "ipv6": [
+      "2806:260:1013:2:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ffjr1-5.fna.whatsapp.net.",
+    "ipv4": "5.195.172.35",
+    "ipv6": [
+      "2001:8f8:0:14:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fykz2-1.fna.whatsapp.net.",
+    "ipv4": "207.219.36.98",
+    "ipv6": [
+      "2001:56b:2:30:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fpbc1-2.fna.whatsapp.net.",
+    "ipv4": "200.92.215.225",
+    "ipv6": [
+      "2806:260:1001:7:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-den4-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.28.51",
+    "ipv6": [
+      "2a03:2880:f241:d1:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "wbe33cc861-ge3tanrugiydqnbz.snr.whatsapp.net.",
+    "ipv4": "157.240.13.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.ffjr1-3.fna.whatsapp.net.",
+    "ipv4": "195.229.137.162",
+    "ipv6": [
+      "2001:8f8:0:12a:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fclq1-1.fna.whatsapp.net.",
+    "ipv4": "189.196.29.98",
+    "ipv6": [
+      "2806:260:102e:1:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-atl3-1.cdn.whatsapp.net.",
+    "ipv4": "31.13.65.49",
+    "ipv6": [
+      "2a03:2880:f211:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftij1-2.fna.whatsapp.net.",
+    "ipv4": "187.253.253.34",
+    "ipv6": [
+      "2806:250:c:d:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-cdg2-1.cdn.whatsapp.net.",
+    "ipv4": "179.60.192.51",
+    "ipv6": [
+      "2a03:2880:f21f:c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftij1-1.fna.whatsapp.net.",
+    "ipv4": "177.238.184.34",
+    "ipv6": [
+      "2806:250:c:c:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fymy1-2.fna.whatsapp.net.",
+    "ipv4": "184.150.164.97",
+    "ipv6": [
+      "2001:4958:300:471:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-bos3-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.220.60",
+    "ipv6": [
+      "2a03:2880:f24f:c6:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftrc1-1.fna.whatsapp.net.",
+    "ipv4": "201.132.201.161",
+    "ipv6": [
+      "2806:260:1007:6:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "w99ffb67e1-ge4dqnrqgu4tmmju.snr.whatsapp.net.",
+    "ipv4": "157.240.22.53",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.fcjs2-1.fna.whatsapp.net.",
+    "ipv4": "187.189.206.162",
+    "ipv6": [
+      "2806:2f0:301f:3:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fybz2-2.fna.whatsapp.net.",
+    "ipv4": "184.150.164.225",
+    "ipv6": [
+      "2001:4958:300:477:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fgdl5-1.fna.whatsapp.net.",
+    "ipv4": "189.247.226.34",
+    "ipv6": [
+      "2806:1020:cbff:fe:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-ort2-2.cdn.whatsapp.net.",
+    "ipv4": "157.240.18.52",
+    "ipv6": [
+      "2a03:2880:f227:2c5:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fmel8-1.fna.whatsapp.net.",
+    "ipv4": "203.53.56.162",
+    "ipv6": [
+      "2001:8000:112:140:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fmex40-1.fna.whatsapp.net.",
+    "ipv4": "189.233.252.35",
+    "ipv6": [
+      "2806:1040:cbff:11b:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fbru3-1.fna.whatsapp.net.",
+    "ipv4": "212.68.207.34",
+    "ipv6": [
+      "2a02:2788:fff0:10:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fcul1-1.fna.whatsapp.net.",
+    "ipv4": "200.52.177.97",
+    "ipv6": [
+      "2806:260:100b:6:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fhkg3-2.fna.whatsapp.net.",
+    "ipv4": "219.76.57.225",
+    "ipv6": [
+      "2404:c800:8202:7:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fyyc2-1.fna.whatsapp.net.",
+    "ipv4": "24.244.44.226",
+    "ipv6": [
+      "2001:4e8:0:b049:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "wfc5ba8af1-gi3danrrgq3dmnbx.snr.whatsapp.net.",
+    "ipv4": "31.13.84.51",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-lga3-2.cdn.whatsapp.net.",
+    "ipv4": "157.240.241.60",
+    "ipv6": [
+      "2a03:2880:f212:1d1:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-kut2-2.cdn.whatsapp.net.",
+    "ipv4": "179.60.194.53",
+    "ipv6": [
+      "2a03:2880:f22a:1c6:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fhkg3-1.fna.whatsapp.net.",
+    "ipv4": "219.76.57.161",
+    "ipv6": [
+      "2404:c800:8202:6:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftpe4-2.fna.whatsapp.net.",
+    "ipv4": "203.211.6.97",
+    "ipv6": [
+      "2001:4546:1000:1002:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.felp1-1.fna.whatsapp.net.",
+    "ipv4": "66.208.120.97",
+    "ipv6": [
+      "2604:d600:0:12:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftpe7-1.fna.whatsapp.net.",
+    "ipv4": "203.74.65.34",
+    "ipv6": [
+      "2001:b034:1013:101:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fmty3-1.fna.whatsapp.net.",
+    "ipv4": "190.123.43.99",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.ftpe7-4.fna.whatsapp.net.",
+    "ipv4": "203.74.65.226",
+    "ipv6": [
+      "2001:b034:1013:202:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftpe7-2.fna.whatsapp.net.",
+    "ipv4": "203.74.65.98",
+    "ipv6": [
+      "2001:b034:1013:102:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fkul13-1.fna.whatsapp.net.",
+    "ipv4": "1.9.91.98",
+    "ipv6": [
+      "2001:e68:1:15:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "b.whatsapp.com.",
+    "ipv4": "163.70.147.60",
+    "ipv6": [
+      "www.whatsapp.com.",
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f289:cd:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "l.wl.co.",
+    "ipv4": "157.240.3.54",
+    "ipv6": [
+      "mmx-ds.cdn.whatsapp.net.",
+      "2a03:2880:f201:c5:face:b00c:0:167"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "media-sin6-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.7.54",
+    "ipv6": [
+      "2a03:2880:f20c:c6:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fmlm1-1.fna.whatsapp.net.",
+    "ipv4": "189.199.95.33",
+    "ipv6": [
+      "2806:260:1009:4:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fkul7-1.fna.whatsapp.net.",
+    "ipv4": "123.136.114.97",
+    "ipv6": [
+      "2405:3800:8001:111:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ftpe7-3.fna.whatsapp.net.",
+    "ipv4": "203.74.65.162",
+    "ipv6": [
+      "2001:b034:1013:201:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "sonar.fyyz1-1.fna.whatsapp.net.",
+    "ipv4": "209.148.162.97",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media-mrs2-2.cdn.whatsapp.net.",
+    "ipv4": "157.240.196.60",
+    "ipv6": [
+      "2a03:2880:f242:1c2:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fdxb2-1.fna.whatsapp.net.",
+    "ipv4": "87.201.45.96",
+    "ipv6": [
+      "2a00:f28:c3f:4000:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ffjr1-6.fna.whatsapp.net.",
+    "ipv4": "5.195.172.99",
+    "ipv6": [
+      "2001:8f8:0:15:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "c.ns.whatsapp.net.",
+    "ipv4": "185.89.218.12",
+    "ipv6": [
+      "2a03:2880:f1fc:c:face:b00c:0:35"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-dfw5-2.cdn.whatsapp.net.",
+    "ipv4": "31.13.93.53",
+    "ipv6": [
+      "2a03:2880:f234:1c6:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-sin6-4.cdn.whatsapp.net.",
+    "ipv4": "157.240.235.60",
+    "ipv6": [
+      "2a03:2880:f20c:3c1:face:b00c:0:167"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.ffjr1-2.fna.whatsapp.net.",
+    "ipv4": "195.229.137.97",
+    "ipv6": [
+      "2001:8f8:0:129:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fgdl5-4.fna.whatsapp.net.",
+    "ipv4": "189.247.95.163",
+    "ipv6": [
+      "2806:1030:cbff:101:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fgdl1-3.fna.whatsapp.net.",
+    "ipv4": "189.199.78.162",
+    "ipv6": [
+      "2806:260:1005:9:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fgdl1-4.fna.whatsapp.net.",
+    "ipv4": "189.199.78.226",
+    "ipv6": [
+      "2806:260:1005:a:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media.fqro1-1.fna.whatsapp.net.",
+    "ipv4": "189.198.159.97",
+    "ipv6": [
+      "2806:260:1008:3:face:b00c:3333:7020"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "media-lhr8-1.cdn.whatsapp.net.",
+    "ipv4": "157.240.221.60",
+    "ipv6": [
+      "2a03:2880:f258:c8:face:b00c:0:167"
+    ],
+    "mx": []
+  }
+]

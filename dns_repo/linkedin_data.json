@@ -1,0 +1,1766 @@
+[
+  {
+    "domain": "www.linkedin.com.",
+    "ipv4": "172.64.146.215",
+    "ipv6": [
+      "cf-afd.www.linkedin.com.",
+      "www.linkedin.com.cdn.cloudflare.net.",
+      "2606:4700:4400::6812:2929",
+      "2606:4700:4400::ac40:92d7"
+    ],
+    "mx": [
+      "cf-afd.www.linkedin.com.",
+      "www.linkedin.com.cdn.cloudflare.net."
+    ]
+  },
+  {
+    "domain": "platform-azur.linkedin.com.",
+    "ipv4": "13.107.246.76",
+    "ipv6": [
+      "li-prod-platform-bbcmaxdne8hjgagv.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0048.t-0009.t-msedge.net.",
+      "s-part-0048.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::76"
+    ],
+    "mx": [
+      "li-prod-platform-bbcmaxdne8hjgagv.z01.azurefd.net.",
+      "shed.dual-low.s-part-0029.t-0009.t-msedge.net.",
+      "s-part-0029.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "px.ads.linkedin.com.",
+    "ipv4": "150.171.22.12",
+    "ipv6": [
+      "afd-lnkd.www.linkedin.com.",
+      "www-linkedin-com.ln-0002.ln-msedge.net.",
+      "ln-0002.ln-msedge.net.",
+      "2620:1ec:50::12"
+    ],
+    "mx": [
+      "afd-lnkd.www.linkedin.com.",
+      "ln-0002.ln-msedge.net.",
+      "www-linkedin-com.ln-0002.ln-msedge.net."
+    ]
+  },
+  {
+    "domain": "mix.linkedin.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": [
+      "pop-lor1-lx.mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "px4.ads.linkedin.com.",
+    "ipv4": "150.171.22.14",
+    "ipv6": [],
+    "mx": [
+      "ipv4.l-0005.l-msedge.net.",
+      "px4-ads-linkedin-com.ipv4.l-0005.l-msedge.net."
+    ]
+  },
+  {
+    "domain": "rtb-us-east.linkedin.com.",
+    "ipv4": "144.2.12.31",
+    "ipv6": [
+      "pop-lva1-tg.rtb.linkedin.com.",
+      "2620:119:50e5:101::9002:c1f"
+    ],
+    "mx": [
+      "pop-lva1-tg.rtb.linkedin.com."
+    ]
+  },
+  {
+    "domain": "linkedin.com.",
+    "ipv4": "150.171.22.12",
+    "ipv6": [
+      "2620:1ec:50::12"
+    ],
+    "mx": [
+      "mail-a.linkedin.com.",
+      "mail-c.linkedin.com.",
+      "mail-d.linkedin.com.",
+      "mail.linkedin.com."
+    ]
+  },
+  {
+    "domain": "platform-akam.linkedin.com.",
+    "ipv4": "23.55.236.77",
+    "ipv6": [
+      "od.linkedin.edgesuite.net.",
+      "a1916.dscg2.akamai.net.",
+      "2600:1405:e400:4::1737:ec44",
+      "2600:1405:e400:4::1737:ec4d"
+    ],
+    "mx": [
+      "a1916.dscg2.akamai.net.",
+      "od.linkedin.edgesuite.net."
+    ]
+  },
+  {
+    "domain": "platform.linkedin.com.",
+    "ipv4": "172.64.154.50",
+    "ipv6": [
+      "2-01-2c3e-0055.cdx.cedexis.net.",
+      "static.licdn.com.cdn.cloudflare.net.",
+      "2606:4700:4400::6812:21ce",
+      "2606:4700:4400::ac40:9a32"
+    ],
+    "mx": [
+      "2-01-2c3e-0055.cdx.cedexis.net.",
+      "static.licdn.com.cdn.cloudflare.net."
+    ]
+  },
+  {
+    "domain": "za.linkedin.com.",
+    "ipv4": "13.107.246.64",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0036.t-0009.t-msedge.net.",
+      "s-part-0036.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::64"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "realtime.www.linkedin.com.",
+    "ipv4": "172.64.146.215",
+    "ipv6": [
+      "www.linkedin.com.",
+      "cf-afd.www.linkedin.com.",
+      "www.linkedin.com.cdn.cloudflare.net.",
+      "2606:4700:4400::ac40:92d7",
+      "2606:4700:4400::6812:2929"
+    ],
+    "mx": [
+      "cf-afd.www.linkedin.com.",
+      "www.linkedin.com.",
+      "www.linkedin.com.cdn.cloudflare.net."
+    ]
+  },
+  {
+    "domain": "platform-ecst.linkedin.com.",
+    "ipv4": "152.199.22.144",
+    "ipv6": [
+      "cs767.wpc.epsiloncdn.net.",
+      "2606:2800:233:66b5:799a:7cd3:f74d:7071"
+    ],
+    "mx": [
+      "cs767.wpc.epsiloncdn.net."
+    ]
+  },
+  {
+    "domain": "rum18.perf.linkedin.com.",
+    "ipv4": "150.171.23.12",
+    "ipv6": [
+      "ln-0002.ln-dc-msedge.net.",
+      "2620:1ec:51::12"
+    ],
+    "mx": [
+      "ln-0002.ln-dc-msedge.net."
+    ]
+  },
+  {
+    "domain": "www-linkedin-com.l-0005.l-msedge.net.",
+    "ipv4": "13.107.42.14",
+    "ipv6": [
+      "l-0005.l-msedge.net.",
+      "2620:1ec:21::14"
+    ],
+    "mx": [
+      "l-0005.l-dc-msedge.net."
+    ]
+  },
+  {
+    "domain": "rum8.perf.linkedin.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "www-src.linkedin.com.",
+      "mix.linkedin.com.",
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": [
+      "any-na-lx.mix.linkedin.com.",
+      "mix.linkedin.com.",
+      "www-src.linkedin.com."
+    ]
+  },
+  {
+    "domain": "rum15.perf.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": [
+      "linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net.",
+      "shed.dual-low.s-part-0004.t-0009.t-msedge.net.",
+      "s-part-0004.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "ca.linkedin.com.",
+    "ipv4": "13.107.246.35",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0007.t-0009.t-msedge.net.",
+      "s-part-0007.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::35"
+    ],
+    "mx": [
+      "any-na-lx.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "rum20.perf.linkedin.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "mix.linkedin.com.",
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": [
+      "any-na-lx.mix.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "be.linkedin.com.",
+    "ipv4": "144.2.12.25",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "mix.linkedin.com.",
+      "pop-lva1-lx.mix.linkedin.com.",
+      "2620:119:50e5:101::9002:c19"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "sg.linkedin.com.",
+    "ipv4": "13.107.253.70",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0042.t-0009.t-msedge.net.",
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "dual.s-part-0042.t-0009.fb-t-msedge.net.",
+      "s-part-0042.t-0009.fb-t-msedge.net.",
+      "2620:1ec:29:1::70"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "any-na.mix.linkedin.com.",
+    "ipv4": "108.174.10.14",
+    "ipv6": [
+      "2620:109:c002::6cae:a0e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.bizographics.com.",
+    "ipv4": "144.2.12.25",
+    "ipv6": [
+      "mix-cn.linkedin.com.",
+      "pop-lva1-lx.mix.linkedin.com.",
+      "2620:119:50e5:101::9002:c19"
+    ],
+    "mx": [
+      "glb-na.mix.linkedin.com.",
+      "pop-esv5.mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "pop-eda6.www.linkedin.com.",
+    "ipv4": "108.174.11.65",
+    "ipv6": [
+      "2620:119:50e3:101::6cae:b41"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "dc.ads.linkedin.com.",
+    "ipv4": "150.171.22.12",
+    "ipv6": [
+      "px.ads.linkedin.com.",
+      "afd-lnkd.www.linkedin.com.",
+      "www-linkedin-com.ln-0002.ln-msedge.net.",
+      "ln-0002.ln-msedge.net.",
+      "2620:1ec:50::12"
+    ],
+    "mx": [
+      "afd-lnkd.www.linkedin.com.",
+      "ln-0002.ln-msedge.net.",
+      "px.ads.linkedin.com.",
+      "www-linkedin-com.ln-0002.ln-msedge.net."
+    ]
+  },
+  {
+    "domain": "rum14.perf.linkedin.com.",
+    "ipv4": "150.171.22.12",
+    "ipv6": [
+      "www-linkedin-com.ln-0002.ln-msedge.net.",
+      "ln-0002.ln-msedge.net.",
+      "2620:1ec:50::12"
+    ],
+    "mx": [
+      "ln-0002.ln-msedge.net.",
+      "www-linkedin-com.ln-0002.ln-msedge.net."
+    ]
+  },
+  {
+    "domain": "carddav.linkedin.com.",
+    "ipv4": "144.2.12.25",
+    "ipv6": [
+      "mix.linkedin.com.",
+      "pop-lva1-lx.mix.linkedin.com.",
+      "2620:119:50e5:101::9002:c19"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "rtb-us-west.linkedin.com.",
+    "ipv4": "108.174.10.31",
+    "ipv6": [
+      "any-na-tg.rtb.linkedin.com.",
+      "2620:109:c002::6cae:a1f"
+    ],
+    "mx": [
+      "any-na-tg.rtb.linkedin.com."
+    ]
+  },
+  {
+    "domain": "afd.perf.linkedin.com.",
+    "ipv4": "150.171.22.16",
+    "ipv6": [
+      "afd-perf-linkedin-com.ln-0006.ln-msedge.net.",
+      "ln-0006.ln-msedge.net.",
+      "2620:1ec:50::16"
+    ],
+    "mx": [
+      "afd-perf-linkedin-com.ln-0006.ln-msedge.net.",
+      "ln-0006.ln-msedge.net."
+    ]
+  },
+  {
+    "domain": "nl.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "shed.dual-low.s-part-0041.t-0009.t-msedge.net.",
+      "s-part-0041.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "linkedin.com.lookup.dkimwl.org.",
+    "ipv4": "127.0.20.5",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "id.linkedin.com.",
+    "ipv4": "13.107.246.35",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0007.t-0009.t-msedge.net.",
+      "s-part-0007.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::35"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "shed.dual-low.s-part-0038.t-0009.t-msedge.net.",
+      "s-part-0038.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "gb.linkedin.com.",
+    "ipv4": "13.107.246.51",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0023.t-0009.t-msedge.net.",
+      "s-part-0023.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::51"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "glb-na.mix.linkedin.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "mix-cn.linkedin.com.",
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": [
+      "pop-lor1.mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "rum2.perf.linkedin.com.",
+    "ipv4": "13.107.42.16",
+    "ipv6": [
+      "l-0007.l-msedge.net.",
+      "2620:1ec:21::16"
+    ],
+    "mx": [
+      "l-0005.l-msedge.net.",
+      "www.linkedin.com.",
+      "www-linkedin-com.l-0005.l-msedge.net."
+    ]
+  },
+  {
+    "domain": "pop-edc2.mix.linkedin.com.",
+    "ipv4": "108.174.11.85",
+    "ipv6": [
+      "2620:119:50e4:101::6cae:b55"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "fr.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "ie.linkedin.com.",
+    "ipv4": "13.107.246.40",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::40"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "www-src.linkedin.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "mix.linkedin.com.",
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mailb.linkedin.com.lookup.dkimwl.org.",
+    "ipv4": "127.0.20.5",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ponf.linkedin.com.",
+    "ipv4": "144.2.9.1",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "es.linkedin.com.",
+    "ipv4": "13.107.253.70",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0042.t-0009.t-msedge.net.",
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "dual.s-part-0042.t-0009.fb-t-msedge.net.",
+      "s-part-0042.t-0009.fb-t-msedge.net.",
+      "2620:1ec:29:1::70"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "maile.linkedin.com.lookup.dkimwl.org.",
+    "ipv4": "127.0.20.5",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mail-c.linkedin.com.",
+    "ipv4": "108.174.3.215",
+    "ipv6": [
+      "2620:109:c006:104::215"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "pop-esv5.mix.linkedin.com.",
+    "ipv4": "108.174.11.37",
+    "ipv6": [
+      "2620:119:50e1:101::6cae:b25"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "br.linkedin.com.",
+    "ipv4": "13.107.246.69",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0041.t-0009.t-msedge.net.",
+      "s-part-0041.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::69"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "mx.linkedin.com.",
+    "ipv4": "13.107.246.40",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::40"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "de.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "mail.linkedin.com.",
+    "ipv4": "108.174.0.215",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "rtb.linkedin.com.",
+    "ipv4": "108.174.10.31",
+    "ipv6": [
+      "any-na-tg.rtb.linkedin.com.",
+      "2620:109:c002::6cae:a1f"
+    ],
+    "mx": [
+      "any-na-tg.rtb.linkedin.com."
+    ]
+  },
+  {
+    "domain": "cdn.linkedin.com.edgesuite.net.",
+    "ipv4": "2.17.162.6",
+    "ipv6": [
+      "a1111.dscg.akamai.net.",
+      "2600:1419:bc00::1736:1523",
+      "2600:1419:bc00::1736:1530"
+    ],
+    "mx": [
+      "a1111.dscg.akamai.net."
+    ]
+  },
+  {
+    "domain": "business.linkedin.com.",
+    "ipv4": "13.107.253.70",
+    "ipv6": [
+      "microsites-cn.linkedin.com.",
+      "microsites.linkedin.com.",
+      "linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0042.t-0009.t-msedge.net.",
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "dual.s-part-0042.t-0009.fb-t-msedge.net.",
+      "s-part-0042.t-0009.fb-t-msedge.net.",
+      "2620:1ec:29:1::70"
+    ],
+    "mx": [
+      "afd-microsites.linkedin.com.",
+      "any-na.mix.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "bd.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "pop-ltx1-lx.www.linkedin.com.",
+    "ipv4": "144.2.15.21",
+    "ipv6": [
+      "2620:119:50e8:101::9002:f15"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "e.linkedin.com.",
+    "ipv4": "2.22.251.13",
+    "ipv6": [],
+    "mx": [
+      "imh.rsys132.origin.responsys.ocs.oraclecloud.com."
+    ]
+  },
+  {
+    "domain": "mail-a.linkedin.com.",
+    "ipv4": "108.174.0.215",
+    "ipv6": [
+      "2620:119:50c0:207::215"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rtb-linkedin-com.l-0015.l-msedge.net.",
+    "ipv4": "13.107.42.24",
+    "ipv6": [
+      "l-0015.l-msedge.net.",
+      "2620:1ec:21::24"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "maile-aa.linkedin.com.",
+    "ipv4": "108.174.3.193",
+    "ipv6": [
+      "2620:109:c006:104::193"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "learning.linkedin.com.",
+    "ipv4": "13.107.246.35",
+    "ipv6": [
+      "microsites-cn.linkedin.com.",
+      "microsites.linkedin.com.",
+      "linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0007.t-0009.t-msedge.net.",
+      "s-part-0007.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::35"
+    ],
+    "mx": [
+      "afd-microsites.linkedin.com.",
+      "any-na.mix.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "training.sales.linkedin.com.",
+    "ipv4": "3.170.73.10",
+    "ipv6": [],
+    "mx": [
+      "training.sales.linkedin.com.skilljarapp.com."
+    ]
+  },
+  {
+    "domain": "mix-cn.linkedin.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "lnkd.in.",
+    "ipv4": "150.171.22.12",
+    "ipv6": [
+      "2620:1ec:50::12"
+    ],
+    "mx": [
+      "mail-c.linkedin.com.",
+      "mail-d.linkedin.com.",
+      "mail.linkedin.com."
+    ]
+  },
+  {
+    "domain": "in.linkedin.com.",
+    "ipv4": "13.107.253.70",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0042.t-0009.t-msedge.net.",
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "dual.s-part-0042.t-0009.fb-t-msedge.net.",
+      "s-part-0042.t-0009.fb-t-msedge.net.",
+      "2620:1ec:29:1::70"
+    ],
+    "mx": [
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "dual.s-part-0039.t-0009.fb-t-msedge.net.",
+      "shed.dual-low.s-part-0039.t-0009.t-msedge.net.",
+      "s-part-0039.t-0009.fb-t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "any-na.www.linkedin.com.",
+    "ipv4": "108.174.10.10",
+    "ipv6": [
+      "2620:109:c002::6cae:a0a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "au.linkedin.com.",
+    "ipv4": "13.107.246.32",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0004.t-0009.t-msedge.net.",
+      "s-part-0004.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::32"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "shed.dual-low.s-part-0004.t-0009.t-msedge.net.",
+      "s-part-0004.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "nz.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "uk.linkedin.com.",
+    "ipv4": "13.107.246.35",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0007.t-0009.t-msedge.net.",
+      "s-part-0007.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::35"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "shed.dual-low.s-part-0036.t-0009.t-msedge.net.",
+      "s-part-0036.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "ng.linkedin.com.",
+    "ipv4": "13.107.246.35",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0007.t-0009.t-msedge.net.",
+      "s-part-0007.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::35"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "sc.linkedin.com.",
+    "ipv4": "13.107.246.64",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0036.t-0009.t-msedge.net.",
+      "s-part-0036.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::64"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "bounce.linkedin.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mail-a.linkedin.com.",
+      "mail-c.linkedin.com.",
+      "mail-d.linkedin.com.",
+      "mail.linkedin.com."
+    ]
+  },
+  {
+    "domain": "linkedin.com.rbl2.mcafee.com.",
+    "ipv4": "127.0.0.9",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hk.linkedin.com.",
+    "ipv4": "13.107.253.39",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "dual.s-part-0011.t-0009.fb-t-msedge.net.",
+      "s-part-0011.t-0009.fb-t-msedge.net.",
+      "2620:1ec:29:1::39"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "se.linkedin.com.",
+    "ipv4": "13.107.246.69",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0041.t-0009.t-msedge.net.",
+      "s-part-0041.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::69"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "pop-edc2.www.linkedin.com.",
+    "ipv4": "108.174.11.81",
+    "ipv6": [
+      "2620:119:50e4:101::6cae:b51"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.linkedin.cn.",
+    "ipv4": "52.130.75.155",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "tr.linkedin.com.",
+    "ipv4": "13.107.253.70",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0042.t-0009.t-msedge.net.",
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "dual.s-part-0042.t-0009.fb-t-msedge.net.",
+      "s-part-0042.t-0009.fb-t-msedge.net.",
+      "2620:1ec:29:1::70"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "pop-lor1-lx.www.linkedin.com.",
+    "ipv4": "144.2.14.21",
+    "ipv6": [
+      "2620:119:50e7:101::9002:e15"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rum3.perf.linkedin.com.",
+    "ipv4": "108.174.10.20",
+    "ipv6": [
+      "any-na-lx.www.linkedin.com.",
+      "2620:109:c002::6cae:a14"
+    ],
+    "mx": [
+      "any-na-lx.www.linkedin.com."
+    ]
+  },
+  {
+    "domain": "tw.linkedin.com.",
+    "ipv4": "13.107.246.40",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::40"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "108-174-0-15.fwd.linkedin.com.",
+    "ipv4": "108.174.0.15",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "wf.linkedin.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "mix.linkedin.com.",
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mail48-v62.linkedin.com.",
+    "ipv4": "69.28.147.177",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mail439-v60.linkedin.com.",
+    "ipv4": "108.174.6.39",
+    "ipv6": [
+      "2620:109:c003:104::39"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.linkedinmobileapp.com.",
+    "ipv4": "144.2.15.25",
+    "ipv6": [
+      "mix-cn.linkedin.com.",
+      "pop-ltx1-lx.mix.linkedin.com.",
+      "2620:119:50e8:101::9002:f19"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "pop-esv5.www.linkedin.com.",
+    "ipv4": "108.174.11.33",
+    "ipv6": [
+      "2620:119:50e1:101::6cae:b21"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "pop-lva1.www.linkedin.com.",
+    "ipv4": "144.2.12.1",
+    "ipv6": [
+      "2620:119:50e5:101::9002:c01"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cctld.linkedin.com.",
+    "ipv4": "13.107.246.32",
+    "ipv6": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0004.t-0009.t-msedge.net.",
+      "s-part-0004.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::32"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "shed.dual-low.s-part-0038.t-0009.t-msedge.net.",
+      "s-part-0038.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "careers.linkedin.com.",
+    "ipv4": "13.107.246.35",
+    "ipv6": [
+      "microsites.linkedin.com.",
+      "linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0007.t-0009.t-msedge.net.",
+      "s-part-0007.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::35"
+    ],
+    "mx": [
+      "linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net.",
+      "microsites.linkedin.com.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "pop-lva1-lx.www.linkedin.com.",
+    "ipv4": "144.2.12.21",
+    "ipv6": [
+      "2620:119:50e5:101::9002:c15"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "gh.linkedin.com.",
+    "ipv4": "13.107.246.35",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0007.t-0009.t-msedge.net.",
+      "s-part-0007.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::35"
+    ],
+    "mx": [
+      "cctld.linkedin.com.",
+      "mix.linkedin.com.",
+      "na-rr.mix.linkedin.com.",
+      "pop-lor1.mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "pop-ltx1.www.linkedin.com.",
+    "ipv4": "144.2.15.1",
+    "ipv6": [
+      "2620:119:50e8:101::9002:f01"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "it.linkedin.com.",
+    "ipv4": "13.107.246.41",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0013.t-0009.t-msedge.net.",
+      "s-part-0013.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::41"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "www.lynda.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [
+      "mix.linkedin.com.",
+      "any-na-lx.mix.linkedin.com.",
+      "2620:109:c002::6cae:a18"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "cn.linkedin.com.",
+    "ipv4": "13.107.246.40",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::40"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "maile-ba.linkedin.com.",
+    "ipv4": "108.174.3.201",
+    "ipv6": [
+      "2620:109:c006:104::201"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mail-d.linkedin.com.",
+    "ipv4": "108.174.6.215",
+    "ipv6": [
+      "2620:109:c003:104::215"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "help.linkedin.com.",
+    "ipv4": "147.154.41.163",
+    "ipv6": [],
+    "mx": [
+      "linkedin.custhelp.com."
+    ]
+  },
+  {
+    "domain": "pop-lor1.www.linkedin.com.",
+    "ipv4": "144.2.14.1",
+    "ipv6": [
+      "2620:119:50e7:101::9002:e01"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "pk.linkedin.com.",
+    "ipv4": "13.107.246.57",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0029.t-0009.t-msedge.net.",
+      "s-part-0029.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::57"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "maile-ab.linkedin.com.",
+    "ipv4": "108.174.3.194",
+    "ipv6": [
+      "2620:109:c006:104::194"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "px.ads.linkedin.cn.",
+    "ipv4": "150.171.22.12",
+    "ipv6": [
+      "px.ads.linkedin.com.",
+      "afd-lnkd.www.linkedin.com.",
+      "www-linkedin-com.ln-0002.ln-msedge.net.",
+      "ln-0002.ln-msedge.net.",
+      "2620:1ec:50::12"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us.linkedin.com.",
+    "ipv4": "13.107.246.64",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0036.t-0009.t-msedge.net.",
+      "s-part-0036.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::64"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "shed.dual-low.s-part-0010.t-0009.t-msedge.net.",
+      "s-part-0010.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "dk.linkedin.com.",
+    "ipv4": "13.107.246.57",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0029.t-0009.t-msedge.net.",
+      "s-part-0029.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::57"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "maile-cb.linkedin.com.",
+    "ipv4": "108.174.6.194",
+    "ipv6": [
+      "2620:109:c003:104::194"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "jp.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "108-174-11-37.fwd.linkedin.com.",
+    "ipv4": "108.174.11.37",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mail345.linkedin.com.",
+    "ipv4": "108.174.3.245",
+    "ipv6": [
+      "2620:109:c006:104::f5"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ir.linkedin.com.",
+    "ipv4": "13.107.253.70",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0042.t-0009.t-msedge.net.",
+      "azurefd-t-fb-prod.trafficmanager.net.",
+      "dual.s-part-0042.t-0009.fb-t-msedge.net.",
+      "s-part-0042.t-0009.fb-t-msedge.net.",
+      "2620:1ec:29:1::70"
+    ],
+    "mx": [
+      "cctld.linkedin.com.",
+      "glb-na.mix.linkedin.com.",
+      "mix.linkedin.com.",
+      "pop-esv5.mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "maile-ge.linkedin.com.",
+    "ipv4": "108.174.0.197",
+    "ipv6": [
+      "2620:119:50c0:207::197"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "alerts-linkedin.com.",
+    "ipv4": "192.64.119.202",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "na.linkedin.com.",
+    "ipv4": "13.107.246.64",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0036.t-0009.t-msedge.net.",
+      "s-part-0036.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::64"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "realtime.www.linkedin.cn.",
+    "ipv4": "144.2.15.25",
+    "ipv6": [
+      "mix.linkedin.com.",
+      "pop-ltx1-lx.mix.linkedin.com.",
+      "2620:119:50e8:101::9002:f19"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "vn.linkedin.com.",
+    "ipv4": "13.107.246.41",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0013.t-0009.t-msedge.net.",
+      "s-part-0013.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::41"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "108-174-2-213.fwd.linkedin.com.",
+    "ipv4": "108.174.2.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "108-174-12-88.fwd.linkedin.com.",
+    "ipv4": "108.174.12.88",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "108-174-3-210.fwd.linkedin.com.",
+    "ipv4": "108.174.3.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "199-101-163-216.fwd.linkedin.com.",
+    "ipv4": "199.101.163.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "216-52-242-174.fwd.linkedin.com.",
+    "ipv4": "216.52.242.174",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "8-22-120-150.fwd.linkedin.com.",
+    "ipv4": "8.22.120.150",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "199-101-162-220.fwd.linkedin.com.",
+    "ipv4": "199.101.162.220",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "108-174-14-214.fwd.linkedin.com.",
+    "ipv4": "108.174.14.214",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "glb-na.api.linkedin.com.",
+    "ipv4": "144.2.15.24",
+    "ipv6": [
+      "na-rr.api.linkedin.com.",
+      "pop-ltx1-lx.api.linkedin.com.",
+      "2620:119:50e8:101::9002:f18"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "merchantpool1.linkedin.com.",
+    "ipv4": "172.211.123.245",
+    "ipv6": [],
+    "mx": [
+      "merchantpool1.fpt.microsoft.com.",
+      "pme-dfp-greenid-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "108-174-15-116.fwd.linkedin.com.",
+    "ipv4": "108.174.15.116",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "108-174-6-117.fwd.linkedin.com.",
+    "ipv4": "108.174.6.117",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "exp5.www.linkedin.com.",
+    "ipv4": "150.171.22.12",
+    "ipv6": [
+      "afd-wcs.www.linkedin.com.",
+      "www-linkedin-com.ln-0002.ln-msedge.net.",
+      "ln-0002.ln-msedge.net.",
+      "2620:1ec:50::12"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "108-174-9-171.fwd.linkedin.com.",
+    "ipv4": "108.174.9.171",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "108-174-4-23.fwd.linkedin.com.",
+    "ipv4": "108.174.4.23",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "maila-ee.linkedin.com.",
+    "ipv4": "199.101.162.37",
+    "ipv6": [
+      "2620:109:c00d:104::37"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "108-174-8-243.fwd.linkedin.com.",
+    "ipv4": "108.174.8.243",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "108-174-5-163.fwd.linkedin.com.",
+    "ipv4": "108.174.5.163",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "108-174-8-126.fwd.linkedin.com.",
+    "ipv4": "108.174.8.126",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ch.linkedin.com.",
+    "ipv4": "13.107.246.51",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0023.t-0009.t-msedge.net.",
+      "s-part-0023.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::51"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "108-174-0-4.fwd.linkedin.com.",
+    "ipv4": "108.174.0.4",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "pop-vmi1-alpha.api.linkedin.com.",
+    "ipv4": "108.174.11.20",
+    "ipv6": [
+      "2620:119:50e0:105::6cae:b14"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "108-174-13-121.fwd.linkedin.com.",
+    "ipv4": "108.174.13.121",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "content.linkedin.com.",
+    "ipv4": "2.19.252.143",
+    "ipv6": [
+      "od.linkedin.edgesuite.net.",
+      "a1916.dscg2.akamai.net.",
+      "2a02:26f0:1c80:4::212:be4f",
+      "2a02:26f0:1c80:4::212:be5b"
+    ],
+    "mx": [
+      "a1916.dscg2.akamai.net.",
+      "od.linkedin.edgesuite.net."
+    ]
+  },
+  {
+    "domain": "video2brain.com.",
+    "ipv4": "108.174.10.24",
+    "ipv6": [],
+    "mx": [
+      "mail-a.linkedin.com.",
+      "mail-c.linkedin.com.",
+      "mail-d.linkedin.com.",
+      "mail.linkedin.com."
+    ]
+  },
+  {
+    "domain": "ve.linkedin.com.",
+    "ipv4": "13.107.246.40",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::40"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "mailc-ae.linkedin.com.",
+    "ipv4": "108.174.3.165",
+    "ipv6": [
+      "2620:109:c006:104::165"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "maile-ac.linkedin.com.",
+    "ipv4": "108.174.3.195",
+    "ipv6": [
+      "2620:109:c006:104::195"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "gt.linkedin.com.",
+    "ipv4": "13.107.246.41",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0013.t-0009.t-msedge.net.",
+      "s-part-0013.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::41"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "tt.linkedin.com.",
+    "ipv4": "13.107.246.51",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0023.t-0009.t-msedge.net.",
+      "s-part-0023.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::51"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "maile-df.linkedin.com.",
+    "ipv4": "108.174.6.206",
+    "ipv6": [
+      "2620:109:c003:104::206"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ar.linkedin.com.",
+    "ipv4": "13.107.246.32",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0004.t-0009.t-msedge.net.",
+      "s-part-0004.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::32"
+    ],
+    "mx": [
+      "cctld.linkedin.com.",
+      "glb-na.mix.linkedin.com.",
+      "mix.linkedin.com.",
+      "pop-esv5.mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "maile-db.linkedin.com.",
+    "ipv4": "108.174.6.202",
+    "ipv6": [
+      "2620:109:c003:104::202"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mailc-ca.linkedin.com.",
+    "ipv4": "108.174.6.161",
+    "ipv6": [
+      "2620:109:c003:104::161"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "sv.linkedin.com.",
+    "ipv4": "13.107.246.51",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0023.t-0009.t-msedge.net.",
+      "s-part-0023.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::51"
+    ],
+    "mx": [
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "cctld.linkedin.com.",
+      "shed.dual-low.s-part-0012.t-0009.t-msedge.net.",
+      "s-part-0012.t-0009.t-msedge.net.",
+      "star-azurefd-prod.trafficmanager.net."
+    ]
+  },
+  {
+    "domain": "mailb-af.linkedin.com.",
+    "ipv4": "108.174.3.150",
+    "ipv6": [
+      "2620:109:c006:104::150"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ph.linkedin.com.",
+    "ipv4": "13.107.246.73",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0045.t-0009.t-msedge.net.",
+      "s-part-0045.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::73"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  },
+  {
+    "domain": "pa.linkedin.com.",
+    "ipv4": "13.107.246.41",
+    "ipv6": [
+      "cctld.linkedin.com.",
+      "cctld-d8ene4cje6dfh5g8.z01.azurefd.net.",
+      "star-azurefd-prod.trafficmanager.net.",
+      "shed.dual-low.s-part-0013.t-0009.t-msedge.net.",
+      "s-part-0013.t-0009.t-msedge.net.",
+      "2620:1ec:bdf::41"
+    ],
+    "mx": [
+      "any-na.mix.linkedin.com.",
+      "cctld.linkedin.com.",
+      "mix.linkedin.com."
+    ]
+  }
+]

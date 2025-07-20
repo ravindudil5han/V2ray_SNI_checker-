@@ -1,0 +1,1427 @@
+[
+  {
+    "domain": "us02zpns.zoom.us.",
+    "ipv4": "170.114.15.218",
+    "ipv6": [
+      "zpns.zoom.us.",
+      "zpns-byoip-va.zoom.us.",
+      "2407:30c0:100:723:20a1:cc8a:819f:1094"
+    ],
+    "mx": [
+      "zpns-byoip-va.zoom.us.",
+      "zpns.zoom.us."
+    ]
+  },
+  {
+    "domain": "us04zpns.zoom.us.",
+    "ipv4": "170.114.15.225",
+    "ipv6": [
+      "zpns.zoom.us.",
+      "zpns-byoip-va.zoom.us.",
+      "2407:30c0:100:723:6198:7df5:e507:ab8e"
+    ],
+    "mx": [
+      "zpns-byoip-va.zoom.us.",
+      "zpns.zoom.us."
+    ]
+  },
+  {
+    "domain": "zoom.us.",
+    "ipv4": "170.114.52.2",
+    "ipv6": [
+      "2407:30c0:182::aa72:3402"
+    ],
+    "mx": [
+      "mxa-00569201.gslb.pphosted.com.",
+      "mxb-00569201.gslb.pphosted.com."
+    ]
+  },
+  {
+    "domain": "mpapis.zoom.us.",
+    "ipv4": "170.114.52.22",
+    "ipv6": [
+      "marketplace.zoom.us.",
+      "2407:30c0:182::aa72:3416"
+    ],
+    "mx": [
+      "marketplace.zoom.us."
+    ]
+  },
+  {
+    "domain": "zpns.zoom.us.",
+    "ipv4": "170.114.15.219",
+    "ipv6": [
+      "zpns-byoip-va.zoom.us.",
+      "2407:30c0:100:722:4af0:e908:5fdb:518"
+    ],
+    "mx": [
+      "zpns-byoip-va.zoom.us."
+    ]
+  },
+  {
+    "domain": "us02web.zoom.us.",
+    "ipv4": "170.114.52.3",
+    "ipv6": [
+      "2407:30c0:182::aa72:3403"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us."
+    ]
+  },
+  {
+    "domain": "us04xmppapi.zoom.us.",
+    "ipv4": "170.114.7.182",
+    "ipv6": [
+      "us04xmppapi-int.zoom.us.",
+      "im-gateway-xsr-xms-us04-d21833221f436898.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:4405:f309:26f7:9e62:98ba:52cf",
+      "2600:1f18:4405:f30b:8722:fc55:e8aa:aa6c"
+    ],
+    "mx": [
+      "im-gateway-xsr-xms-us04-d21833221f436898.elb.us-east-1.amazonaws.com.",
+      "us04xmppapi-int.zoom.us."
+    ]
+  },
+  {
+    "domain": "us04web.zoom.us.",
+    "ipv4": "170.114.52.4",
+    "ipv6": [
+      "2407:30c0:182::aa72:3404"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us."
+    ]
+  },
+  {
+    "domain": "us04www3.zoom.us.",
+    "ipv4": "170.114.52.4",
+    "ipv6": [
+      "us04web.zoom.us.",
+      "2407:30c0:182::aa72:3404"
+    ],
+    "mx": [
+      "us04web.zoom.us."
+    ]
+  },
+  {
+    "domain": "logfiles.zoom.us.",
+    "ipv4": "170.114.7.147",
+    "ipv6": [
+      "us01logfiles-eks.zoom.us.",
+      "im-gateway-logfiles-us01-77681fef75a195ba.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:4be5:4609:6023:f9a4:8ce8:bddc",
+      "2600:1f18:4be5:460b:4104:d6b7:e59b:fd62"
+    ],
+    "mx": [
+      "im-gateway-logfiles-us01-77681fef75a195ba.elb.us-east-1.amazonaws.com.",
+      "us01logfiles-eks.zoom.us."
+    ]
+  },
+  {
+    "domain": "explore.zoom.us.",
+    "ipv4": "52.84.151.43",
+    "ipv6": [
+      "2600:9000:2600:1600:5:1167:7e00:93a1",
+      "2600:9000:2600:1c00:5:1167:7e00:93a1",
+      "2600:9000:2600:4a00:5:1167:7e00:93a1",
+      "2600:9000:2600:7400:5:1167:7e00:93a1",
+      "2600:9000:2600:800:5:1167:7e00:93a1",
+      "2600:9000:2600:9a00:5:1167:7e00:93a1",
+      "2600:9000:2600:c400:5:1167:7e00:93a1",
+      "2600:9000:2600:f800:5:1167:7e00:93a1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us01sip0c.ny.zoom.us.",
+    "ipv4": "192.204.15.7",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ht-tunnel-va-us-20.cloud.zoom.us.",
+    "ipv4": "134.224.240.219",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us01sip0f.sc.zoom.us.",
+    "ipv4": "192.204.13.7",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ca01ssrweb.zoom.us.",
+    "ipv4": "52.84.151.37",
+    "ipv6": [
+      "2600:9000:2600:2200:4:29d0:c800:93a1",
+      "2600:9000:2600:400:4:29d0:c800:93a1",
+      "2600:9000:2600:4c00:4:29d0:c800:93a1",
+      "2600:9000:2600:6600:4:29d0:c800:93a1",
+      "2600:9000:2600:800:4:29d0:c800:93a1",
+      "2600:9000:2600:b800:4:29d0:c800:93a1",
+      "2600:9000:2600:c200:4:29d0:c800:93a1",
+      "2600:9000:2600:d000:4:29d0:c800:93a1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "xmpp004.zoom.us.",
+    "ipv4": "170.114.4.239",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container26.zoom.us.",
+      "2407:30c0:100:723:fe40:ab51:a379:683c"
+    ],
+    "mx": [
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-xsrsrv29.zoom.us."
+    ]
+  },
+  {
+    "domain": "st1.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "xmpp001.zoom.us.",
+    "ipv4": "170.114.4.232",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container19.zoom.us.",
+      "2407:30c0:100:722:9963:567d:2160:dd9a"
+    ],
+    "mx": [
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-xsrsrv-container15.zoom.us."
+    ]
+  },
+  {
+    "domain": "www3.zoom.us.",
+    "ipv4": "170.114.52.2",
+    "ipv6": [
+      "2407:30c0:182::aa72:3402"
+    ],
+    "mx": [
+      "mxa-00569201.gslb.pphosted.com.",
+      "mxb-00569201.gslb.pphosted.com.",
+      "zoom.us."
+    ]
+  },
+  {
+    "domain": "xmppapi.zoom.us.",
+    "ipv4": "170.114.7.141",
+    "ipv6": [
+      "us01xmppapi-int.zoom.us.",
+      "im-gateway-xsr-xms-us01-e362b141581d5a00.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:4be5:4609:deab:33e:1e2e:6f40",
+      "2600:1f18:4be5:460b:942c:c123:347d:3296"
+    ],
+    "mx": [
+      "im-gateway-xsr-xms-us01-e362b141581d5a00.elb.us-east-1.amazonaws.com.",
+      "us01xmppapi-int.zoom.us."
+    ]
+  },
+  {
+    "domain": "us06zpns.zoom.us.",
+    "ipv4": "170.114.15.225",
+    "ipv6": [
+      "zpns.zoom.us.",
+      "zpns-byoip-va.zoom.us.",
+      "2407:30c0:100:723:20a1:cc8a:819f:1094"
+    ],
+    "mx": [
+      "zpns-byoip-va.zoom.us.",
+      "zpns.zoom.us."
+    ]
+  },
+  {
+    "domain": "us02www3.zoom.us.",
+    "ipv4": "170.114.52.3",
+    "ipv6": [
+      "us02web.zoom.us.",
+      "2407:30c0:182::aa72:3403"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us.",
+      "us02web.zoom.us."
+    ]
+  },
+  {
+    "domain": "marketplacefront.zoom.us.",
+    "ipv4": "52.84.151.34",
+    "ipv6": [
+      "2600:9000:2600:3200:3:47ca:2d80:93a1",
+      "2600:9000:2600:3e00:3:47ca:2d80:93a1",
+      "2600:9000:2600:400:3:47ca:2d80:93a1",
+      "2600:9000:2600:6200:3:47ca:2d80:93a1",
+      "2600:9000:2600:8000:3:47ca:2d80:93a1",
+      "2600:9000:2600:c200:3:47ca:2d80:93a1",
+      "2600:9000:2600:cc00:3:47ca:2d80:93a1",
+      "2600:9000:2600:da00:3:47ca:2d80:93a1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us01sip0c.sc.zoom.us.",
+    "ipv4": "192.204.13.7",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "xmpp014.zoom.us.",
+    "ipv4": "170.114.4.238",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container25.zoom.us.",
+      "2407:30c0:100:722:4ab9:f617:b7a0:f2ba"
+    ],
+    "mx": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-ngxsrv06.zoom.us."
+    ]
+  },
+  {
+    "domain": "us01xmpp1.zoom.us.",
+    "ipv4": "170.114.4.233",
+    "ipv6": [
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container20.zoom.us.",
+      "2407:30c0:100:723:4e7f:20f3:f5dd:2adc"
+    ],
+    "mx": [
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-xsrsrv24.zoom.us."
+    ]
+  },
+  {
+    "domain": "www.zoom.us.",
+    "ipv4": "170.114.52.2",
+    "ipv6": [
+      "2407:30c0:182::aa72:3402"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us."
+    ]
+  },
+  {
+    "domain": "zdmapi.zoom.us.",
+    "ipv4": "170.114.11.108",
+    "ipv6": [
+      "zdm.zoom.us.",
+      "nwsd-d.zoom.us.",
+      "2407:30c0:100:70c:1df8:4d5e:13bb:fe30",
+      "2407:30c0:100:70d:f3e:e078:39b9:7f9a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us05www3.zoom.us.",
+    "ipv4": "170.114.52.5",
+    "ipv6": [
+      "us05web.zoom.us.",
+      "2407:30c0:182::aa72:3405"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us.",
+      "us05web.zoom.us."
+    ]
+  },
+  {
+    "domain": "contactservice-va.zoom.us.",
+    "ipv4": "170.114.2.2",
+    "ipv6": [
+      "us01-va-ucs-nlb-6feb7affa8d2567e.elb.us-east-1.amazonaws.com.",
+      "2407:30c0:100:716:4732:de01:e410:9793",
+      "2407:30c0:100:717:9f4c:6b6:2f16:3c1b"
+    ],
+    "mx": [
+      "contactservice-va-sub2.zoom.us.",
+      "us01-pbx-eks01-sub2-ucs-nlb-n-51bc428f01df83e9.elb.us-east-1.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "contactservice-va-sub2.zoom.us.",
+    "ipv4": "3.235.96.63",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zpns-va.zoom.us.",
+    "ipv4": "18.205.93.224",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us04xmpp1.zoom.us.",
+    "ipv4": "134.224.240.219",
+    "ipv6": [
+      "us04xmpp1-test.zoom.us.",
+      "us04xmpp1-xsr.zoom.us.",
+      "us04xmpp-xsrsrv-container8.zoom.us.",
+      "2407:30c0:100:523:f5a8:dab3:75ca:fcc3"
+    ],
+    "mx": [
+      "us04xmpp1-test.zoom.us.",
+      "us04xmpp1-xsr.zoom.us.",
+      "us04xmpp-xsrsrv-container5.zoom.us."
+    ]
+  },
+  {
+    "domain": "contactservice.zoom.us.",
+    "ipv4": "170.114.52.100",
+    "ipv6": [
+      "contactservice-c.zoom.us.",
+      "2407:30c0:182::aa72:3464"
+    ],
+    "mx": [
+      "contactservice-c.zoom.us."
+    ]
+  },
+  {
+    "domain": "zoomsjcba213zc.sjc.zoom.us.",
+    "ipv4": "144.195.26.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomtr28zc.tr.zoom.us.",
+    "ipv4": "69.174.57.28",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us04logfiles.zoom.us.",
+    "ipv4": "170.114.7.188",
+    "ipv6": [
+      "us04logfiles-eks.zoom.us.",
+      "im-gateway-logfiles-us04-5bfdcfe96a0933ca.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:4405:f30b:48ae:a79d:bef0:9236",
+      "2600:1f18:4405:f309:9dcd:fe67:be74:35bb"
+    ],
+    "mx": [
+      "im-gateway-logfiles-us04-5bfdcfe96a0933ca.elb.us-east-1.amazonaws.com.",
+      "us04logfiles-eks.zoom.us."
+    ]
+  },
+  {
+    "domain": "xmpp003.zoom.us.",
+    "ipv4": "170.114.4.220",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container7.zoom.us.",
+      "2407:30c0:100:722:5573:63f2:3ef3:cc05"
+    ],
+    "mx": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-ngxsrv11.zoom.us."
+    ]
+  },
+  {
+    "domain": "xmpp010.zoom.us.",
+    "ipv4": "170.114.4.242",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container29.zoom.us.",
+      "2407:30c0:100:722:f4bf:d7b9:456f:9129"
+    ],
+    "mx": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-ngxsrv12.zoom.us."
+    ]
+  },
+  {
+    "domain": "xmpp002.zoom.us.",
+    "ipv4": "170.114.4.237",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container24.zoom.us.",
+      "2407:30c0:100:723:2330:9f2a:4d5b:d7e6"
+    ],
+    "mx": [
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-xsrsrv-container9.zoom.us."
+    ]
+  },
+  {
+    "domain": "us06zdmapi.zoom.us.",
+    "ipv4": "170.114.11.112",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us05web.zoom.us.",
+    "ipv4": "170.114.52.5",
+    "ipv6": [
+      "2407:30c0:182::aa72:3405"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us."
+    ]
+  },
+  {
+    "domain": "us06www3.zoom.us.",
+    "ipv4": "170.114.52.6",
+    "ipv6": [
+      "us06web.zoom.us.",
+      "2407:30c0:182::aa72:3406"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us.",
+      "us06web.zoom.us."
+    ]
+  },
+  {
+    "domain": "us06web.zoom.us.",
+    "ipv4": "170.114.52.6",
+    "ipv6": [
+      "2407:30c0:182::aa72:3406"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us."
+    ]
+  },
+  {
+    "domain": "google.zoom.us.",
+    "ipv4": "170.114.52.2",
+    "ipv6": [
+      "2407:30c0:182::aa72:3402"
+    ],
+    "mx": [
+      "mxa-00569201.gslb.pphosted.com.",
+      "mxb-00569201.gslb.pphosted.com.",
+      "zoom.us."
+    ]
+  },
+  {
+    "domain": "au01web.zoom.us.",
+    "ipv4": "170.114.52.9",
+    "ipv6": [
+      "2407:30c0:182::aa72:3409"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us01pbx.zoom.us.",
+    "ipv4": "170.114.52.66",
+    "ipv6": [
+      "us01pbx-c.zoom.us.",
+      "2407:30c0:182::aa72:3442"
+    ],
+    "mx": [
+      "us01pbx-c.zoom.us."
+    ]
+  },
+  {
+    "domain": "xmpp005.zoom.us.",
+    "ipv4": "170.114.4.239",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container26.zoom.us.",
+      "2407:30c0:100:723:fe40:ab51:a379:683c"
+    ],
+    "mx": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-ngxsrv03.zoom.us."
+    ]
+  },
+  {
+    "domain": "xmpp015.zoom.us.",
+    "ipv4": "170.114.4.243",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container30.zoom.us.",
+      "2407:30c0:100:723:e91b:6085:b633:22cd"
+    ],
+    "mx": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-ngxsrv05.zoom.us."
+    ]
+  },
+  {
+    "domain": "nws.zoom.us.",
+    "ipv4": "170.114.52.38",
+    "ipv6": [
+      "nws-platform.zoom.us.",
+      "2407:30c0:182::aa72:3426"
+    ],
+    "mx": [
+      "nws-platform.zoom.us."
+    ]
+  },
+  {
+    "domain": "us01sip07.sc.zoom.us.",
+    "ipv4": "162.12.233.46",
+    "ipv6": [
+      "2620:123:2004:233:162:12:233:46"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us04xmpp1-va.zoom.us.",
+    "ipv4": "3.235.82.187",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "st2.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "st1.zoom.us.",
+      "2407:30c0:181::1",
+      "2407:30c0:180::1"
+    ],
+    "mx": [
+      "st1.zoom.us."
+    ]
+  },
+  {
+    "domain": "marketplace.zoom.us.",
+    "ipv4": "170.114.52.22",
+    "ipv6": [
+      "2407:30c0:182::aa72:3416"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us01sip0d.ny.zoom.us.",
+    "ipv4": "192.204.15.7",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomap198-251-180-62mmr.cloud.zoom.us.",
+    "ipv4": "198.251.180.62",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us01sip0d.sc.zoom.us.",
+    "ipv4": "192.204.13.7",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "file.zoom.us.",
+    "ipv4": "170.114.14.31",
+    "ipv6": [
+      "file-zcp.zoom.us.",
+      "file-va1-zcp.zoom.us.",
+      "2600:1f18:4be5:4609:dfb1:2969:f30b:e267"
+    ],
+    "mx": [
+      "file-oh1-zcp.zoom.us.",
+      "file-zcp.zoom.us."
+    ]
+  },
+  {
+    "domain": "zoomff198-251-165-223zc.cloud.zoom.us.",
+    "ipv4": "198.251.165.223",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomff198-251-160-219zc.cloud.zoom.us.",
+    "ipv4": "198.251.160.219",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomff198-251-160-145mmr.cloud.zoom.us.",
+    "ipv4": "198.251.160.145",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomff198-251-161-135zc.cloud.zoom.us.",
+    "ipv4": "198.251.161.135",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "contactservice-va-sub1.zoom.us.",
+    "ipv4": "3.235.96.60",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomff193-122-39-9mmr.cloud.zoom.us.",
+    "ipv4": "193.122.39.9",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us02st3.zoom.us.",
+    "ipv4": "170.114.46.1",
+    "ipv6": [
+      "us02st1.zoom.us.",
+      "2407:30c0:181::1",
+      "2407:30c0:180::1"
+    ],
+    "mx": [
+      "us02st1.zoom.us."
+    ]
+  },
+  {
+    "domain": "st3.zoom.us.",
+    "ipv4": "170.114.46.1",
+    "ipv6": [
+      "st1.zoom.us.",
+      "2407:30c0:181::1",
+      "2407:30c0:180::1"
+    ],
+    "mx": [
+      "st1.zoom.us."
+    ]
+  },
+  {
+    "domain": "us02st2.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "us02st1.zoom.us.",
+      "2407:30c0:181::1",
+      "2407:30c0:180::1"
+    ],
+    "mx": [
+      "us02st1.zoom.us."
+    ]
+  },
+  {
+    "domain": "ht-tunnel-mt-ca-21.cloud.zoom.us.",
+    "ipv4": "134.224.243.180",
+    "ipv6": [
+      "2407:30c0:109:2:73a6:168f:7a2:c798"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "provcp.zoom.us.",
+    "ipv4": "170.114.65.205",
+    "ipv6": [
+      "us01pbx-a.zoom.us.",
+      "us01pbx-va.zoom.us.",
+      "us01-va-web-nlb-f0739721a9ebc63f.elb.us-east-1.amazonaws.com.",
+      "2407:30c0:100:716:1a3b:4e01:c18a:9438",
+      "2407:30c0:100:717:2706:8b18:f558:d2d5"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ht-tunnel-mt-ca-13.cloud.zoom.us.",
+    "ipv4": "134.224.243.172",
+    "ipv6": [
+      "2407:30c0:109:2:9c2a:57a4:2ab8:9f3c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ht-tunnel-ca-us-14.cloud.zoom.us.",
+    "ipv4": "134.224.156.113",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "images.zoom.us.",
+    "ipv4": "170.114.14.32",
+    "ipv6": [
+      "file.zoom.us.",
+      "file-zcp.zoom.us.",
+      "file-va1-zcp.zoom.us.",
+      "2600:1f18:4be5:460b:e808:e9f:c5f5:a840"
+    ],
+    "mx": [
+      "byoipnginxfileprodnlb-a30b947bb5519b82.elb.us-east-1.amazonaws.com.",
+      "file-va.zoom.us.",
+      "file.zoom.us."
+    ]
+  },
+  {
+    "domain": "xmpp008.zoom.us.",
+    "ipv4": "170.114.4.234",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container21.zoom.us.",
+      "2407:30c0:100:722:a04b:17db:db4b:4c42"
+    ],
+    "mx": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-ngxsrv04.zoom.us."
+    ]
+  },
+  {
+    "domain": "us02polling.zoom.us.",
+    "ipv4": "170.114.52.3",
+    "ipv6": [
+      "us02web.zoom.us.",
+      "2407:30c0:182::aa72:3403"
+    ],
+    "mx": [
+      "mtain-ac101.asynccomm.zoom.us.",
+      "mtain-ac102.asynccomm.zoom.us.",
+      "mtain-ac103.asynccomm.zoom.us.",
+      "mtain-ac201.asynccomm.zoom.us.",
+      "us02web.zoom.us."
+    ]
+  },
+  {
+    "domain": "async.zoom.us.",
+    "ipv4": "170.114.12.72",
+    "ipv6": [],
+    "mx": [
+      "d-d-async.zoom.us."
+    ]
+  },
+  {
+    "domain": "zoomva134-224-190-32zc.cloud.zoom.us.",
+    "ipv4": "134.224.190.32",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "xmpp.zoom.us.",
+    "ipv4": "170.114.4.249",
+    "ipv6": [
+      "xmppwbn.zoom.us.",
+      "xmppwbn-test-xsr.zoom.us.",
+      "us01xmppwbn-xsr.zoom.us.",
+      "us01xmppwbn-xsrsrv-container2.zoom.us.",
+      "2407:30c0:100:723:f53:dacd:6fe5:729b"
+    ],
+    "mx": [
+      "us01xmppwbn-xsrsrv-container8.zoom.us.",
+      "us01xmppwbn-xsr.zoom.us.",
+      "xmppwbn-test-xsr.zoom.us.",
+      "xmppwbn.zoom.us."
+    ]
+  },
+  {
+    "domain": "us01xmpp-ngxsrv04.zoom.us.",
+    "ipv4": "18.205.93.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "xmpp013.zoom.us.",
+    "ipv4": "170.114.4.241",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container28.zoom.us.",
+      "2407:30c0:100:723:9f21:af53:684:f5e3"
+    ],
+    "mx": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-ngxsrv03.zoom.us."
+    ]
+  },
+  {
+    "domain": "eu01xmppapi.zoom.us.",
+    "ipv4": "134.224.65.167",
+    "ipv6": [
+      "eu01xmppapi-int.zoom.us.",
+      "im-gateway-xsr-xms-eu01-5ebccee9ea9bf2e3.elb.eu-central-1.amazonaws.com.",
+      "2a05:d014:1772:550b:1b52:a96d:9021:cd84",
+      "2a05:d014:1772:5509:4ad2:f88b:d487:9db6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us01xmpp-ngxsrv02.zoom.us.",
+    "ipv4": "18.205.93.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomnxu30zc.nx.zoom.us.",
+    "ipv4": "147.124.108.30",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjccc176mmr.sjc.zoom.us.",
+    "ipv4": "144.195.54.176",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.zmail.com.",
+    "ipv4": "170.114.2.253",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomca134-224-225-148zc.cloud.zoom.us.",
+    "ipv4": "134.224.225.148",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomva134-224-14-196zc.cloud.zoom.us.",
+    "ipv4": "134.224.14.196",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcba189mmr.sjc.zoom.us.",
+    "ipv4": "144.195.26.189",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us06static.zoom.us.",
+    "ipv4": "170.114.52.6",
+    "ipv6": [
+      "us06web.zoom.us.",
+      "2407:30c0:182::aa72:3406"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us06st2.zoom.us.",
+    "ipv4": "170.114.46.1",
+    "ipv6": [
+      "us06st1.zoom.us.",
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us06st3.zoom.us.",
+    "ipv4": "170.114.46.1",
+    "ipv6": [
+      "us06st1.zoom.us.",
+      "2407:30c0:181::1",
+      "2407:30c0:180::1"
+    ],
+    "mx": [
+      "us06st1.zoom.us."
+    ]
+  },
+  {
+    "domain": "us04st1.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjccr253zc.sjc.zoom.us.",
+    "ipv4": "144.195.69.253",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us05nws.zoom.us.",
+    "ipv4": "170.114.52.34",
+    "ipv6": [
+      "us05nws-platform.zoom.us.",
+      "2407:30c0:182::aa72:3422"
+    ],
+    "mx": [
+      "us05nws-platform.zoom.us."
+    ]
+  },
+  {
+    "domain": "us02st1.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsgr251zc.sg.zoom.us.",
+    "ipv4": "149.137.46.251",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcck213zc.sjc.zoom.us.",
+    "ipv4": "144.195.62.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcaj218mmr.sjc.zoom.us.",
+    "ipv4": "144.195.9.218",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbb213zc.sjc.zoom.us.",
+    "ipv4": "144.195.27.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbb200mmr.sjc.zoom.us.",
+    "ipv4": "144.195.27.200",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us04images.zoom.us.",
+    "ipv4": "170.114.14.36",
+    "ipv6": [
+      "us04file.zoom.us.",
+      "us04file-zcp.zoom.us.",
+      "us04file-va1-zcp.zoom.us.",
+      "2600:1f18:4405:f30b:f1da:20f3:6a0d:fda2"
+    ],
+    "mx": [
+      "us04file-va.zoom.us.",
+      "us04file.zoom.us."
+    ]
+  },
+  {
+    "domain": "us01sip04.sc.zoom.us.",
+    "ipv4": "162.12.233.46",
+    "ipv6": [
+      "2620:123:2004:233:162:12:233:46"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomap134-224-161-189mmr.cloud.zoom.us.",
+    "ipv4": "134.224.161.189",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbr213zc.sjc.zoom.us.",
+    "ipv4": "144.195.43.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbf213zc.sjc.zoom.us.",
+    "ipv4": "144.195.31.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbm250zc.sjc.zoom.us.",
+    "ipv4": "144.195.38.250",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbc213zc.sjc.zoom.us.",
+    "ipv4": "144.195.28.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjccd213zc.sjc.zoom.us.",
+    "ipv4": "144.195.55.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbo166mmr.sjc.zoom.us.",
+    "ipv4": "144.195.40.166",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ht-tunnel-va-us-30.cloud.zoom.us.",
+    "ipv4": "134.224.240.229",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomca193-123-27-202zc.cloud.zoom.us.",
+    "ipv4": "193.123.27.202",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbg93mmr.sjc.zoom.us.",
+    "ipv4": "144.195.32.93",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcav191mmr.sjc.zoom.us.",
+    "ipv4": "144.195.21.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdn.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomva198-251-138-59zc.cloud.zoom.us.",
+    "ipv4": "198.251.138.59",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomva198-251-138-241mmr.cloud.zoom.us.",
+    "ipv4": "198.251.138.241",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcda253zc.sjc.zoom.us.",
+    "ipv4": "144.195.78.253",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "utoronto.zoom.us.",
+    "ipv4": "170.114.52.3",
+    "ipv6": [
+      "us02web.zoom.us.",
+      "2407:30c0:182::aa72:3403"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zpnspbx.zoom.us.",
+    "ipv4": "170.114.1.178",
+    "ipv6": [
+      "zpns.zoom.us.",
+      "zpns-byoip-va.zoom.us.",
+      "2407:30c0:100:723:9dac:1baa:90c3:f2da"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbg213zc.sjc.zoom.us.",
+    "ipv4": "144.195.32.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcau213zc.sjc.zoom.us.",
+    "ipv4": "144.195.20.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomscc56ht.sc.zoom.us.",
+    "ipv4": "50.239.202.56",
+    "ipv6": [
+      "2620:123:2004:202:50:239:202:56"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomva198-251-129-161zc.cloud.zoom.us.",
+    "ipv4": "198.251.129.161",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomva198-251-128-252zc.cloud.zoom.us.",
+    "ipv4": "198.251.128.252",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomtro180mmr.tr.zoom.us.",
+    "ipv4": "149.137.17.180",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us05st3.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "us05st1.zoom.us.",
+      "2407:30c0:181::1",
+      "2407:30c0:180::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us05st2.zoom.us.",
+    "ipv4": "170.114.46.1",
+    "ipv6": [
+      "us05st1.zoom.us.",
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbj253zc.sjc.zoom.us.",
+    "ipv4": "144.195.35.253",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomva193-123-132-139zc.cloud.zoom.us.",
+    "ipv4": "193.123.132.139",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us05st1.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbd213zc.sjc.zoom.us.",
+    "ipv4": "144.195.29.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbu213zc.sjc.zoom.us.",
+    "ipv4": "144.195.46.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "rwctr.tr.zoom.us.",
+    "ipv4": "69.174.57.111",
+    "ipv6": [
+      "2620:123:200c:57:69:174:57:111",
+      "2620:123:200c:57:69:174:57:47"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcaq213zc.sjc.zoom.us.",
+    "ipv4": "144.195.16.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcae253zc.sjc.zoom.us.",
+    "ipv4": "144.195.4.253",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "yorku.zoom.us.",
+    "ipv4": "170.114.52.2",
+    "ipv6": [
+      "www.zoom.us.",
+      "2407:30c0:182::aa72:3402"
+    ],
+    "mx": [
+      "mxa-00569201.gslb.pphosted.com.",
+      "mxb-00569201.gslb.pphosted.com.",
+      "www.zoom.us.",
+      "zoom.us."
+    ]
+  },
+  {
+    "domain": "us01sip05.sc.zoom.us.",
+    "ipv4": "162.12.233.46",
+    "ipv6": [
+      "2620:123:2004:233:162:12:233:46"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomff193-122-34-34mmr.cloud.zoom.us.",
+    "ipv4": "193.122.34.34",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "rwcsp.cloud.zoom.us.",
+    "ipv4": "170.114.82.237",
+    "ipv6": [
+      "2407:30c0:10f:100:9caf:2fd6:dbd9:ac28",
+      "2407:30c0:10f:101:ab61:d3dd:7447:e89e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbr184mmr.sjc.zoom.us.",
+    "ipv4": "144.195.43.184",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomva193-123-155-130mmr.cloud.zoom.us.",
+    "ipv4": "193.123.155.130",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us06st1.zoom.us.",
+    "ipv4": "170.114.45.1",
+    "ipv6": [
+      "2407:30c0:180::1",
+      "2407:30c0:181::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mongodb.zoom.us.",
+    "ipv4": "170.114.52.2",
+    "ipv6": [
+      "www.zoom.us.",
+      "2407:30c0:182::aa72:3402"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "xmpp012.zoom.us.",
+    "ipv4": "170.114.4.235",
+    "ipv6": [
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp-xsrsrv-container22.zoom.us.",
+      "2407:30c0:100:723:f12e:ceeb:5a01:6009"
+    ],
+    "mx": [
+      "us01xmpp1-xsr.zoom.us.",
+      "us01xmpp1.zoom.us.",
+      "us01xmpp-nginx-test-xsr.zoom.us.",
+      "us01xmpp-nginx.zoom.us.",
+      "us01xmpp-xsrsrv27.zoom.us."
+    ]
+  },
+  {
+    "domain": "us04file-ia.zoom.us.",
+    "ipv4": "170.114.15.211",
+    "ipv6": [
+      "us04byoipnginxfileprodnlb-d9fe28cf6d71ba7e.elb.us-east-1.amazonaws.com.",
+      "2407:30c0:100:523:b79e:5d03:13cf:2f2e",
+      "2407:30c0:100:521:bbe3:13c:fa7a:cb57",
+      "2407:30c0:100:522:dac1:8924:5360:b06f"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbs250zc.sjc.zoom.us.",
+    "ipv4": "144.195.44.250",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomsjcbk213zc.sjc.zoom.us.",
+    "ipv4": "144.195.36.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us06images.zoom.us.",
+    "ipv4": "170.114.14.32",
+    "ipv6": [
+      "file.zoom.us.",
+      "file-zcp.zoom.us.",
+      "file-va1-zcp.zoom.us.",
+      "2600:1f18:4be5:4609:dfb1:2969:f30b:e267"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "zoomva193-123-145-55mmr.cloud.zoom.us.",
+    "ipv4": "193.123.145.55",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomva134-224-209-153zc.cloud.zoom.us.",
+    "ipv4": "134.224.209.153",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zoomva198-251-140-119zc.cloud.zoom.us.",
+    "ipv4": "198.251.140.119",
+    "ipv6": [],
+    "mx": []
+  }
+]

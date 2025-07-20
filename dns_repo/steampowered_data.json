@@ -1,0 +1,960 @@
+[
+  {
+    "domain": "cm5-iad1.cm.steampowered.com.",
+    "ipv4": "162.254.192.71",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm6-iad1.cm.steampowered.com.",
+    "ipv4": "162.254.192.87",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "store.steampowered.com.",
+    "ipv4": "184.27.213.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-iad1.cm.steampowered.com.",
+    "ipv4": "162.254.192.101",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "api.steampowered.com.",
+    "ipv4": "23.12.10.105",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-atl1.cm.steampowered.com.",
+    "ipv4": "162.254.199.181",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-ord1.cm.steampowered.com.",
+    "ipv4": "162.254.193.74",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-iad1.cm.steampowered.com.",
+    "ipv4": "162.254.192.100",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-ord1.cm.steampowered.com.",
+    "ipv4": "162.254.193.102",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-par1.cm.steampowered.com.",
+    "ipv4": "185.25.182.77",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-fra1.cm.steampowered.com.",
+    "ipv4": "162.254.197.39",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-lhr1.cm.steampowered.com.",
+    "ipv4": "162.254.196.84",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm5-lax1.cm.steampowered.com.",
+    "ipv4": "162.254.195.71",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-iad1.cm.steampowered.com.",
+    "ipv4": "162.254.192.109",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm6-ams1.cm.steampowered.com.",
+    "ipv4": "155.133.248.39",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-dfw1.cm.steampowered.com.",
+    "ipv4": "155.133.253.34",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm6-lax1.cm.steampowered.com.",
+    "ipv4": "162.254.195.66",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-fra2.cm.steampowered.com.",
+    "ipv4": "155.133.226.78",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "steampowered.com.",
+    "ipv4": "23.33.37.237",
+    "ipv6": [],
+    "mx": [
+      "smtp.steampowered.com."
+    ]
+  },
+  {
+    "domain": "cm3-iad1.cm.steampowered.com.",
+    "ipv4": "162.254.192.108",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media.steampowered.com.",
+    "ipv4": "23.212.62.91",
+    "ipv6": [],
+    "mx": [
+      "a1843.b.akamai.net.",
+      "cdn.akamai.steamstatic.com.edgesuite.net."
+    ]
+  },
+  {
+    "domain": "store-steampowered-com.translate.goog.",
+    "ipv4": "172.217.12.129",
+    "ipv6": [
+      "2607:f8b0:4007:801::2001"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cm5-ams1.cm.steampowered.com.",
+    "ipv4": "155.133.248.38",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-dfw1.cm.steampowered.com.",
+    "ipv4": "155.133.253.50",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-sea1.cm.steampowered.com.",
+    "ipv4": "205.196.6.215",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-sea1.cm.steampowered.com.",
+    "ipv4": "205.196.6.214",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-par1.cm.steampowered.com.",
+    "ipv4": "185.25.182.76",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-fra1.cm.steampowered.com.",
+    "ipv4": "162.254.197.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-atl1.cm.steampowered.com.",
+    "ipv4": "162.254.199.163",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-fra2.cm.steampowered.com.",
+    "ipv4": "155.133.226.75",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-lax1.cm.steampowered.com.",
+    "ipv4": "162.254.195.71",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "crash.steampowered.com.",
+    "ipv4": "208.64.203.140",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "help.steampowered.com.",
+    "ipv4": "184.25.67.239",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-tyo2.cm.steampowered.com.",
+    "ipv4": "155.133.239.20",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-sgp1.cm.steampowered.com.",
+    "ipv4": "103.10.124.162",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-syd1.cm.steampowered.com.",
+    "ipv4": "103.10.125.165",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-sgp1.cm.steampowered.com.",
+    "ipv4": "103.10.124.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-sgp1.cm.steampowered.com.",
+    "ipv4": "103.10.124.163",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-lax1.cm.steampowered.com.",
+    "ipv4": "162.254.195.82",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-lhr1.cm.steampowered.com.",
+    "ipv4": "162.254.196.67",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-lhr1.cm.steampowered.com.",
+    "ipv4": "162.254.196.68",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-lhr1.cm.steampowered.com.",
+    "ipv4": "162.254.196.83",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-tyo2.cm.steampowered.com.",
+    "ipv4": "155.133.239.51",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-tyo1.cm.steampowered.com.",
+    "ipv4": "155.133.245.37",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-hkg1.cm.steampowered.com.",
+    "ipv4": "153.254.86.179",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-sgp1.cm.steampowered.com.",
+    "ipv4": "103.10.124.165",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-waw1.cm.steampowered.com.",
+    "ipv4": "155.133.230.50",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "storefront.steampowered.com.",
+    "ipv4": "23.2.95.19",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-mad1.cm.steampowered.com.",
+    "ipv4": "155.133.246.51",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-hkg1.cm.steampowered.com.",
+    "ipv4": "153.254.86.163",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-hkg1.cm.steampowered.com.",
+    "ipv4": "153.254.86.181",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-syd1.cm.steampowered.com.",
+    "ipv4": "103.10.125.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-hkg1.cm.steampowered.com.",
+    "ipv4": "153.254.86.29",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.steampowered.com.",
+    "ipv4": "23.201.165.153",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-jnb1.cm.steampowered.com.",
+    "ipv4": "155.133.238.165",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-mad1.cm.steampowered.com.",
+    "ipv4": "155.133.246.35",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-mad1.cm.steampowered.com.",
+    "ipv4": "155.133.246.68",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "media4.steampowered.com.",
+    "ipv4": "23.55.235.211",
+    "ipv6": [],
+    "mx": [
+      "a1843.b.akamai.net.",
+      "cdn.akamai.steamstatic.com.edgesuite.net."
+    ]
+  },
+  {
+    "domain": "cm2-mad1.cm.steampowered.com.",
+    "ipv4": "155.133.246.69",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-sto1.cm.steampowered.com.",
+    "ipv4": "162.254.198.132",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "repo.steampowered.com.",
+    "ipv4": "104.16.218.108",
+    "ipv6": [
+      "2606:4700::6810:da6c",
+      "2606:4700::6810:db6c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cm2-sto2.cm.steampowered.com.",
+    "ipv4": "155.133.252.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-fra1.cm.steampowered.com.",
+    "ipv4": "162.254.197.181",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm5-sto1.cm.steampowered.com.",
+    "ipv4": "162.254.198.44",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-ams1.cm.steampowered.com.",
+    "ipv4": "155.133.248.35",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "support.steampowered.com.",
+    "ipv4": "172.234.232.226",
+    "ipv6": [],
+    "mx": [
+      "support.smtp.steampowered.com."
+    ]
+  },
+  {
+    "domain": "cm6-sto1.cm.steampowered.com.",
+    "ipv4": "162.254.198.104",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm0.steampowered.com.",
+    "ipv4": "162.254.193.6",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-tyo1.cm.steampowered.com.",
+    "ipv4": "155.133.245.36",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-scl1.cm.steampowered.com.",
+    "ipv4": "155.133.249.197",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-lim1.cm.steampowered.com.",
+    "ipv4": "190.217.33.69",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-seo1.cm.steampowered.com.",
+    "ipv4": "146.66.152.44",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-lax1.cm.steampowered.com.",
+    "ipv4": "162.254.195.83",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-38.steampowered.com.",
+    "ipv4": "208.64.202.38",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-eze1.cm.steampowered.com.",
+    "ipv4": "155.133.255.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-eze1.cm.steampowered.com.",
+    "ipv4": "155.133.255.100",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-gru1.cm.steampowered.com.",
+    "ipv4": "205.185.194.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-lim1.cm.steampowered.com.",
+    "ipv4": "190.217.33.68",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-sto2.cm.steampowered.com.",
+    "ipv4": "155.133.252.39",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-scl1.cm.steampowered.com.",
+    "ipv4": "155.133.249.196",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "client-download.steampowered.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "na.client.steamcontent.akadns.net.",
+      "origin-ip-selector.steampipe.steamcontent.akadns.net.",
+      "steampipe-origin.steamcontent.com.",
+      "update.client.steamcontent.akadns.net."
+    ]
+  },
+  {
+    "domain": "cm1-gru1.cm.steampowered.com.",
+    "ipv4": "205.185.194.197",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-lax1.cm.steampowered.com.",
+    "ipv4": "162.254.195.66",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cser.steampowered.com.",
+    "ipv4": "208.64.203.186",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hl2master.steampowered.com.",
+    "ipv4": "208.78.164.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-vie1.cm.steampowered.com.",
+    "ipv4": "146.66.155.38",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-sto1.cm.steampowered.com.",
+    "ipv4": "162.254.198.131",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp.steampowered.com.",
+    "ipv4": "208.64.202.36",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-sto1.cm.steampowered.com.",
+    "ipv4": "162.254.198.130",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-ams1.cm.steampowered.com.",
+    "ipv4": "155.133.248.36",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-jnb1.cm.steampowered.com.",
+    "ipv4": "155.133.238.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gds1.steampowered.com.",
+    "ipv4": "208.78.164.209",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gds2.steampowered.com.",
+    "ipv4": "208.78.164.209",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gds4.steampowered.com.",
+    "ipv4": "208.78.164.209",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gds3.steampowered.com.",
+    "ipv4": "208.78.164.209",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdn.store.steampowered.com.",
+    "ipv4": "23.66.101.204",
+    "ipv6": [],
+    "mx": [
+      "a1737.b.akamai.net.",
+      "store.akamai.steamstatic.com.edgesuite.net."
+    ]
+  },
+  {
+    "domain": "media2.steampowered.com.",
+    "ipv4": "205.185.216.10",
+    "ipv6": [],
+    "mx": [
+      "cds.a8z8u6b5.hwcdn.net."
+    ]
+  },
+  {
+    "domain": "cs.steampowered.com.",
+    "ipv4": "162.254.193.10",
+    "ipv6": [
+      "content-origin.steampowered.com.",
+      "origin-tier2.steampipe.steamcontent.com.",
+      "steampipe-origin-tier2.steamcontent.com.",
+      "cache-origin.steampipe.steamcontent.akadns.net.",
+      "dist-ord1.discovery.steamserver.net.",
+      "2602:801:f007:101::a2fe:c122",
+      "2602:801:f007:100::a2fe:c10a"
+    ],
+    "mx": [
+      "content-origin.steampowered.com.",
+      "origin-tier2.steampipe.steamcontent.com.",
+      "steampipe-origin-tier2.steamcontent.com."
+    ]
+  },
+  {
+    "domain": "translation.steampowered.com.",
+    "ipv4": "172.234.232.226",
+    "ipv6": [],
+    "mx": [
+      "translation.steampowered.com."
+    ]
+  },
+  {
+    "domain": "cloud-4.steamusercontent.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm2-vie1.cm.steampowered.com.",
+    "ipv4": "146.66.155.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-49.steampowered.com.",
+    "ipv4": "208.64.202.49",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-63.steampowered.com.",
+    "ipv4": "208.64.202.63",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdn-01-origin.steampowered.com.",
+    "ipv4": "192.69.97.4",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gds1.steamgames.com.",
+    "ipv4": "208.78.164.209",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdn-01.steampowered.com.",
+    "ipv4": "208.78.167.26",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "san.steampowered.com.edgekey.net.",
+    "ipv4": "23.218.150.30",
+    "ipv6": [],
+    "mx": [
+      "e19.ksd.akamaiedge.net."
+    ]
+  },
+  {
+    "domain": "media4.steampowered.com.edgesuite.net.",
+    "ipv4": "184.30.148.77",
+    "ipv6": [],
+    "mx": [
+      "a1856.g1.akamai.net."
+    ]
+  },
+  {
+    "domain": "api.origin.steampowered.com.",
+    "ipv4": "208.64.202.85",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "partnerupload0.steampowered.com.",
+    "ipv4": "208.64.200.18",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-ams1.cm.steampowered.com.",
+    "ipv4": "155.133.248.37",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-waw1.cm.steampowered.com.",
+    "ipv4": "155.133.230.34",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bulkmail.steampowered.com.",
+    "ipv4": "208.64.202.36",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-ams1.cm.steampowered.com.",
+    "ipv4": "155.133.248.34",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm1-seo1.cm.steampowered.com.",
+    "ipv4": "146.66.152.39",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-sto1.cm.steampowered.com.",
+    "ipv4": "162.254.198.133",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "forums.steampowered.com.",
+    "ipv4": "172.234.232.226",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm4-seo1.cm.steampowered.com.",
+    "ipv4": "146.66.152.43",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "partnerupload3.origin.steampowered.com.",
+    "ipv4": "208.64.200.18",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-52.steampowered.com.",
+    "ipv4": "208.64.202.52",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "partner.steampowered.com.",
+    "ipv4": "23.217.186.50",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-07-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.49",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "steampowered.com.lookup.dkimwl.org.",
+    "ipv4": "127.0.13.5",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hl1master.steamgames.com.",
+    "ipv4": "208.64.200.117",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "content-origin.steampowered.com.",
+    "ipv4": "162.254.193.10",
+    "ipv6": [
+      "origin-tier2.steampipe.steamcontent.com.",
+      "steampipe-origin-tier2.steamcontent.com.",
+      "cache-origin.steampipe.steamcontent.akadns.net.",
+      "dist-ord1.discovery.steamserver.net.",
+      "2602:801:f007:100::a2fe:c10a",
+      "2602:801:f007:101::a2fe:c122"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "smtp-13-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.57",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "kgs.steampowered.com.",
+    "ipv4": "208.64.200.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdn4.steampowered.com.",
+    "ipv4": "23.46.228.39",
+    "ipv6": [],
+    "mx": [
+      "a1507.d.akamai.net.",
+      "akacdn.valve.com.edgesuite.net."
+    ]
+  },
+  {
+    "domain": "smtp-03-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.39",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-12-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.56",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "lan.steampowered.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdn.steampowered.com.",
+    "ipv4": "23.56.109.206",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-10-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.52",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-08-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.50",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-09-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.51",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "support.smtp.steampowered.com.",
+    "ipv4": "208.64.202.122",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "controller.steampowered.com.",
+    "ipv4": "104.130.132.85",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cloud-origin.steampowered.com.",
+    "ipv4": "208.64.200.17",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "partnerupload3.steampowered.com.",
+    "ipv4": "208.64.201.154",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "smtp-06-tuk1.steampowered.com.",
+    "ipv4": "208.64.202.48",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "login.steampowered.com.",
+    "ipv4": "23.36.106.129",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "partnerupload2.steampowered.com.",
+    "ipv4": "208.64.200.18",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bump.steampowered.com.",
+    "ipv4": "1.1.1.2",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "link.steampowered.com.",
+    "ipv4": "172.234.232.226",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "video-origin.steampowered.com.",
+    "ipv4": "205.196.6.235",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hk.content-origin.steampowered.com.",
+    "ipv4": "103.28.54.146",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdn3.store.steampowered.com.",
+    "ipv4": "8.249.51.252",
+    "ipv6": [
+      "content2.steampowered.com.c.footprint.net.",
+      "2001:1900:2312:4f05::1fc",
+      "2001:1900:2375:f00::1fc",
+      "2001:1900:231f:1f00::1fc"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "gm.steampowered.com.",
+    "ipv4": "208.64.200.170",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm5-sha2.cm.steampowered.com.",
+    "ipv4": "180.101.192.249",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cm3-seo1.cm.steampowered.com.",
+    "ipv4": "146.66.152.38",
+    "ipv6": [],
+    "mx": []
+  }
+]

@@ -1,0 +1,1601 @@
+[
+  {
+    "domain": "web.facebook.com.",
+    "ipv4": "157.240.8.18",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f019:111:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "portal.fb.com.",
+    "ipv4": "157.240.254.12",
+    "ipv6": [
+      "star-nohsts.c10r.facebook.com.",
+      "2a03:2880:f082:10d:face:b00c:0:2"
+    ],
+    "mx": [
+      "star-nohsts.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "b-api.facebook.com.",
+    "ipv4": "157.240.3.35",
+    "ipv6": [
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f101:83:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "gateway.facebook.com.",
+    "ipv4": "157.240.14.1",
+    "ipv6": [
+      "dgw.c10r.facebook.com.",
+      "2a03:2880:f02c:10d:face:b00c:0:6206"
+    ],
+    "mx": [
+      "dgw.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "graph.facebook.com.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "www.facebook.com.",
+    "ipv4": "157.240.8.35",
+    "ipv6": [
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f119:8083:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "star-mini.c10r.facebook.com.",
+    "ipv4": "157.240.3.35",
+    "ipv6": [
+      "2a03:2880:f101:83:face:b00c:0:25de"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "b-graph.facebook.com.",
+    "ipv4": "157.240.11.35",
+    "ipv6": [
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f10d:183:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "lookaside.facebook.com.",
+    "ipv4": "157.240.8.23",
+    "ipv6": [
+      "scontent.xx.fbcdn.net.",
+      "2a03:2880:f019:116:face:b00c:0:3"
+    ],
+    "mx": [
+      "scontent.xx.fbcdn.net."
+    ]
+  },
+  {
+    "domain": "mqtt-mini.facebook.com.",
+    "ipv4": "157.240.3.34",
+    "ipv6": [
+      "mqtt-mini.c10r.facebook.com.",
+      "2a03:2880:f101:80:face:b00c:0:1ea0"
+    ],
+    "mx": [
+      "mqtt-mini.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "mqtt.c10r.facebook.com.",
+    "ipv4": "157.240.3.13",
+    "ipv6": [
+      "2a03:2880:f001:5:face:b00c:0:8e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "api.facebook.com.",
+    "ipv4": "157.240.11.17",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00d:110:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "b-www.facebook.com.",
+    "ipv4": "163.70.147.35",
+    "ipv6": [
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f189:80:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "graph.oculus.com.",
+    "ipv4": "157.240.3.49",
+    "ipv6": [
+      "oculus.c10r.facebook.com.",
+      "2a03:2880:f201:c1:face:b00c:0:32c2"
+    ],
+    "mx": [
+      "oculus.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "edge-mqtt.facebook.com.",
+    "ipv4": "157.240.8.13",
+    "ipv6": [
+      "mqtt.c10r.facebook.com.",
+      "2a03:2880:f019:10c:face:b00c:0:8e"
+    ],
+    "mx": [
+      "mqtt.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "edge-chat.instagram.com.",
+    "ipv4": "157.240.11.52",
+    "ipv6": [
+      "instagram.c10r.facebook.com.",
+      "2a03:2880:f20d:1c4:face:b00c:0:43fe"
+    ],
+    "mx": [
+      "instagram.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "facebook.com.",
+    "ipv4": "157.240.8.35",
+    "ipv6": [
+      "2a03:2880:f119:8083:face:b00c:0:25de"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "star.c10r.facebook.com.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "edge-stun.facebook.com.",
+    "ipv4": "157.240.3.21",
+    "ipv6": [
+      "stun.c10r.facebook.com.",
+      "2a03:2880:f001:0:face:b00c:0:24d9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "msgr-latest.c10r.facebook.com.",
+    "ipv4": "31.13.67.10",
+    "ipv6": [
+      "2a03:2880:f02c:9:face:b00c:0:2825"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "chat-e2ee-mini.facebook.com.",
+    "ipv4": "157.240.8.33",
+    "ipv6": [
+      "chat-e2ee-mini.c10r.facebook.com.",
+      "2a03:2880:f119:8081:face:b00c:0:38d9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "fbcdn.net.",
+    "ipv4": "163.70.147.35",
+    "ipv6": [
+      "2a03:2880:f189:80:face:b00c:0:25de"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "m.facebook.com.",
+    "ipv4": "157.240.3.35",
+    "ipv6": [
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f101:83:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "edge-chat.facebook.com.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "graph.m-freeway.com.",
+    "ipv4": "157.240.8.18",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f019:111:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "chat-e2ee-ig-p42.c10r.facebook.com.",
+    "ipv4": "157.240.3.175",
+    "ipv6": [
+      "2a03:2880:f201:e6:face:b00c:0:6e2e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "chat-e2ee-mini.c10r.facebook.com.",
+    "ipv4": "157.240.3.32",
+    "ipv6": [
+      "2a03:2880:f101:81:face:b00c:0:38d9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "star.facebook.com.",
+    "ipv4": "157.240.11.17",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00d:110:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-p42-chat-e2ee-ig.facebook.com.",
+    "ipv4": "157.240.3.175",
+    "ipv6": [
+      "chat-e2ee-ig-p42.c10r.facebook.com.",
+      "2a03:2880:f201:e6:face:b00c:0:6e2e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "atlas.c10r.facebook.com.",
+    "ipv4": "163.70.151.10",
+    "ipv6": [
+      "2a03:2880:f0a5:109:face:b00c:0:8c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "oculus.com.",
+    "ipv4": "157.240.254.54",
+    "ipv6": [
+      "2a03:2880:f275:1cb:face:b00c:0:32c2"
+    ],
+    "mx": [
+      "mxa-00082601.gslb.pphosted.com.",
+      "mxb-00082601.gslb.pphosted.com."
+    ]
+  },
+  {
+    "domain": "www.messenger.com.",
+    "ipv4": "157.240.254.12",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f082:10d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "facebookmail.com.",
+    "ipv4": "157.240.200.16",
+    "ipv6": [
+      "2a03:2880:f053:11:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "apps.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "rupload.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "ad.atdmt.com.",
+    "ipv4": "157.240.249.9",
+    "ipv6": [
+      "atlas.c10r.facebook.com.",
+      "2a03:2880:f082:a:face:b00c:0:8c"
+    ],
+    "mx": [
+      "atlas.c10r.facebook.com.",
+      "geo.atlassbx.com."
+    ]
+  },
+  {
+    "domain": "fr-fr.facebook.com.",
+    "ipv4": "163.70.151.23",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f0a5:118:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "fbsbx.com.",
+    "ipv4": "31.13.80.36",
+    "ipv6": [
+      "2a03:2880:f10e:83:face:b00c:0:25de"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "lm.facebook.com.",
+    "ipv4": "157.240.3.37",
+    "ipv6": [
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f101:84:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-m-graph.facebook.com.",
+    "ipv4": "57.144.120.6",
+    "ipv6": [
+      "z-m.facebook.com.",
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f33c:6:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com.",
+      "z-m.facebook.com."
+    ]
+  },
+  {
+    "domain": "oculus.c10r.facebook.com.",
+    "ipv4": "31.13.80.49",
+    "ipv6": [
+      "2a03:2880:f20e:c1:face:b00c:0:32c2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "meta.com.",
+    "ipv4": "31.13.80.8",
+    "ipv6": [
+      "2a03:2880:f00e:a:face:b00c:0:2"
+    ],
+    "mx": [
+      "mxa-00082601.gslb.pphosted.com.",
+      "mxb-00082601.gslb.pphosted.com."
+    ]
+  },
+  {
+    "domain": "work.alpha.facebook.com.",
+    "ipv4": "31.13.93.9",
+    "ipv6": [
+      "latest.c10r.facebook.com.",
+      "2a03:2880:f034:108:face:b00c:0:4f5a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "upload.facebook.com.",
+    "ipv4": "157.240.200.16",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f053:11:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "gateway.messenger.com.",
+    "ipv4": "31.13.80.6",
+    "ipv6": [
+      "dgw.c10r.facebook.com.",
+      "2a03:2880:f00e:7:face:b00c:0:6206"
+    ],
+    "mx": [
+      "dgw.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "graph.fb.gg.",
+    "ipv4": "157.240.254.12",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f082:10d:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "edge-chat.workplace.com.",
+    "ipv4": "31.13.80.15",
+    "ipv6": [
+      "secure.c10r.facebook.com.",
+      "2a03:2880:f00e:18:face:b00c:0:2b80"
+    ],
+    "mx": [
+      "secure.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "gateway.workplace.com.",
+    "ipv4": "57.144.182.145",
+    "ipv6": [
+      "dgw.c10r.facebook.com.",
+      "2a03:2880:f35b:91:face:b00c:0:6206"
+    ],
+    "mx": [
+      "dgw.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "snaptu-z.facebook.com.",
+    "ipv4": "163.70.147.38",
+    "ipv6": [
+      "fblite-mini.c10r.facebook.com.",
+      "2a03:2880:f189:85:face:b00c:0:2d16"
+    ],
+    "mx": [
+      "fblite-mini.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "l.facebook.com.",
+    "ipv4": "57.144.204.6",
+    "ipv6": [
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f366:6:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "www.oculus.com.",
+    "ipv4": "57.144.219.141",
+    "ipv6": [
+      "oculus.c10r.facebook.com.",
+      "2a03:2880:f36d:18d:face:b00c:0:32c2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "lithium.facebook.com.",
+    "ipv4": "163.70.151.23",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f0a5:118:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-m-www.facebook.com.",
+    "ipv4": "57.144.120.6",
+    "ipv6": [
+      "z-m.facebook.com.",
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f33c:6:face:b00c:0:14c9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "latest.facebook.com.",
+    "ipv4": "157.240.11.8",
+    "ipv6": [
+      "latest.c10r.facebook.com.",
+      "2a03:2880:f00d:107:face:b00c:0:4f5a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "stun.c10r.facebook.com.",
+    "ipv4": "57.144.120.133",
+    "ipv6": [
+      "2a03:2880:f33c:85:face:b00c:0:24d9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "graph-video.facebook.com.",
+    "ipv4": "57.144.204.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f366:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "mobile.facebook.com.",
+    "ipv4": "31.13.80.8",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00e:a:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "cx.atdmt.com.",
+    "ipv4": "157.240.22.6",
+    "ipv6": [
+      "atlas.c10r.facebook.com.",
+      "2a03:2880:f031:5:face:b00c:0:8c"
+    ],
+    "mx": [
+      "atlas.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "messenger.com.",
+    "ipv4": "157.240.11.17",
+    "ipv6": [
+      "2a03:2880:f00d:110:face:b00c:0:2"
+    ],
+    "mx": [
+      "mxa-00082601.gslb.pphosted.com.",
+      "mxb-00082601.gslb.pphosted.com."
+    ]
+  },
+  {
+    "domain": "z-m-portal.fb.com.",
+    "ipv4": "157.240.8.35",
+    "ipv6": [
+      "star-mini-nohsts.c10r.facebook.com.",
+      "2a03:2880:f119:8083:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini-nohsts.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "mqtt-mini.c10r.facebook.com.",
+    "ipv4": "163.70.147.34",
+    "ipv6": [
+      "2a03:2880:f189:86:face:b00c:0:1ea0"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "smtpin.vvv.facebook.com.",
+    "ipv4": "173.252.87.251",
+    "ipv6": [
+      "2a03:2880:ff:fffd:face:b00c:0:686e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "fb.watch.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "static.facebook.com.",
+    "ipv4": "31.13.80.8",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00e:a:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "www.fb.watch.",
+    "ipv4": "157.240.8.18",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f019:111:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "staticxx.facebook.com.",
+    "ipv4": "157.240.8.23",
+    "ipv6": [
+      "scontent.xx.fbcdn.net.",
+      "2a03:2880:f019:116:face:b00c:0:3"
+    ],
+    "mx": [
+      "scontent.xx.fbcdn.net."
+    ]
+  },
+  {
+    "domain": "work.facebook.com.",
+    "ipv4": "163.70.147.4",
+    "ipv6": [
+      "2a03:2880:f0a5:4:face:b00c:0:2b80"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.facebookmail.com.",
+    "ipv4": "163.70.151.35",
+    "ipv6": [
+      "www.facebook.com.",
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f189:184:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com.",
+      "www.facebook.com."
+    ]
+  },
+  {
+    "domain": "edge-chat.messenger.com.",
+    "ipv4": "57.144.218.141",
+    "ipv6": [
+      "edge-chat.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f36d:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "edge-chat.facebook.com.",
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "fb.com.",
+    "ipv4": "157.240.14.35",
+    "ipv6": [
+      "2a03:2880:f12c:183:face:b00c:0:25de"
+    ],
+    "mx": [
+      "mxa-00082601.gslb.pphosted.com.",
+      "mxb-00082601.gslb.pphosted.com."
+    ]
+  },
+  {
+    "domain": "fblite-p1.c10r.facebook.com.",
+    "ipv4": "157.240.254.2",
+    "ipv6": [
+      "2a03:2880:f082:101:face:b00c:0:580"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mbasic.facebook.com.",
+    "ipv4": "157.240.11.17",
+    "ipv6": [
+      "touch.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00d:110:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com.",
+      "touch.facebook.com."
+    ]
+  },
+  {
+    "domain": "snaptu-d.facebook.com.",
+    "ipv4": "31.13.80.13",
+    "ipv6": [
+      "fblite-p1.c10r.facebook.com.",
+      "2a03:2880:f00e:c:face:b00c:0:580"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "z-p3-graph.facebook.com.",
+    "ipv4": "157.240.254.56",
+    "ipv6": [
+      "z-p3.facebook.com.",
+      "z-p3.c10r.facebook.com.",
+      "2a03:2880:f275:1ce:face:b00c:0:1cc9"
+    ],
+    "mx": [
+      "z-p3.c10r.facebook.com.",
+      "z-p3.facebook.com."
+    ]
+  },
+  {
+    "domain": "graph2.facebook.com.",
+    "ipv4": "31.13.80.8",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00e:a:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "intern.facebook.com.",
+    "ipv4": "157.240.14.7",
+    "ipv6": [
+      "internextern.vvv.facebook.com.",
+      "extern.c10r.facebook.com.",
+      "2a03:2880:f02c:106:face:b00c:0:7c8d"
+    ],
+    "mx": [
+      "extern.c10r.facebook.com.",
+      "internextern.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "es-la.facebook.com.",
+    "ipv4": "163.70.151.23",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f0a5:118:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "developers.facebook.com.",
+    "ipv4": "57.144.218.141",
+    "ipv6": [
+      "developers.c10r.facebook.com.",
+      "2a03:2880:f36d:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "developers.c10r.facebook.com.",
+      "smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-m.c10r.facebook.com.",
+    "ipv4": "57.144.120.6",
+    "ipv6": [
+      "2a03:2880:f33c:6:face:b00c:0:14c9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "an.facebook.com.",
+    "ipv4": "157.240.11.17",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00d:110:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "rupload-hkt1-2.up.facebook.com.",
+    "ipv4": "31.13.75.1",
+    "ipv6": [
+      "2a03:2880:f05a:110:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.fb.me.",
+    "ipv4": "31.13.72.36",
+    "ipv6": [
+      "www.facebook.com.",
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f10a:83:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com.",
+      "www.facebook.com."
+    ]
+  },
+  {
+    "domain": "streaming-graph.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "stun.fbsbx.com.",
+    "ipv4": "157.240.8.3",
+    "ipv6": [
+      "stun.c10r.facebook.com.",
+      "2a03:2880:f019:102:face:b00c:0:24d9"
+    ],
+    "mx": [
+      "stun.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "business.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "graph.accountkit.com.",
+    "ipv4": "157.240.8.18",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f019:111:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "bigzipfiles.facebook.com.",
+    "ipv4": "57.144.204.128",
+    "ipv6": [
+      "scontent.xx.fbcdn.net.",
+      "2a03:2880:f366:80:face:b00c:0:3"
+    ],
+    "mx": [
+      "scontent.xx.fbcdn.net."
+    ]
+  },
+  {
+    "domain": "our.intern.facebook.com.",
+    "ipv4": "157.240.3.11",
+    "ipv6": [
+      "internextern.vvv.facebook.com.",
+      "extern.c10r.facebook.com.",
+      "2a03:2880:f001:20:face:b00c:0:7c8d"
+    ],
+    "mx": [
+      "extern.c10r.facebook.com.",
+      "internextern.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "m.me.",
+    "ipv4": "157.240.11.17",
+    "ipv6": [
+      "2a03:2880:f00d:110:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "time.facebook.com.",
+    "ipv4": "129.134.25.123",
+    "ipv6": [
+      "2a03:2880:ff09::123"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "graph.workplace.com.",
+    "ipv4": "157.240.3.16",
+    "ipv6": [
+      "api.workplace.com.",
+      "secure.c10r.facebook.com.",
+      "2a03:2880:f001:1a:face:b00c:0:2b80"
+    ],
+    "mx": [
+      "api.workplace.com.",
+      "secure.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-m.facebook.com.",
+    "ipv4": "157.240.14.36",
+    "ipv6": [
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f12c:184:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-m-api.facebook.com.",
+    "ipv4": "163.70.147.37",
+    "ipv6": [
+      "z-m.facebook.com.",
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f189:84:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com.",
+      "z-m.facebook.com."
+    ]
+  },
+  {
+    "domain": "free.facebook.com.",
+    "ipv4": "57.144.218.6",
+    "ipv6": [
+      "z-m-nohsts.facebook.com.",
+      "z-m-nohsts.c10r.facebook.com.",
+      "2a03:2880:f36d:6:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com.",
+      "z-m.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-p4.i.instagram.com.",
+    "ipv4": "157.240.11.167",
+    "ipv6": [
+      "z-p4-instagram.c10r.facebook.com.",
+      "2a03:2880:f20d:1ea:face:b00c:0:6200"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "s-static.facebook.com.",
+    "ipv4": "157.240.200.16",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f053:11:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "z-p4.graph.instagram.com.",
+    "ipv4": "157.240.3.167",
+    "ipv6": [
+      "z-p4-instagram.c10r.facebook.com.",
+      "2a03:2880:f201:ea:face:b00c:0:6200"
+    ],
+    "mx": [
+      "z-p4-instagram.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "www.prod.facebook.com.",
+    "ipv4": "57.144.204.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f366:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "apps-304313534763276.fbsbx.com.",
+    "ipv4": "157.240.209.16",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f04e:11:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "edge-mqtt-merge.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "graph.facebook.com.",
+      "api.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mtouch.facebook.com.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "touch.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com.",
+      "touch.facebook.com."
+    ]
+  },
+  {
+    "domain": "attachment.fbsbx.com.",
+    "ipv4": "157.240.254.12",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f082:10d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "our.internmc.facebook.com.",
+    "ipv4": "157.240.11.26",
+    "ipv6": [
+      "intern-managed-client.c10r.facebook.com.",
+      "2a03:2880:f00d:11a:face:b00c:0:420d"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "s.update.fbsbx.com.",
+    "ipv4": "157.240.0.13",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f084:10d:face:b00c:0:2"
+    ],
+    "mx": [
+      "s.agentanalytics.com."
+    ]
+  },
+  {
+    "domain": "z-p3.facebook.com.",
+    "ipv4": "157.240.200.54",
+    "ipv6": [
+      "z-p3.c10r.facebook.com.",
+      "2a03:2880:f253:c9:face:b00c:0:1cc9"
+    ],
+    "mx": [
+      "z-p3.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-m-rupload.facebook.com.",
+    "ipv4": "157.240.3.37",
+    "ipv6": [
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f101:84:face:b00c:0:14c9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "d.facebook.com.",
+    "ipv4": "157.240.11.36",
+    "ipv6": [
+      "z-m.facebook.com.",
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f10d:184:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com.",
+      "z-m.facebook.com."
+    ]
+  },
+  {
+    "domain": "de-de.facebook.com.",
+    "ipv4": "57.144.218.141",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f36d:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "touch.facebook.com.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "webdav.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "api.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": [
+      "api.facebook.com.",
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "instagram.c10r.facebook.com.",
+    "ipv4": "157.240.8.52",
+    "ipv6": [
+      "2a03:2880:f219:80c4:face:b00c:0:43fe"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "phabricator.intern.facebook.com.",
+    "ipv4": "157.240.3.11",
+    "ipv6": [
+      "phabricatorextern.vvv.facebook.com.",
+      "internextern.vvv.facebook.com.",
+      "extern.c10r.facebook.com.",
+      "2a03:2880:f001:20:face:b00c:0:7c8d"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.m.me.",
+    "ipv4": "157.240.14.15",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f02c:10e:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "h.facebook.com.",
+    "ipv4": "173.252.127.252",
+    "ipv6": [
+      "headers-regional.vvv.facebook.com.",
+      "2a03:2880:ff:ffff:face:b00c:0:1"
+    ],
+    "mx": [
+      "headers-regional.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "geo.atlassbx.com.",
+    "ipv4": "157.240.201.14",
+    "ipv6": [
+      "atlas.c10r.facebook.com.",
+      "2a03:2880:f045:f:face:b00c:0:8c"
+    ],
+    "mx": [
+      "atlas.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "shortwave.facebook.com.",
+    "ipv4": "157.240.229.7",
+    "ipv6": [
+      "shortwave.c10r.facebook.com.",
+      "2a03:2880:f003:106:face:b00c:0:467"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "apps-923434011761539.fbsbx.com.",
+    "ipv4": "31.13.70.1",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f00d:1:face:b00c:0:1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "about.facebook.com.",
+    "ipv4": "157.240.11.35",
+    "ipv6": [
+      "www.facebook.com.",
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f10d:183:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com.",
+      "www.facebook.com."
+    ]
+  },
+  {
+    "domain": "z-m-lookaside.facebook.com.",
+    "ipv4": "163.70.147.37",
+    "ipv6": [
+      "z-m-scontent.xx.fbcdn.net.",
+      "2a03:2880:f189:84:face:b00c:0:14c9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "66-220-144-211.mail-pages.facebook.com.",
+    "ipv4": "66.220.144.211",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.msngr.com.",
+    "ipv4": "57.144.120.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f33c:8d:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "beta.facebook.com.",
+    "ipv4": "157.240.11.8",
+    "ipv6": [
+      "latest.c10r.facebook.com.",
+      "2a03:2880:f00d:107:face:b00c:0:4f5a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "es-es.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "embed.fbsbx.com.",
+    "ipv4": "57.144.180.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f35a:8d:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "live-api-s.facebook.com.",
+    "ipv4": "157.240.3.1",
+    "ipv6": [
+      "edgetee-upload.xx.fbcdn.net.",
+      "2a03:2880:f001:17:face:b00c:0:1411"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "b-graph.workplace.com.",
+    "ipv4": "31.13.80.36",
+    "ipv6": [
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f10e:83:face:b00c:0:25de"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.fbwat.ch.",
+    "ipv4": "157.240.14.15",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f02c:10e:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.fb.gg.",
+    "ipv4": "157.240.254.12",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f082:10d:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "connect.facebook.com.",
+    "ipv4": "157.240.3.35",
+    "ipv6": [
+      "www.facebook.com.",
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f101:83:face:b00c:0:25de"
+    ],
+    "mx": [
+      "star-mini.c10r.facebook.com.",
+      "www.facebook.com."
+    ]
+  },
+  {
+    "domain": "developers.c10r.facebook.com.",
+    "ipv4": "163.70.147.22",
+    "ipv6": [
+      "2a03:2880:f0a5:18:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "66-220-155-158.mail-mail.facebook.com.",
+    "ipv4": "66.220.155.158",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "da-dk.facebook.com.",
+    "ipv4": "157.240.200.16",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f053:11:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "upload.messenger.com.",
+    "ipv4": "157.240.25.1",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f035:100:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "kaios-d.facebook.com.",
+    "ipv4": "157.240.3.6",
+    "ipv6": [
+      "fblite-p1.c10r.facebook.com.",
+      "2a03:2880:f001:9:face:b00c:0:580"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "en-gb.facebook.com.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "edge-mqtt.workplace.com.",
+    "ipv4": "157.240.3.13",
+    "ipv6": [
+      "mqtt.c10r.facebook.com.",
+      "2a03:2880:f001:5:face:b00c:0:8e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "m-livestream-lookaside.facebook.com.",
+    "ipv4": "157.240.3.23",
+    "ipv6": [
+      "video.xx.fbcdn.net.",
+      "2a03:2880:f001:13:face:b00c:0:1823"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "fb.me.",
+    "ipv4": "57.144.182.1",
+    "ipv6": [
+      "2a03:2880:f35b:1:face:b00c:0:25de"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "domain": "mqtt-ig-p4.facebook.com.",
+    "ipv4": "157.240.3.173",
+    "ipv6": [
+      "mqtt-ig-p4.c10r.facebook.com.",
+      "2a03:2880:f201:e4:face:b00c:0:2e87"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "pixel.facebook.com.",
+    "ipv4": "57.144.182.6",
+    "ipv6": [
+      "z-m.c10r.facebook.com.",
+      "2a03:2880:f35b:6:face:b00c:0:14c9"
+    ],
+    "mx": [
+      "z-m.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "mqtt-p4.facebook.com.",
+    "ipv4": "163.70.147.170",
+    "ipv6": [
+      "mqtt-p4.c10r.facebook.com.",
+      "2a03:2880:f289:e0:face:b00c:0:7357"
+    ],
+    "mx": [
+      "mqtt-p4.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "secure.facebook.com.",
+    "ipv4": "157.240.3.16",
+    "ipv6": [
+      "secure.c10r.facebook.com.",
+      "2a03:2880:f001:1a:face:b00c:0:2b80"
+    ],
+    "mx": [
+      "secure.c10r.facebook.com."
+    ]
+  },
+  {
+    "domain": "rtmp-api.facebook.com.",
+    "ipv4": "57.144.120.149",
+    "ipv6": [
+      "edgetee-upload.xx.fbcdn.net.",
+      "2a03:2880:f33c:95:face:b00c:0:1411"
+    ],
+    "mx": [
+      "edgetee-upload.xx.fbcdn.net."
+    ]
+  },
+  {
+    "domain": "www.fb.com.",
+    "ipv4": "157.240.3.35",
+    "ipv6": [
+      "www.facebook.com.",
+      "star-mini.c10r.facebook.com.",
+      "2a03:2880:f101:83:face:b00c:0:25de"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "z-p4-graph.facebook.com.",
+    "ipv4": "31.13.80.169",
+    "ipv6": [
+      "z-p4.facebook.com.",
+      "z-p4.c10r.facebook.com.",
+      "2a03:2880:f20e:e2:face:b00c:0:1cce"
+    ],
+    "mx": [
+      "z-p4.c10r.facebook.com.",
+      "z-p4.facebook.com."
+    ]
+  },
+  {
+    "domain": "www.fb.audio.",
+    "ipv4": "57.144.182.141",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f35b:8d:face:b00c:0:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "badge.facebook.com.",
+    "ipv4": "157.240.3.20",
+    "ipv6": [
+      "star.c10r.facebook.com.",
+      "2a03:2880:f001:6:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "nl-nl.facebook.com.",
+    "ipv4": "57.144.204.141",
+    "ipv6": [
+      "star.facebook.com.",
+      "star.c10r.facebook.com.",
+      "2a03:2880:f366:8d:face:b00c:0:2"
+    ],
+    "mx": [
+      "smtpin.vvv.facebook.com.",
+      "star.c10r.facebook.com.",
+      "star.facebook.com."
+    ]
+  },
+  {
+    "domain": "69-171-232-130.mail-mail.facebook.com.",
+    "ipv4": "69.171.232.130",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "fblite-ws-p1.c10r.facebook.com.",
+    "ipv4": "31.13.75.12",
+    "ipv6": [
+      "2a03:2880:f05a:10b:face:b00c:0:1ce0"
+    ],
+    "mx": []
+  }
+]

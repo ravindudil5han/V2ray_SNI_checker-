@@ -1,0 +1,975 @@
+[
+  {
+    "domain": "dialog.lk.",
+    "ipv4": "45.60.197.194",
+    "ipv6": [
+      "2a02:e981:2c::c2",
+      "2a02:e981:2e::c2"
+    ],
+    "mx": [
+      "dialog-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "thepapare.com.",
+    "ipv4": "104.27.194.88",
+    "ipv6": [],
+    "mx": [
+      "incgtw01.dialog.lk.",
+      "incgtw02.dialog.lk.",
+      "thepapare-com.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "www.dialog.lk.",
+    "ipv4": "45.60.197.194",
+    "ipv6": [
+      "om7ihp3.impervadns.net.",
+      "2a02:e981:2c::c2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "selfcare.dialog.lk.",
+    "ipv4": "45.60.197.194",
+    "ipv6": [
+      "5cl7anf.impervadns.net.",
+      "2a02:e981:2c::c2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cumulus.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "cumulus-lk.mail.protection.outlook.com.",
+      "incgtw01.dialog.lk.",
+      "incgtw02.dialog.lk.",
+      "mx2.zoho.com.",
+      "mx3.zoho.com.",
+      "mx.zoho.com."
+    ]
+  },
+  {
+    "domain": "app-engage.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "distributionmanagement.dialog.lk.",
+    "ipv4": "202.69.204.23",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "selfcaretest.dialog.lk.",
+    "ipv4": "45.60.158.45",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ezcashmobileapp.dialog.lk.",
+    "ipv4": "202.69.204.79",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "qoe.dialog.lk.",
+    "ipv4": "122.255.0.120",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ookla1.dialog.lk.prod.hosts.ooklaserver.net.",
+    "ipv4": "122.255.0.42",
+    "ipv6": [
+      "ookla1.dialog.lk.",
+      "2402:4000:100:28::2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "connect.dialog.lk.",
+    "ipv4": "202.69.204.59",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mydoctor.lk.",
+    "ipv4": "104.247.79.129",
+    "ipv6": [],
+    "mx": [
+      "incgtw01.dialog.lk.",
+      "incgtw02.dialog.lk.",
+      "mx2.zoho.com.",
+      "mx3.zoho.com.",
+      "mx.zoho.com."
+    ]
+  },
+  {
+    "domain": "ookla3.dialog.lk.prod.hosts.ooklaserver.net.",
+    "ipv4": "122.255.0.85",
+    "ipv6": [
+      "ookla3.dialog.lk.",
+      "2402:4000:100:54::2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "incgtw02.dialog.lk.",
+    "ipv4": "125.214.169.203",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hbblocked.dialog.lk.",
+    "ipv4": "202.69.204.95",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dlg.dialog.lk.",
+    "ipv4": "52.77.145.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "incgtw01.dialog.lk.",
+    "ipv4": "125.214.169.202",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "christmas.dialog.lk.",
+    "ipv4": "52.84.45.86",
+    "ipv6": [
+      "dd6moxt7gpmzc.cloudfront.net.",
+      "2600:9000:2175:9800:b:c077:2600:93a1",
+      "2600:9000:2175:9000:b:c077:2600:93a1",
+      "2600:9000:2175:be00:b:c077:2600:93a1",
+      "2600:9000:2175:3a00:b:c077:2600:93a1",
+      "2600:9000:2175:6200:b:c077:2600:93a1",
+      "2600:9000:2175:7400:b:c077:2600:93a1",
+      "2600:9000:2175:8400:b:c077:2600:93a1",
+      "2600:9000:2175:2800:b:c077:2600:93a1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "community-dialog-lk.translate.goog.",
+    "ipv4": "142.250.200.193",
+    "ipv6": [
+      "2a00:1450:4006:80c::2001"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "securedconsent.dialog.lk.",
+    "ipv4": "91.220.208.199",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sm.dialog.lk.",
+    "ipv4": "202.69.204.35",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ltentp2.dialog.lk.",
+    "ipv4": "123.231.65.170",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ipg.dialog.lk.",
+    "ipv4": "123.231.64.142",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ookla3.dialog.lk.",
+    "ipv4": "122.255.0.85",
+    "ipv6": [
+      "2402:4000:100:54::2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "starr.lk.",
+    "ipv4": "202.124.185.82",
+    "ipv6": [],
+    "mx": [
+      "incgtw01.dialog.lk.",
+      "incgtw02.dialog.lk.",
+      "mx2.zoho.com.",
+      "mx3.zoho.com.",
+      "mx.zoho.com."
+    ]
+  },
+  {
+    "domain": "sparklink.lk.",
+    "ipv4": "123.231.70.119",
+    "ipv6": [],
+    "mx": [
+      "incgtw01.dialog.lk.",
+      "incgtw02.dialog.lk.",
+      "sparklink-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "ns2.dialog.lk.",
+    "ipv4": "203.115.18.194",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ookla1.dialog.lk.",
+    "ipv4": "122.255.0.42",
+    "ipv6": [
+      "2402:4000:100:28::2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.suntel.lk.",
+    "ipv4": "",
+    "ipv6": [
+      "2a02:e981:2e::c2",
+      "om7ihp3.impervadns.net.",
+      "www.dialog.lk."
+    ],
+    "mx": []
+  },
+  {
+    "domain": "post.dialog.lk.",
+    "ipv4": "123.231.65.67",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "energynetlk.com.",
+    "ipv4": "13.250.247.82",
+    "ipv6": [],
+    "mx": [
+      "incgtw01.dialog.lk.",
+      "incgtw02.dialog.lk.",
+      "relay.wow.lk."
+    ]
+  },
+  {
+    "domain": "merchant-genied.dialog.lk.",
+    "ipv4": "122.255.58.217",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gw9.dialog.lk.",
+    "ipv4": "123.231.70.186",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gitlabcloud.dialog.lk.",
+    "ipv4": "52.77.1.131",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "app.dialog.lk.",
+    "ipv4": "202.69.200.131",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "oam.dialog.lk.",
+    "ipv4": "13.233.217.124",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "services.axis.dialog.lk.",
+    "ipv4": "123.231.51.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ebill4.dialog.lk.",
+    "ipv4": "122.255.5.74",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "relay.dialog.lk.",
+    "ipv4": "125.214.169.18",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "wifiadmin.dialog.lk.",
+    "ipv4": "122.255.23.11",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dialogtv.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "incgtw01.dialog.lk.",
+      "incgtw02.dialog.lk."
+    ]
+  },
+  {
+    "domain": "www-dialog-lk.translate.goog.",
+    "ipv4": "142.250.200.65",
+    "ipv6": [
+      "2a00:1450:4003:80d::2001"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "broadband.dialog.lk.",
+    "ipv4": "122.255.23.11",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "chatbot.dialog.lk.",
+    "ipv4": "202.124.184.109",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "beryl.dialog.lk.",
+    "ipv4": "172.26.28.247",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "20bpcdncs0alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "nautilus.aiengineapi.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "apolloboardpac-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "oct.bizcaremobile-api-test-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "lax-cxsurveyalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cf.mytv-api.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cbsdigitalreachchristmasapp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "parktags-chatbotalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "spamgtw01-axisadeonamms.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "testadeonamms-aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "touch-fuelaxisaiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "v2app-engage-amp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "chatbot-api.covid19rp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "christmasaiengine-dialoglbs.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "axisadeonamms.engage.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cgcloud-amp.gw5.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dialogaiengine-parktags-test.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mithraamp-powernoc.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cpeacsadeonamms-visitortags.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-c28.axidrt.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-mkw.axis.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-kx0.axidrt.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-cce.coe.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-dtt.oss.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-k9t.redox.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-tx5.cxpulse.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-cjr.dz.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-k54.qa.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-6t3.crmcorecloud-qa.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-c09.crmcloud-qa.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-klj.crmcloud-qa.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "-kxr.crmcorecloud.dialog.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cpsolutions-ideamarthosting.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dialog-mytv.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "internal-aiengine.aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "accountaiengine.aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "api-app-engage-adeonamms.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "naamp-lkadeonamms.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "2020-boardpacamp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "brand.covid20rpamp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "brazil-ebill4cgcloud-aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "containerdataverifications-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us-east-11didalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "origin.cxsurveyaiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "consent-amppayments.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ghcpi-didalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bpcdnalipay-mpp-api.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "laneuwapps-api.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "web1.dgl-api.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "apps-genied-api-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bill.avurudu-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "auth.outgtw01-bpcdnalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bizcare-euwapps-api.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bitbucket.admin-adeonamms-aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "stage1.mithra-amp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "chatbotalipay-smscontent.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bpcdnavurudu-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cxsurveyalipayvesak.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "a-aiengineapi-voicelogs2.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bulk-alipayaiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "global.test.app.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cgcloud.bpcdncs3aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cphoroscope-app-engage-ampgw4.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "v3-systemcbsdigitalreach-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "engage.covid20rpamp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gw6.atgrelay-app.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gw5-desolalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "jatloyality.cxsurveyalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "o2astg.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hbblocked.alipay-aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mpp-api-cpeacs-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "outgtw-stdby.engageapi.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "portalaiengine.covid21rpapi.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "adminamp-adeonammsatgrelay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "chatbot-adeonamms.cepm.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cbsdigitalreach-api-boardpac.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "apps-api.gw7.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "community-amp.portal-engage.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cxsurvey-amp-ideamart.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mytv-alipayhcmcloud.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "communityapp-magriapp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bpcdn-adeonamms-mithra-test.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "march.aiengine.covid21rpapi.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sadmin.dialoglbsaiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "webappaiengineadeonamms.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "1-bpcdncs0-app.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "europewestcovid20rp-adeonamms.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "2011-bpcdncs4-amp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "decdataverifications-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "eudidalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cphoroscope-app2.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "web.cxsurvey-api.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "datageniedaiengine-internal.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bpcdncs0alipayjibo.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "us-east-5-genied.aiengine.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ampchatbotalipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "alphadialogadeonamms.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "apps-genied-app-engageapp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mithra-alipaympp-api.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "atgrelayampltentp1.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bucket-mytv-alipay.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "api-apipreorder.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bizcaremobile-api-app-startestapp.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "apps-genied-adeonammssustainability.iotconnect.dialog.lk.",
+    "ipv4": "202.69.201.191",
+    "ipv6": [],
+    "mx": []
+  }
+]

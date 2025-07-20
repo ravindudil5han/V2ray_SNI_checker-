@@ -1,0 +1,1407 @@
+[
+  {
+    "domain": "suggestqueries-clients6.youtube.com.",
+    "ipv4": "142.250.69.174",
+    "ipv6": [
+      "2607:f8b0:400a:808::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.youtube.com.",
+    "ipv4": "142.250.73.142",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2607:f8b0:400a:806::200e",
+      "2607:f8b0:400a:808::200e",
+      "2607:f8b0:400a:80b::200e",
+      "2607:f8b0:400a:80a::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "s.youtube.com.",
+    "ipv4": "142.250.99.100",
+    "ipv6": [
+      "2607:f8b0:400e:c0c::65",
+      "2607:f8b0:400e:c0c::66",
+      "2607:f8b0:400e:c0c::71",
+      "2607:f8b0:400e:c0c::8a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "accounts.youtube.com.",
+    "ipv4": "64.233.176.101",
+    "ipv6": [
+      "www3.l.google.com.",
+      "2607:f8b0:4002:c05::71",
+      "2607:f8b0:4002:c05::65",
+      "2607:f8b0:4002:c05::8a",
+      "2607:f8b0:4002:c05::66"
+    ],
+    "mx": [
+      "www3.l.google.com."
+    ]
+  },
+  {
+    "domain": "signaler-pa.youtube.com.",
+    "ipv4": "172.217.2.46",
+    "ipv6": [
+      "2607:f8b0:4009:802::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "x.rtmp.youtube.com.",
+    "ipv4": "142.251.15.134",
+    "ipv6": [
+      "2607:f8b0:4002:c02::86"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "img.youtube.com.",
+    "ipv4": "142.250.69.110",
+    "ipv6": [
+      "ytimg.l.google.com.",
+      "2607:f8b0:4020:800::200e",
+      "2607:f8b0:4020:802::200e",
+      "2607:f8b0:4020:801::200e",
+      "2607:f8b0:4020:803::200e"
+    ],
+    "mx": [
+      "ytimg.l.google.com."
+    ]
+  },
+  {
+    "domain": "m.youtube.com.",
+    "ipv4": "142.250.73.142",
+    "ipv6": [
+      "2607:f8b0:400a:80d::200e"
+    ],
+    "mx": [
+      "gmr-smtp-in.l.google.com."
+    ]
+  },
+  {
+    "domain": "youtube.com.",
+    "ipv4": "142.250.190.110",
+    "ipv6": [
+      "2607:f8b0:4009:80b::200e"
+    ],
+    "mx": [
+      "smtp.google.com."
+    ]
+  },
+  {
+    "domain": "music.youtube.com.",
+    "ipv4": "142.250.69.142",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2607:f8b0:4020:800::200e",
+      "2607:f8b0:4020:803::200e",
+      "2607:f8b0:4020:801::200e",
+      "2607:f8b0:4020:802::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "restrictmoderate.youtube.com.",
+    "ipv4": "216.239.38.119",
+    "ipv6": [
+      "2001:4860:4802:32::77"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "studio.youtube.com.",
+    "ipv4": "142.250.73.142",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2607:f8b0:400a:80c::200e",
+      "2607:f8b0:400a:806::200e",
+      "2607:f8b0:400a:80d::200e",
+      "2607:f8b0:400a:808::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "restrict.youtube.com.",
+    "ipv4": "216.239.38.120",
+    "ipv6": [
+      "2001:4860:4802:32::78"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "fcmatch.youtube.com.",
+    "ipv4": "142.250.70.174",
+    "ipv6": [
+      "2404:6800:4015:801::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-tt1e7n7l.c.youtube.com.",
+    "ipv4": "173.194.131.103",
+    "ipv6": [
+      "r1.sn-tt1e7n7l.c.youtube.com.",
+      "2607:f8b0:400b:d::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "api.adblock-for-youtube.com.",
+    "ipv4": "104.26.4.156",
+    "ipv6": [
+      "2606:4700:20::681a:49c",
+      "2606:4700:20::681a:59c",
+      "2606:4700:20::ac43:4608"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-t0a7sn7d.c.youtube.com.",
+    "ipv4": "209.85.225.200",
+    "ipv6": [
+      "r3.sn-t0a7sn7d.c.youtube.com.",
+      "2607:f8b0:4020::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-vgqs7ns7.c.youtube.com.",
+    "ipv4": "74.125.159.41",
+    "ipv6": [
+      "r3.sn-vgqs7ns7.c.youtube.com.",
+      "2607:f8b0:4009:34::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.youtube.com.domain.name.",
+    "ipv4": "185.38.109.109",
+    "ipv6": [],
+    "mx": [
+      "com.domain.name.",
+      "mail.com.domain.name."
+    ]
+  },
+  {
+    "domain": "r1---sn-vgqsknee.c.youtube.com.",
+    "ipv4": "173.194.162.39",
+    "ipv6": [
+      "r1.sn-vgqsknee.c.youtube.com.",
+      "2607:f8b0:4009:3d::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-tt1e7n7e.c.youtube.com.",
+    "ipv4": "173.194.131.75",
+    "ipv6": [
+      "r5.sn-tt1e7n7e.c.youtube.com.",
+      "2607:f8b0:400b:c::b"
+    ],
+    "mx": [
+      "r5.sn-tt1e7n7e.c.youtube.com."
+    ]
+  },
+  {
+    "domain": "payments.youtube.com.",
+    "ipv4": "172.253.122.92",
+    "ipv6": [
+      "2607:f8b0:4004:c09::5c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-9gv7enls.c.youtube.com.",
+    "ipv4": "173.194.57.10",
+    "ipv6": [
+      "r5.sn-9gv7enls.c.youtube.com.",
+      "2607:f8b0:4012:4::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-a5meknle.c.youtube.com.",
+    "ipv4": "74.125.103.23",
+    "ipv6": [
+      "rr1.sn-a5meknle.c.youtube.com.",
+      "2607:f8b0:401c:27::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-a5meknll.c.youtube.com.",
+    "ipv4": "74.125.170.103",
+    "ipv6": [
+      "rr1.sn-a5meknll.c.youtube.com.",
+      "2607:f8b0:401c:29::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "upload.youtube.com.",
+    "ipv4": "142.250.217.143",
+    "ipv6": [
+      "yt-video-upload.l.google.com.",
+      "2607:f8b0:4007:818::200f"
+    ],
+    "mx": [
+      "yt-video-upload.l.google.com."
+    ]
+  },
+  {
+    "domain": "rr1---sn-a5mekn6s.c.youtube.com.",
+    "ipv4": "173.194.8.134",
+    "ipv6": [
+      "rr1.sn-a5mekn6s.c.youtube.com.",
+      "2607:f8b0:4007:10::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "consent.youtube.com.",
+    "ipv4": "142.250.70.174",
+    "ipv6": [
+      "2404:6800:4015:801::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "tv.youtube.com.",
+    "ipv4": "142.250.176.14",
+    "ipv6": [
+      "2607:f8b0:4007:809::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr5---sn-npoldn7e.c.youtube.com.",
+    "ipv4": "142.251.84.170",
+    "ipv6": [
+      "rr5.sn-npoldn7e.c.youtube.com.",
+      "2404:6800:4003:20::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr2---sn-a5mekn6s.c.youtube.com.",
+    "ipv4": "173.194.8.135",
+    "ipv6": [
+      "rr2.sn-a5mekn6s.c.youtube.com.",
+      "2607:f8b0:4007:10::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r4---sn-5hne6nzd.c.youtube.com.",
+    "ipv4": "74.125.100.233",
+    "ipv6": [
+      "r4.sn-5hne6nzd.c.youtube.com.",
+      "2a00:1450:400e:13::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-5hne6nzd.c.youtube.com.",
+    "ipv4": "74.125.100.230",
+    "ipv6": [
+      "r1.sn-5hne6nzd.c.youtube.com.",
+      "2a00:1450:400e:13::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-a5msenek.c.youtube.com.",
+    "ipv4": "173.194.8.38",
+    "ipv6": [
+      "rr1.sn-a5msenek.c.youtube.com.",
+      "2607:f8b0:4007:7::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-npoe7ned.c.youtube.com.",
+    "ipv4": "74.125.12.170",
+    "ipv6": [
+      "r5.sn-npoe7ned.c.youtube.com.",
+      "2404:6800:4003:1::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.youtube.com.hk.",
+    "ipv4": "142.250.74.78",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2a00:1450:400f:80a::200e",
+      "2a00:1450:400f:802::200e",
+      "2a00:1450:400f:80b::200e",
+      "2a00:1450:400f:803::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-tt1eln7l.c.youtube.com.",
+    "ipv4": "74.125.0.107",
+    "ipv6": [
+      "r5.sn-tt1eln7l.c.youtube.com.",
+      "2607:f8b0:400b:1::b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2.sn-npoe7n7r.c.youtube.com.",
+    "ipv4": "74.125.10.40",
+    "ipv6": [
+      "2404:6800:400f:8::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr5---sn-tt1eln7e.c.youtube.com.",
+    "ipv4": "74.125.0.75",
+    "ipv6": [
+      "rr5.sn-tt1eln7e.c.youtube.com.",
+      "2607:f8b0:400b::b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-tt1eln7s.c.youtube.com.",
+    "ipv4": "74.125.0.121",
+    "ipv6": [
+      "r3.sn-tt1eln7s.c.youtube.com.",
+      "2607:f8b0:400b:2::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "admin.youtube.com.",
+    "ipv4": "142.250.180.14",
+    "ipv6": [
+      "www3.l.google.com.",
+      "2a00:1450:4009:81e::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1.sn-npoe7n7y.c.youtube.com.",
+    "ipv4": "74.125.10.55",
+    "ipv6": [
+      "2404:6800:400f:b::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr5---sn-tt1e7n7l.c.youtube.com.",
+    "ipv4": "173.194.131.107",
+    "ipv6": [
+      "rr5.sn-tt1e7n7l.c.youtube.com.",
+      "2607:f8b0:400b:d::b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-npoe7ne7.c.youtube.com.",
+    "ipv4": "173.194.59.10",
+    "ipv6": [
+      "r5.sn-npoe7ne7.c.youtube.com.",
+      "2404:6800:4003:d::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-npoldn7l.c.youtube.com.",
+    "ipv4": "142.251.85.8",
+    "ipv6": [
+      "r3.sn-npoldn7l.c.youtube.com.",
+      "2404:6800:4003:21::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3.sn-npoldn7l.c.youtube.com.",
+    "ipv4": "142.251.85.8",
+    "ipv6": [
+      "2404:6800:4003:21::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r4---sn-vgqsrn76.c.youtube.com.",
+    "ipv4": "74.125.159.234",
+    "ipv6": [
+      "r4.sn-vgqsrn76.c.youtube.com.",
+      "2607:f8b0:4009:39::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-npoe7n7y.c.youtube.com.",
+    "ipv4": "74.125.10.55",
+    "ipv6": [
+      "r1.sn-npoe7n7y.c.youtube.com.",
+      "2404:6800:400f:b::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "a.rtmps.youtube.com.",
+    "ipv4": "142.250.117.134",
+    "ipv6": [
+      "2a00:1450:4009:80b::200c",
+      "2a00:1450:4009:819::200c",
+      "2a00:1450:4009:81d::200c",
+      "2a00:1450:4009:81e::200c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "embeddedassistant-frontend-clients6.youtube.com.",
+    "ipv4": "142.250.70.238",
+    "ipv6": [
+      "2404:6800:4015:803::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-tt1e7n7e.c.youtube.com.",
+    "ipv4": "173.194.131.76",
+    "ipv6": [
+      "r6.sn-tt1e7n7e.c.youtube.com.",
+      "2607:f8b0:400b:c::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-t0a7ln7d.c.youtube.com.",
+    "ipv4": "209.85.225.234",
+    "ipv6": [
+      "r5.sn-t0a7ln7d.c.youtube.com.",
+      "2607:f8b0:4020:1::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-vgqsknek.c.youtube.com.",
+    "ipv4": "172.217.129.39",
+    "ipv6": [
+      "r2.sn-vgqsknek.c.youtube.com.",
+      "2607:f8b0:4017:3a::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-tt1e7n7k.c.youtube.com.",
+    "ipv4": "173.194.185.11",
+    "ipv6": [
+      "r5.sn-tt1e7n7k.c.youtube.com.",
+      "2607:f8b0:400b:e::b"
+    ],
+    "mx": [
+      "r5.sn-tt1e7n7k.c.youtube.com."
+    ]
+  },
+  {
+    "domain": "r2---sn-q4flrnl7.c.youtube.com.",
+    "ipv4": "172.217.131.71",
+    "ipv6": [
+      "r2.sn-q4flrnl7.c.youtube.com.",
+      "2607:f8b0:4000:4a::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-tt1eln7s.c.youtube.com.",
+    "ipv4": "74.125.0.124",
+    "ipv6": [
+      "r6.sn-tt1eln7s.c.youtube.com.",
+      "2607:f8b0:400b:2::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-o097znze.c.youtube.com.",
+    "ipv4": "74.125.166.7",
+    "ipv6": [
+      "r2.sn-o097znze.c.youtube.com.",
+      "2607:f8b0:4005:7::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-q4fl6nsd.c.youtube.com.",
+    "ipv4": "74.125.3.166",
+    "ipv6": [
+      "r1.sn-q4fl6nsd.c.youtube.com.",
+      "2607:f8b0:4000:b::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-q4flrnee.c.youtube.com.",
+    "ipv4": "209.85.165.200",
+    "ipv6": [
+      "r3.sn-q4flrnee.c.youtube.com.",
+      "2607:f8b0:4000:41::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-q4flrn7y.c.youtube.com.",
+    "ipv4": "209.85.165.135",
+    "ipv6": [
+      "r2.sn-q4flrn7y.c.youtube.com.",
+      "2607:f8b0:4000:3f::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr2---sn-5hne6nsr.c.youtube.com.",
+    "ipv4": "172.217.132.71",
+    "ipv6": [
+      "rr2.sn-5hne6nsr.c.youtube.com.",
+      "2a00:1450:400e:6::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "a.rtmp.youtube.com.",
+    "ipv4": "142.250.217.108",
+    "ipv6": [
+      "2607:f8b0:400a:808::200c",
+      "2607:f8b0:400a:809::200c",
+      "2607:f8b0:400a:80c::200c",
+      "2607:f8b0:400a:80d::200c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-9gv7ened.c.youtube.com.",
+    "ipv4": "74.125.1.7",
+    "ipv6": [
+      "r2.sn-9gv7ened.c.youtube.com.",
+      "2607:f8b0:4012:11::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "families.youtube.com.",
+    "ipv4": "142.250.217.110",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2607:f8b0:400a:808::200e",
+      "2607:f8b0:400a:806::200e",
+      "2607:f8b0:400a:80a::200e",
+      "2607:f8b0:400a:80b::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "rr1---sn-q4fl6nsr.c.youtube.com.",
+    "ipv4": "172.217.131.198",
+    "ipv6": [
+      "rr1.sn-q4fl6nsr.c.youtube.com.",
+      "2607:f8b0:4000:d::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-tt1eln7l.c.youtube.com.",
+    "ipv4": "74.125.0.103",
+    "ipv6": [
+      "r1.sn-tt1eln7l.c.youtube.com.",
+      "2607:f8b0:400b:1::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-vgqsknel.c.youtube.com.",
+    "ipv4": "173.194.162.76",
+    "ipv6": [
+      "r6.sn-vgqsknel.c.youtube.com.",
+      "2607:f8b0:4009:3e::c"
+    ],
+    "mx": [
+      "r6.sn-vgqsknel.c.youtube.com."
+    ]
+  },
+  {
+    "domain": "r5---sn-o097znsz.c.youtube.com.",
+    "ipv4": "74.125.166.234",
+    "ipv6": [
+      "r5.sn-o097znsz.c.youtube.com.",
+      "2607:f8b0:4005:10::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-5uaeznrz.c.youtube.com.",
+    "ipv4": "74.125.7.71",
+    "ipv6": [
+      "r2.sn-5uaeznrz.c.youtube.com.",
+      "2607:f8b0:4002:2d::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-5hne6nzk.c.youtube.com.",
+    "ipv4": "172.217.132.134",
+    "ipv6": [
+      "rr1.sn-5hne6nzk.c.youtube.com.",
+      "2a00:1450:400e:14::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr3---sn-5hnekn7k.c.youtube.com.",
+    "ipv4": "209.85.226.72",
+    "ipv6": [
+      "rr3.sn-5hnekn7k.c.youtube.com.",
+      "2a00:1450:400e:2::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r4---sn-vgqsknz7.c.youtube.com.",
+    "ipv4": "74.125.159.137",
+    "ipv6": [
+      "r4.sn-vgqsknz7.c.youtube.com.",
+      "2607:f8b0:4009:1::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-t0a7ln7d.c.youtube.com.",
+    "ipv4": "209.85.225.232",
+    "ipv6": [
+      "r3.sn-t0a7ln7d.c.youtube.com.",
+      "2607:f8b0:4020:1::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr4---sn-vgqsknlz.c.youtube.com.",
+    "ipv4": "173.194.54.73",
+    "ipv6": [
+      "rr4.sn-vgqsknlz.c.youtube.com.",
+      "2607:f8b0:4009:3::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqskns7.c.youtube.com.",
+    "ipv4": "74.125.9.170",
+    "ipv6": [
+      "r5.sn-vgqskns7.c.youtube.com.",
+      "2607:f8b0:4009:c::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr6---sn-qxo7rn7s.c.youtube.com.",
+    "ipv4": "173.194.162.172",
+    "ipv6": [
+      "rr6.sn-qxo7rn7s.c.youtube.com.",
+      "2607:f8b0:400f:f::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "gdata.youtube.com.",
+    "ipv4": "108.177.122.118",
+    "ipv6": [
+      "www4.l.google.com.",
+      "2607:f8b0:4002:c02::76"
+    ],
+    "mx": [
+      "www4.l.google.com."
+    ]
+  },
+  {
+    "domain": "nl.youtube.com.",
+    "ipv4": "142.250.74.238",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2a00:1450:4007:805::200e",
+      "2a00:1450:4007:81a::200e",
+      "2a00:1450:4007:819::200e",
+      "2a00:1450:4007:80b::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "r3---sn-ab5szn7s.c.youtube.com.",
+    "ipv4": "74.125.172.57",
+    "ipv6": [
+      "r3.sn-ab5szn7s.c.youtube.com.",
+      "2607:f8b0:401e:2e::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-p5qlsndk.c.youtube.com.",
+    "ipv4": "172.217.135.7",
+    "ipv6": [
+      "r2.sn-p5qlsndk.c.youtube.com.",
+      "2607:f8b0:4004:36::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-p5qs7nee.c.youtube.com.",
+    "ipv4": "74.125.155.248",
+    "ipv6": [
+      "r2.sn-p5qs7nee.c.youtube.com.",
+      "2607:f8b0:4004:2d::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mx.youtube.com.",
+    "ipv4": "172.217.169.46",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2a00:1450:4009:818::200e",
+      "2a00:1450:4009:80b::200e",
+      "2a00:1450:4009:816::200e",
+      "2a00:1450:4009:827::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "r3---sn-vgqsrned.c.youtube.com.",
+    "ipv4": "173.194.191.8",
+    "ipv6": [
+      "r3.sn-vgqsrned.c.youtube.com.",
+      "2607:f8b0:4017:35::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "kids.youtube.com.",
+    "ipv4": "142.250.74.78",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2a00:1450:400f:802::200e",
+      "2a00:1450:400f:80a::200e",
+      "2a00:1450:400f:80b::200e",
+      "2a00:1450:400f:801::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "r2---sn-q4flrnlz.c.youtube.com.",
+    "ipv4": "74.125.3.135",
+    "ipv6": [
+      "r2.sn-q4flrnlz.c.youtube.com.",
+      "2607:f8b0:4000:a::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-a5msenek.c.youtube.com.",
+    "ipv4": "173.194.8.40",
+    "ipv6": [
+      "r3.sn-a5msenek.c.youtube.com.",
+      "2607:f8b0:4007:7::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-a5msenek.c.youtube.com.",
+    "ipv4": "173.194.8.38",
+    "ipv6": [
+      "r1.sn-a5msenek.c.youtube.com.",
+      "2607:f8b0:4007:7::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-a5msenes.c.youtube.com.",
+    "ipv4": "74.125.157.138",
+    "ipv6": [
+      "r5.sn-a5msenes.c.youtube.com.",
+      "2607:f8b0:4007:6::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-t0a7sn7d.c.youtube.com.",
+    "ipv4": "209.85.225.199",
+    "ipv6": [
+      "r2.sn-t0a7sn7d.c.youtube.com.",
+      "2607:f8b0:4020::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-30a7rn7l.c.youtube.com.",
+    "ipv4": "173.194.22.249",
+    "ipv6": [
+      "r3.sn-30a7rn7l.c.youtube.com.",
+      "2404:6800:4001:13::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3.sn-30a7rn7l.c.youtube.com.",
+    "ipv4": "173.194.22.249",
+    "ipv6": [
+      "2404:6800:4001:13::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "casespartner-pa.youtube.com.",
+    "ipv4": "142.250.190.110",
+    "ipv6": [
+      "2607:f8b0:4009:80b::200e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6.sn-tt1eln7e.c.youtube.com.",
+    "ipv4": "74.125.0.76",
+    "ipv6": [
+      "2607:f8b0:400b::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-hxa76n7s.c.youtube.com.",
+    "ipv4": "74.125.109.70",
+    "ipv6": [
+      "r1.sn-hxa76n7s.c.youtube.com.",
+      "2404:6800:4015:1::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-5hne6nzd.c.youtube.com.",
+    "ipv4": "74.125.100.232",
+    "ipv6": [
+      "r3.sn-5hne6nzd.c.youtube.com.",
+      "2a00:1450:400e:13::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr3---sn-5hnedn7l.c.youtube.com.",
+    "ipv4": "74.125.100.153",
+    "ipv6": [
+      "rr3.sn-5hnedn7l.c.youtube.com.",
+      "2a00:1450:401c:15::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqsrnll.c.youtube.com.",
+    "ipv4": "172.217.129.106",
+    "ipv6": [
+      "r5.sn-vgqsrnll.c.youtube.com.",
+      "2607:f8b0:4017:3c::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-tt1e7n7k.c.youtube.com.",
+    "ipv4": "173.194.185.12",
+    "ipv6": [
+      "r6.sn-tt1e7n7k.c.youtube.com.",
+      "2607:f8b0:400b:e::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-t0a7sn7d.c.youtube.com.",
+    "ipv4": "209.85.225.198",
+    "ipv6": [
+      "rr1.sn-t0a7sn7d.c.youtube.com.",
+      "2607:f8b0:4020::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqsknz7.c.youtube.com.",
+    "ipv4": "74.125.159.138",
+    "ipv6": [
+      "r5.sn-vgqsknz7.c.youtube.com.",
+      "2607:f8b0:4009:1::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-tt1e7n7k.c.youtube.com.",
+    "ipv4": "173.194.185.7",
+    "ipv6": [
+      "r1.sn-tt1e7n7k.c.youtube.com.",
+      "2607:f8b0:400b:e::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqsknez.c.youtube.com.",
+    "ipv4": "173.194.191.74",
+    "ipv6": [
+      "r5.sn-vgqsknez.c.youtube.com.",
+      "2607:f8b0:4017:37::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqsknlr.c.youtube.com.",
+    "ipv4": "74.125.9.106",
+    "ipv6": [
+      "r5.sn-vgqsknlr.c.youtube.com.",
+      "2607:f8b0:4009:a::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-vgqsrnld.c.youtube.com.",
+    "ipv4": "74.125.156.70",
+    "ipv6": [
+      "r1.sn-vgqsrnld.c.youtube.com.",
+      "2607:f8b0:4009:18::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-vgqsknsk.c.youtube.com.",
+    "ipv4": "74.125.161.70",
+    "ipv6": [
+      "r1.sn-vgqsknsk.c.youtube.com.",
+      "2607:f8b0:4009:1a::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-vgqsknld.c.youtube.com.",
+    "ipv4": "74.125.9.39",
+    "ipv6": [
+      "r2.sn-vgqsknld.c.youtube.com.",
+      "2607:f8b0:4009:5::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-vgqs7ns7.c.youtube.com.",
+    "ipv4": "74.125.159.44",
+    "ipv6": [
+      "r6.sn-vgqs7ns7.c.youtube.com.",
+      "2607:f8b0:4009:34::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr2---sn-tt1e7n7e.c.youtube.com.",
+    "ipv4": "173.194.131.72",
+    "ipv6": [
+      "rr2.sn-tt1e7n7e.c.youtube.com.",
+      "2607:f8b0:400b:c::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-tt1eln7e.c.youtube.com.",
+    "ipv4": "74.125.0.76",
+    "ipv6": [
+      "r6.sn-tt1eln7e.c.youtube.com.",
+      "2607:f8b0:400b::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqsrnlz.c.youtube.com.",
+    "ipv4": "74.125.156.10",
+    "ipv6": [
+      "r5.sn-vgqsrnlz.c.youtube.com.",
+      "2607:f8b0:4009:f::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www-youtube-com.app4.nc7.skyfencenet.com.",
+    "ipv4": "52.9.72.7",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-vgqsknly.c.youtube.com.",
+    "ipv4": "74.125.9.136",
+    "ipv6": [
+      "r3.sn-vgqsknly.c.youtube.com.",
+      "2607:f8b0:4009:b::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-tt1e7n7l.c.youtube.com.",
+    "ipv4": "173.194.131.108",
+    "ipv6": [
+      "r6.sn-tt1e7n7l.c.youtube.com.",
+      "2607:f8b0:400b:d::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-vgqsrn7d.c.youtube.com.",
+    "ipv4": "74.125.159.252",
+    "ipv6": [
+      "r6.sn-vgqsrn7d.c.youtube.com.",
+      "2607:f8b0:4009:3a::c"
+    ],
+    "mx": [
+      "r6.sn-vgqsrn7d.c.youtube.com."
+    ]
+  },
+  {
+    "domain": "r4---sn-tt1eln7e.c.youtube.com.",
+    "ipv4": "74.125.0.74",
+    "ipv6": [
+      "r4.sn-tt1eln7e.c.youtube.com.",
+      "2607:f8b0:400b::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-5hneknes.c.youtube.com.",
+    "ipv4": "74.125.8.202",
+    "ipv6": [
+      "r5.sn-5hneknes.c.youtube.com.",
+      "2a00:1450:400e:10::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr3---sn-q4fl6nz7.c.youtube.com.",
+    "ipv4": "173.194.24.8",
+    "ipv6": [
+      "rr3.sn-q4fl6nz7.c.youtube.com.",
+      "2607:f8b0:4000:10::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-vgqsknlk.c.youtube.com.",
+    "ipv4": "74.125.9.71",
+    "ipv6": [
+      "r2.sn-vgqsknlk.c.youtube.com.",
+      "2607:f8b0:4009:6::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "gaming.youtube.com.",
+    "ipv4": "142.250.190.142",
+    "ipv6": [
+      "youtube-ui.l.google.com.",
+      "2607:f8b0:4009:804::200e",
+      "2607:f8b0:4009:808::200e",
+      "2607:f8b0:4009:806::200e",
+      "2607:f8b0:4009:807::200e"
+    ],
+    "mx": [
+      "youtube-ui.l.google.com."
+    ]
+  },
+  {
+    "domain": "m.youtube.com.lan.timscomputer.com.",
+    "ipv4": "72.136.41.122",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "r4---sn-q0c7rn76.c.youtube.com.",
+    "ipv4": "173.194.129.233",
+    "ipv6": [
+      "r4.sn-q0c7rn76.c.youtube.com.",
+      "2a00:1450:400b:9::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-q4flrnee.c.youtube.com.",
+    "ipv4": "209.85.165.198",
+    "ipv6": [
+      "rr1.sn-q4flrnee.c.youtube.com.",
+      "2607:f8b0:4000:41::6"
+    ],
+    "mx": [
+      "rr1.sn-q4flrnee.c.youtube.com."
+    ]
+  },
+  {
+    "domain": "r2---sn-tt1eln7s.c.youtube.com.",
+    "ipv4": "74.125.0.120",
+    "ipv6": [
+      "r2.sn-tt1eln7s.c.youtube.com.",
+      "2607:f8b0:400b:2::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-h5q7kned.c.youtube.com.",
+    "ipv4": "74.125.97.166",
+    "ipv6": [
+      "rr1.sn-h5q7kned.c.youtube.com.",
+      "2a00:1450:4003:23::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-p5qs7ner.c.youtube.com.",
+    "ipv4": "173.194.184.139",
+    "ipv6": [
+      "r5.sn-p5qs7ner.c.youtube.com.",
+      "2607:f8b0:4004:32::b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqskn7e.c.youtube.com.",
+    "ipv4": "74.125.159.59",
+    "ipv6": [
+      "r5.sn-vgqskn7e.c.youtube.com.",
+      "2607:f8b0:4009:35::b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqskned.c.youtube.com.",
+    "ipv4": "172.217.129.10",
+    "ipv6": [
+      "r5.sn-vgqskned.c.youtube.com.",
+      "2607:f8b0:4017:39::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r1---sn-qxoedne7.c.youtube.com.",
+    "ipv4": "74.125.161.38",
+    "ipv6": [
+      "r1.sn-qxoedne7.c.youtube.com.",
+      "2607:f8b0:400f:1::6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "img-youtube-com.cdn.ampproject.org.",
+    "ipv4": "142.250.69.161",
+    "ipv6": [
+      "cdn-content.ampproject.org.",
+      "2607:f8b0:400a:808::2001"
+    ],
+    "mx": [
+      "cdn-content.ampproject.org."
+    ]
+  },
+  {
+    "domain": "rr3---sn-p5qs7nsk.c.youtube.com.",
+    "ipv4": "74.125.155.136",
+    "ipv6": [
+      "rr3.sn-p5qs7nsk.c.youtube.com.",
+      "2607:f8b0:4004:f::8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-p5qs7nek.c.youtube.com.",
+    "ipv4": "173.194.184.107",
+    "ipv6": [
+      "r5.sn-p5qs7nek.c.youtube.com.",
+      "2607:f8b0:4004:31::b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr3---sn-p5qs7nek.c.youtube.com.",
+    "ipv4": "173.194.184.105",
+    "ipv6": [
+      "rr3.sn-p5qs7nek.c.youtube.com.",
+      "2607:f8b0:4004:31::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr3---sn-p5qlsnzd.c.youtube.com.",
+    "ipv4": "173.194.53.201",
+    "ipv6": [
+      "rr3.sn-p5qlsnzd.c.youtube.com.",
+      "2607:f8b0:4004:e::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r4---sn-a5meknl6.c.youtube.com.",
+    "ipv4": "173.194.166.74",
+    "ipv6": [
+      "r4.sn-a5meknl6.c.youtube.com.",
+      "2607:f8b0:4007:29::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-a5mlrn7k.c.youtube.com.",
+    "ipv4": "173.194.166.140",
+    "ipv6": [
+      "r6.sn-a5mlrn7k.c.youtube.com.",
+      "2607:f8b0:4007:2d::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r3---sn-vgqsrn76.c.youtube.com.",
+    "ipv4": "74.125.159.233",
+    "ipv6": [
+      "r3.sn-vgqsrn76.c.youtube.com.",
+      "2607:f8b0:4009:39::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr2---sn-p5qlsndr.c.youtube.com.",
+    "ipv4": "172.217.135.39",
+    "ipv6": [
+      "rr2.sn-p5qlsndr.c.youtube.com.",
+      "2607:f8b0:4004:37::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr2---sn-p5qs7nsr.c.youtube.com.",
+    "ipv4": "74.125.155.167",
+    "ipv6": [
+      "rr2.sn-p5qs7nsr.c.youtube.com.",
+      "2607:f8b0:4004:10::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-p5qs7nsr.c.youtube.com.",
+    "ipv4": "74.125.155.167",
+    "ipv6": [
+      "r2.sn-p5qs7nsr.c.youtube.com.",
+      "2607:f8b0:4004:10::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r2---sn-a5msen7l.c.youtube.com.",
+    "ipv4": "173.194.167.71",
+    "ipv6": [
+      "r2.sn-a5msen7l.c.youtube.com.",
+      "2607:f8b0:401c:2f::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr5---sn-p5qs7nsr.c.youtube.com.",
+    "ipv4": "74.125.155.170",
+    "ipv6": [
+      "rr5.sn-p5qs7nsr.c.youtube.com.",
+      "2607:f8b0:4004:10::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr5---sn-vgqsrn7d.c.youtube.com.",
+    "ipv4": "74.125.159.251",
+    "ipv6": [
+      "rr5.sn-vgqsrn7d.c.youtube.com.",
+      "2607:f8b0:4009:3a::b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6.sn-p5qs7nes.c.youtube.com.",
+    "ipv4": "173.194.184.44",
+    "ipv6": [
+      "2607:f8b0:4004:2f::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr1---sn-a5mlrn76.c.youtube.com.",
+    "ipv4": "74.125.170.55",
+    "ipv6": [
+      "rr1.sn-a5mlrn76.c.youtube.com.",
+      "2607:f8b0:401c:c::7"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr6---sn-p5qlsnzd.c.youtube.com.",
+    "ipv4": "173.194.53.204",
+    "ipv6": [
+      "rr6.sn-p5qlsnzd.c.youtube.com.",
+      "2607:f8b0:4004:e::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-p5qs7nsr.c.youtube.com.",
+    "ipv4": "74.125.155.170",
+    "ipv6": [
+      "r5.sn-p5qs7nsr.c.youtube.com.",
+      "2607:f8b0:4004:10::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "rr4---sn-vgqsrnlk.c.youtube.com.",
+    "ipv4": "74.125.156.105",
+    "ipv6": [
+      "rr4.sn-vgqsrnlk.c.youtube.com.",
+      "2607:f8b0:4009:19::9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r6---sn-p5qlsnzd.c.youtube.com.",
+    "ipv4": "173.194.53.204",
+    "ipv6": [
+      "r6.sn-p5qlsnzd.c.youtube.com.",
+      "2607:f8b0:4004:e::c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-vgqsknsk.c.youtube.com.",
+    "ipv4": "74.125.161.74",
+    "ipv6": [
+      "r5.sn-vgqsknsk.c.youtube.com.",
+      "2607:f8b0:4009:1a::a"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "r5---sn-un57sn7z.c.youtube.com.",
+    "ipv4": "74.125.10.155",
+    "ipv6": [
+      "r5.sn-un57sn7z.c.youtube.com.",
+      "2404:6800:4008:12::b"
+    ],
+    "mx": []
+  }
+]

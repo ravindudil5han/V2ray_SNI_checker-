@@ -1,0 +1,1721 @@
+[
+  {
+    "domain": "api-global.netflix.com.",
+    "ipv4": "54.189.73.148",
+    "ipv6": [
+      "api-global.dradis.netflix.com.",
+      "api-global.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de85::c584",
+      "2600:1f14:62a:de81::b588",
+      "2600:1f14:62a:de80::e317"
+    ],
+    "mx": [
+      "api-global.dradis.netflix.com.",
+      "api-global.us-east-1.origin.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "ichnaea.netflix.com.",
+    "ipv4": "52.12.134.97",
+    "ipv6": [
+      "ichnaea.dradis.netflix.com.",
+      "ichnaea.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de82::7735",
+      "2600:1f14:62a:de84::1f5a",
+      "2600:1f14:62a:de83::2b44"
+    ],
+    "mx": [
+      "ichnaea.dradis.netflix.com.",
+      "ichnaea.us-east-1.origin.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "nrdp52-appboot.netflix.com.",
+    "ipv4": "100.28.13.17",
+    "ipv6": [
+      "appboot.dradis.netflix.com.",
+      "appboot.us-east-1.origin.prodaa.netflix.com.",
+      "2600:1f18:631e:2f80::8991",
+      "2600:1f18:631e:2f82::7870",
+      "2600:1f18:631e:2f81::b166"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ios.prod.cloud.netflix.com.",
+    "ipv4": "44.235.227.192",
+    "ipv6": [
+      "ios.prod.dradis.netflix.com.",
+      "ios.prod.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de81:3807:db5c:c78a:4ad0",
+      "2600:1f14:62a:de83:5ff5:433c:c95c:5a52",
+      "2600:1f14:62a:de82:ae49:4622:9224:8be1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp51-appboot.netflix.com.",
+    "ipv4": "52.89.219.164",
+    "ipv6": [
+      "appboot.dradis.netflix.com.",
+      "appboot.us-west-2.origin.prodaa.netflix.com.",
+      "2600:1f14:62a:de83::3edb",
+      "2600:1f14:62a:de84::af07",
+      "2600:1f14:62a:de82::75ed"
+    ],
+    "mx": [
+      "appboot.dradis.netflix.com.",
+      "appboot.netflix.com.",
+      "appboot.us-east-1.origin.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "cdn-0.nflximg.com.",
+    "ipv4": "23.32.75.21",
+    "ipv6": [
+      "dscg.netflix.com.edgesuite.net.",
+      "a743.dscg.akamai.net.",
+      "2600:1409:9800:e3::172e:e405",
+      "2600:1409:9800:e3::172e:e40f"
+    ],
+    "mx": [
+      "a743.dscg.akamai.net.",
+      "dscg.netflix.com.edgesuite.net."
+    ]
+  },
+  {
+    "domain": "push.prod.netflix.com.",
+    "ipv4": "3.140.92.74",
+    "ipv6": [
+      "push.prod.dradis.netflix.com.",
+      "push.prod.us-east-2.internal.dradis.netflix.com.",
+      "pushy-prod-nlb1-shard2-61b6e2f158c74469.elb.us-east-2.amazonaws.com.",
+      "2a03:5640:f502:82::de1b:20d",
+      "2a03:5640:f502:80::de1b:20d",
+      "2a03:5640:f502:81::de1b:20d"
+    ],
+    "mx": [
+      "push.prod.dradis.netflix.com.",
+      "push.prod.us-east-2.internal.dradis.netflix.com.",
+      "pushy-prod-nlb1-shard2-61b6e2f158c74469.elb.us-east-2.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "appboot.netflix.com.",
+    "ipv4": "34.217.204.82",
+    "ipv6": [
+      "appboot.dradis.netflix.com.",
+      "appboot.us-west-2.origin.prodaa.netflix.com.",
+      "2600:1f14:62a:de83::3edb",
+      "2600:1f14:62a:de82::75ed",
+      "2600:1f14:62a:de84::af07"
+    ],
+    "mx": [
+      "appboot.dradis.netflix.com.",
+      "appboot.us-east-1.origin.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "uiboot.netflix.com.",
+    "ipv4": "52.89.219.164",
+    "ipv6": [
+      "uiboot.dradis.netflix.com.",
+      "uiboot.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-appboot-nlb-048ab784d02e27b7.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83::3edb",
+      "2600:1f14:62a:de82::75ed",
+      "2600:1f14:62a:de84::af07"
+    ],
+    "mx": [
+      "uiboot.dradis.netflix.com.",
+      "uiboot.us-west-2.origin.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "nrdp.nccp.netflix.com.",
+    "ipv4": "34.215.33.77",
+    "ipv6": [
+      "nrdp.nccp.dradis.netflix.com.",
+      "nrdp.nccp.us-west-2.origin.prodaa.netflix.com.",
+      "2620:108:700f::340a:2848",
+      "2620:108:700f::36ba:6f2e",
+      "2620:108:700f::3419:cb97",
+      "2620:108:700f::3420:b023",
+      "2620:108:700f::22d7:214d",
+      "2620:108:700f::36bf:1133"
+    ],
+    "mx": [
+      "nrdp.nccp.dradis.netflix.com.",
+      "nrdp.nccp.us-east-1.origin.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "api-global.dradis.netflix.com.",
+    "ipv4": "34.208.235.84",
+    "ipv6": [
+      "api-global.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de80::e317",
+      "2600:1f14:62a:de81::b588",
+      "2600:1f14:62a:de85::c584"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "uiboot.us-east-1.origin.prodaa.netflix.com.",
+    "ipv4": "34.232.35.42",
+    "ipv6": [
+      "2406:da00:ff00::22ce:a8cf",
+      "2406:da00:ff00::22ce:a9a2",
+      "2406:da00:ff00::342c:c5d7",
+      "2406:da00:ff00::34c9:9815",
+      "2406:da00:ff00::34cb:a7b5",
+      "2406:da00:ff00::36a4:8459"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cfqy47ky6mgmtdmcjgzi2-use1.r.nflxso.net.",
+    "ipv4": "45.57.41.1",
+    "ipv6": [
+      "ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "preapp.prod.partner.netflix.net.",
+    "ipv4": "52.32.180.30",
+    "ipv6": [
+      "prod.partner.dradis.netflix.com.",
+      "prod.partner.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-partner-prod-nlb-a811e4025c8f4f94.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83::2f7a:a27",
+      "2600:1f14:62a:de84::2f7a:a27",
+      "2600:1f14:62a:de85::2f7a:a27"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp.prod.ftl.netflix.com.",
+    "ipv4": "45.57.41.1",
+    "ipv6": [
+      "nrdp-ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2041::1",
+      "2a00:86c0:2040::1"
+    ],
+    "mx": [
+      "nrdp-ixanycast.ftl.netflix.com."
+    ]
+  },
+  {
+    "domain": "netflix.com.",
+    "ipv4": "44.234.232.238",
+    "ipv6": [
+      "2600:1f14:62a:de83:c61a:d6e:18b0:65f7",
+      "2600:1f14:62a:de84:880a:88cc:a16:5423",
+      "2600:1f14:62a:de85:d7:e7a1:8f7d:f6f5"
+    ],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "prod.http1.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "100.28.105.134",
+    "ipv6": [
+      "apiproxy-prod-nlb-s1-039a55634a1916a2.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f81::6f95",
+      "2600:1f18:631e:2f85::d7e1",
+      "2600:1f18:631e:2f80::12c4"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "customerevents.netflix.com.",
+    "ipv4": "52.41.166.128",
+    "ipv6": [
+      "customerevents.dradis.netflix.com.",
+      "customerevents.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de84::1f5a",
+      "2600:1f14:62a:de83::2b44",
+      "2600:1f14:62a:de82::7735"
+    ],
+    "mx": [
+      "customerevents.dradis.netflix.com.",
+      "customerevents.us-east-1.internal.dradis.netflix.com.",
+      "dualstack.beaconserver-ce-vpc0-1554522796.us-east-1.elb.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "oca-api.eu-west-1.origin.prodaa.netflix.com.",
+    "ipv4": "34.240.82.124",
+    "ipv6": [
+      "2a05:d018:76c:b680:7a1d:f01:7de6:67ab",
+      "2a05:d018:76c:b684:5b1f:ab91:3aab:e3e2",
+      "2a05:d018:76c:b685:f88e:5b32:13ca:6f51"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp.prod.cloud.netflix.com.",
+    "ipv4": "44.224.145.135",
+    "ipv6": [
+      "nrdp.prod.dradis.netflix.com.",
+      "nrdp.prod.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-nrdp-prod-nlb-3-80d1f4b305f7c0e4.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83:e40a:af1a:866b:9bd0",
+      "2600:1f14:62a:de84:c768:4983:e89c:3ed9",
+      "2600:1f14:62a:de85:7bd2:b294:6a2b:8fca"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "secure.netflix.com.",
+    "ipv4": "45.57.91.1",
+    "ipv6": [
+      "sec-oc.netflix.com.",
+      "2a00:86c0:2091::1",
+      "2a00:86c0:2090::1"
+    ],
+    "mx": [
+      "sec-oc.netflix.com."
+    ]
+  },
+  {
+    "domain": "uiboot.dradis.netflix.com.",
+    "ipv4": "34.217.204.82",
+    "ipv6": [
+      "uiboot.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-appboot-nlb-048ab784d02e27b7.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83::3edb",
+      "2600:1f14:62a:de82::75ed",
+      "2600:1f14:62a:de84::af07"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "android.prod.cloud.netflix.com.",
+    "ipv4": "44.235.228.33",
+    "ipv6": [
+      "android.prod.dradis.netflix.com.",
+      "android.prod.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-device-prod-nlb-2-9a34ae4608b5939d.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de82:a197:da7d:25e4:783e",
+      "2600:1f14:62a:de81:7136:a5f:2597:8d0e",
+      "2600:1f14:62a:de83:6614:5a60:a864:ac2c"
+    ],
+    "mx": [
+      "android.prod.dradis.netflix.com.",
+      "android.prod.us-east-1.internal.dradis.netflix.com.",
+      "dualstack.apiproxy-device-prod-nlb-1-c582e7914e487bf4.elb.us-east-1.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "prod.http1.dradis.netflix.com.",
+    "ipv4": "3.148.32.134",
+    "ipv6": [
+      "prod.http1.us-east-2.internal.dradis.netflix.com.",
+      "apiproxy-prod-nlb-s1-d483e7998f43a4d2.elb.us-east-2.amazonaws.com.",
+      "2a03:5640:f502:85::aaa7",
+      "2a03:5640:f502:84::a5d2",
+      "2a03:5640:f502:83::98fd"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ios.prod.http1.netflix.com.",
+    "ipv4": "44.236.148.165",
+    "ipv6": [
+      "prod.http1.dradis.netflix.com.",
+      "prod.http1.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de81::b588",
+      "2600:1f14:62a:de85::c584",
+      "2600:1f14:62a:de80::e317"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "api-global.us-east-1.origin.prodaa.netflix.com.",
+    "ipv4": "34.204.22.118",
+    "ipv6": [
+      "2406:da00:ff00::22ce:a9a2",
+      "2406:da00:ff00::22e6:cf05",
+      "2406:da00:ff00::3407:f4fc",
+      "2406:da00:ff00::342c:c5d7",
+      "2406:da00:ff00::34cb:a7b5",
+      "2406:da00:ff00::36a4:8459"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp-ixanycast.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "prod.partner.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "3.214.222.247",
+    "ipv6": [
+      "apiproxy-partner-prod-nlb-a6ad37ff4985d5f0.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f84::d05:a27",
+      "2600:1f18:631e:2f83::d05:a27",
+      "2600:1f18:631e:2f85::d05:a27"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp-cell5.prod.ftl.netflix.com.",
+    "ipv4": "45.57.41.1",
+    "ipv6": [
+      "nrdp-ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ichnaea.us-east-1.origin.prodaa.netflix.com.",
+    "ipv4": "34.195.199.189",
+    "ipv6": [
+      "2406:da00:ff00::22c3:c7bd",
+      "2406:da00:ff00::3417:716c",
+      "2406:da00:ff00::34ce:257d"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.netflix.com.",
+    "ipv4": "44.242.13.161",
+    "ipv6": [
+      "www.dradis.netflix.com.",
+      "www.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-website-nlb-prod-1-bcf28d21f4bbcf2c.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de85:d7:e7a1:8f7d:f6f5",
+      "2600:1f14:62a:de84:880a:88cc:a16:5423",
+      "2600:1f14:62a:de83:c61a:d6e:18b0:65f7"
+    ],
+    "mx": [
+      "apiproxy-website-nlb-prod-2-e98cb8cf33ff3581.elb.us-west-2.amazonaws.com.",
+      "www.dradis.netflix.com.",
+      "www.us-west-2.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "android.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "mobile-ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": [
+      "dualstack.apiproxy-device-prod-nlb-2-300c995e1ce8a001.elb.us-east-1.amazonaws.com.",
+      "mobile-ixanycast.ftl.netflix.com.",
+      "mobile.prod.dradis.netflix.com.",
+      "mobile.prod.us-east-1.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "ios.prod.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "52.87.23.187",
+    "ipv6": [
+      "apiproxy-device-prod-nlb-2-300c995e1ce8a001.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f80:8c98:76bb:7067:5dcf",
+      "2600:1f18:631e:2f82:cc6b:801e:741f:356b",
+      "2600:1f18:631e:2f84:a39b:9160:fc04:5fec"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ichnaea-web.dradis.netflix.com.",
+    "ipv4": "52.210.175.228",
+    "ipv6": [
+      "ichnaea-web.eu-west-1.internal.dradis.netflix.com.",
+      "apiproxy-log-nlb-d0872ab45f5e09a4.elb.eu-west-1.amazonaws.com.",
+      "2a05:d018:76c:b684::a504",
+      "2a05:d018:76c:b682::265e",
+      "2a05:d018:76c:b683::f7af"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "fast.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "44.213.242.188",
+    "ipv6": [
+      "apiproxy-api-fast-vpc0-nlb-739bfb3890cadc3e.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f80::2ab7:865c",
+      "2600:1f18:631e:2f81::2ab7:865c",
+      "2600:1f18:631e:2f82::2ab7:865c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "anycast.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ipv4-c033-ewr002-ix.1.oca.nflxvideo.net.",
+    "ipv4": "34.226.26.51",
+    "ipv6": [
+      "hdupgrade.dradis.netflix.com.",
+      "hdupgrade.us-east-1.internal.dradis.netflix.com.",
+      "apiproxy-nrdp-prod-nlb-4-1bc42b8ac5280fe3.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f81:df6b:53c4:249c:83a7",
+      "2600:1f18:631e:2f80:36dc:caa0:4c7a:30b7",
+      "2600:1f18:631e:2f85:4b6b:f6f4:257e:16a5"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "android-appboot.netflix.com.",
+    "ipv4": "44.234.6.167",
+    "ipv6": [
+      "android-appboot.dradis.netflix.com.",
+      "android-appboot.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-appboot-nlb-048ab784d02e27b7.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de84::af07",
+      "2600:1f14:62a:de82::75ed",
+      "2600:1f14:62a:de83::3edb"
+    ],
+    "mx": [
+      "android-appboot.dradis.netflix.com.",
+      "android-appboot.us-east-1.internal.dradis.netflix.com.",
+      "dualstack.apiproxy-appboot-android-vpc0-784975067.us-east-1.elb.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "oca-api.netflix.com.",
+    "ipv4": "34.213.114.77",
+    "ipv6": [
+      "oca-api.dradis.netflix.com.",
+      "oca-api.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83:c047:bac5:4731:1f1c",
+      "2600:1f14:62a:de84:4a6f:9bc6:4c92:b622",
+      "2600:1f14:62a:de85:8b5c:f80e:a1b5:1e85"
+    ],
+    "mx": [
+      "dualstack.apiproxy-ftl-nlb-04ed0e117cfaebf5.elb.us-east-1.amazonaws.com.",
+      "oca-api.dradis.netflix.com.",
+      "oca-api.us-east-1.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "nflx-android-tv.prod.partner.netflix.net.",
+    "ipv4": "107.23.144.120",
+    "ipv6": [
+      "prod.partner.dradis.netflix.com.",
+      "prod.partner.us-east-1.internal.dradis.netflix.com.",
+      "apiproxy-partner-prod-nlb-a6ad37ff4985d5f0.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f83::d05:a27",
+      "2600:1f18:631e:2f84::d05:a27",
+      "2600:1f18:631e:2f85::d05:a27"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "android.nccp.netflix.com.",
+    "ipv4": "52.202.154.190",
+    "ipv6": [
+      "android.nccp.dradis.netflix.com.",
+      "android.nccp.us-east-1.internal.dradis.netflix.com.",
+      "dualstack.nccp-wildcard-nccp-netflix-com-v-1505715482.us-east-1.elb.amazonaws.com.",
+      "2406:da00:ff00::22c6:62a0",
+      "2406:da00:ff00::34cf:c947",
+      "2406:da00:ff00::3457:7b37",
+      "2406:da00:ff00::34ca:9abe",
+      "2406:da00:ff00::22e9:8166",
+      "2406:da00:ff00::3405:56a0",
+      "2406:da00:ff00::3652:7a41",
+      "2406:da00:ff00::36ae:8d02"
+    ],
+    "mx": [
+      "android.nccp.dradis.netflix.com.",
+      "android.nccp.us-east-1.internal.dradis.netflix.com.",
+      "dualstack.nccp-wildcard-nccp-netflix-com-v-1505715482.us-east-1.elb.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "probe-cell9.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mobile-ixanycast.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ichnaea-web.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "3.230.56.88",
+    "ipv6": [
+      "apiproxy-log-nlb-72c5f7ae51b322e8.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f84::ac8d",
+      "2600:1f18:631e:2f85::7e01",
+      "2600:1f18:631e:2f80::21a4"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ichnaea.dradis.netflix.com.",
+    "ipv4": "52.41.166.128",
+    "ipv6": [
+      "ichnaea.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de84::1f5a",
+      "2600:1f14:62a:de82::7735",
+      "2600:1f14:62a:de83::2b44"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "push.prod.dradis.netflix.com.",
+    "ipv4": "44.237.239.19",
+    "ipv6": [
+      "push.prod.us-west-2.internal.dradis.netflix.com.",
+      "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de84:5701:12b8:1a11:943b",
+      "2600:1f14:62a:de85:4774:a2bd:113f:8054",
+      "2600:1f14:62a:de83:58f4:485f:fcd1:f8a5"
+    ],
+    "mx": [
+      "push.prod.eu-west-1.internal.dradis.netflix.com.",
+      "pushy-prod-nlb3-cd80e4a025a1d73a.elb.eu-west-1.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "fast.dradis.netflix.com.",
+    "ipv4": "63.35.136.11",
+    "ipv6": [
+      "fast.eu-west-1.internal.dradis.netflix.com.",
+      "apiproxy-api-fast-vpc0-nlb-a96e4348fff0cfe7.elb.eu-west-1.amazonaws.com.",
+      "2a05:d018:76c:b682::2e12:953",
+      "2a05:d018:76c:b680::2e12:953",
+      "2a05:d018:76c:b681::2e12:953"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "api-global.us-west-2.origin.prodaa.netflix.com.",
+    "ipv4": "34.208.75.151",
+    "ipv6": [
+      "2620:108:700f::22d0:4b97",
+      "2620:108:700f::22d6:800d",
+      "2620:108:700f::23a5:9805",
+      "2620:108:700f::23a6:3c6d",
+      "2620:108:700f::23a7:63f1",
+      "2620:108:700f::341a:24e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "api-global.eu-west-1.origin.prodaa.netflix.com.",
+    "ipv4": "34.240.52.30",
+    "ipv6": [
+      "2a01:578:3::22f0:341e",
+      "2a01:578:3::22f1:ea14",
+      "2a01:578:3::34d0:62b1",
+      "2a01:578:3::34d1:d334",
+      "2a01:578:3::364d:81be",
+      "2a01:578:3::36e5:4905"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us.mediaroom.staging.netflix.com.",
+    "ipv4": "52.73.9.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "api-staging-internal.netflix.com.",
+    "ipv4": "100.85.20.72",
+    "ipv6": [
+      "internal-apinext-staging-internal-562031871.us-east-1.elb.amazonaws.com.",
+      "2600:1f18:631e:2f05::de6f",
+      "2600:1f18:631e:2f0a::acc",
+      "2600:1f18:631e:2f0b::a3c5"
+    ],
+    "mx": [
+      "internal-apinext-staging-internal-562031871.us-east-1.elb.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "extlauncher.netflix.com.",
+    "ipv4": "52.31.48.193",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2a05:d018:76c:b685::de70",
+      "2a05:d018:76c:b684::de70",
+      "2a05:d018:76c:b680::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "presentationtracking.netflix.com.",
+    "ipv4": "52.41.166.128",
+    "ipv6": [
+      "presentationtracking.dradis.netflix.com.",
+      "presentationtracking.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83::2b44",
+      "2600:1f14:62a:de82::7735",
+      "2600:1f14:62a:de84::1f5a"
+    ],
+    "mx": [
+      "dualstack.beaconserver-pt-vpc0-814993200.us-east-1.elb.amazonaws.com.",
+      "presentationtracking.dradis.netflix.com.",
+      "presentationtracking.us-east-1.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "api.fast.com.",
+    "ipv4": "54.69.47.224",
+    "ipv6": [
+      "fast.dradis.netflix.com.",
+      "fast.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-api-fast-vpc0-nlb-103017a815808492.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de82::eb3a:ef20",
+      "2600:1f14:62a:de80::eb3a:ef20",
+      "2600:1f14:62a:de81::eb3a:ef20"
+    ],
+    "mx": [
+      "apiproxy-api-fast-vpc0-nlb-103017a815808492.elb.us-west-2.amazonaws.com.",
+      "fast.dradis.netflix.com.",
+      "fast.us-west-2.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "push.prod.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "3.220.227.195",
+    "ipv6": [
+      "pushy-prod-nlb1-shard2-3802aa202d0ffffa.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f84::a255:20d",
+      "2600:1f18:631e:2f85::a255:20d",
+      "2600:1f18:631e:2f83::a255:20d"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp50-appboot.netflix.com.",
+    "ipv4": "44.234.6.167",
+    "ipv6": [
+      "appboot.dradis.netflix.com.",
+      "appboot.us-west-2.origin.prodaa.netflix.com.",
+      "2600:1f14:62a:de83::3edb",
+      "2600:1f14:62a:de82::75ed",
+      "2600:1f14:62a:de84::af07"
+    ],
+    "mx": [
+      "appboot.dradis.netflix.com.",
+      "appboot.netflix.com.",
+      "appboot.us-east-1.origin.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "prod.partner.dradis.netflix.com.",
+    "ipv4": "52.32.180.30",
+    "ipv6": [
+      "prod.partner.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-partner-prod-nlb-a811e4025c8f4f94.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de85::2f7a:a27",
+      "2600:1f14:62a:de83::2f7a:a27",
+      "2600:1f14:62a:de84::2f7a:a27"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ios.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "mobile-ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2041::1",
+      "2a00:86c0:2040::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ios-anycast.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "appboot.dradis.netflix.com.",
+    "ipv4": "54.217.127.99",
+    "ipv6": [
+      "appboot.eu-west-1.origin.prodaa.netflix.com.",
+      "2a05:d018:76c:b685::3a45",
+      "2a05:d018:76c:b683::c559",
+      "2a05:d018:76c:b684::b49e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ios.ngp.prod.cloud.netflix.com.",
+    "ipv4": "44.236.11.33",
+    "ipv6": [
+      "prod.cloud.dradis.netflix.com.",
+      "prod.cloud.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de81:1df2:596e:85ef:6bf1",
+      "2600:1f14:62a:de82:333f:3f90:281:165",
+      "2600:1f14:62a:de83:8f4d:3032:4fac:9fb0"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "customerevents.dradis.netflix.com.",
+    "ipv4": "54.220.250.181",
+    "ipv6": [
+      "customerevents.eu-west-1.internal.dradis.netflix.com.",
+      "apiproxy-log-nlb-d0872ab45f5e09a4.elb.eu-west-1.amazonaws.com.",
+      "2a05:d018:76c:b683::f7af",
+      "2a05:d018:76c:b682::265e",
+      "2a05:d018:76c:b684::a504"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp.nccp.us-east-1.origin.prodaa.netflix.com.",
+    "ipv4": "34.198.98.160",
+    "ipv6": [
+      "2406:da00:ff00::22c6:62a0",
+      "2406:da00:ff00::3400:bddd",
+      "2406:da00:ff00::3405:56a0",
+      "2406:da00:ff00::3416:bc10",
+      "2406:da00:ff00::342c:a864",
+      "2406:da00:ff00::34cc:5de2",
+      "2406:da00:ff00::3652:7a41",
+      "2406:da00:ff00::36d0:817"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp.nccp.dradis.netflix.com.",
+    "ipv4": "54.186.111.46",
+    "ipv6": [
+      "nrdp.nccp.us-west-2.origin.prodaa.netflix.com.",
+      "2620:108:700f::3420:b023",
+      "2620:108:700f::3419:cb97",
+      "2620:108:700f::36bf:1133",
+      "2620:108:700f::36ba:6f2e",
+      "2620:108:700f::22d7:214d",
+      "2620:108:700f::340a:2848"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "sec-oc.netflix.com.",
+    "ipv4": "45.57.90.1",
+    "ipv6": [
+      "2a00:86c0:2090::1",
+      "2a00:86c0:2091::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "probe-cell6.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2041::1",
+      "2a00:86c0:2040::1"
+    ],
+    "mx": [
+      "ixanycast.ftl.netflix.com."
+    ]
+  },
+  {
+    "domain": "www.dradis.netflix.com.",
+    "ipv4": "100.20.29.191",
+    "ipv6": [
+      "www.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-website-nlb-prod-3-587ba9e8593f37f4.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de82::a5bb:17e",
+      "2600:1f14:62a:de81::a5bb:17e",
+      "2600:1f14:62a:de80::a5bb:17e"
+    ],
+    "mx": [
+      "apiproxy-website-nlb-prod-3-587ba9e8593f37f4.elb.us-west-2.amazonaws.com.",
+      "www.us-west-2.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "marquee.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "crossroads.us-west-2.prodaa.netflix.com.",
+    "ipv4": "35.82.151.76",
+    "ipv6": [
+      "2600:1f14:62a:de84::8959"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp.nccp.us-west-2.origin.prodaa.netflix.com.",
+    "ipv4": "34.215.33.77",
+    "ipv6": [
+      "2620:108:700f::22d7:214d",
+      "2620:108:700f::340a:2848",
+      "2620:108:700f::3419:cb97",
+      "2620:108:700f::36ba:6f2e",
+      "2620:108:700f::36bf:1133"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "prototypes.netflix.com.",
+    "ipv4": "100.85.106.97",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "appboot.us-east-1.origin.prodaa.netflix.com.",
+    "ipv4": "100.28.13.17",
+    "ipv6": [
+      "2600:1f18:631e:2f80::8991",
+      "2600:1f18:631e:2f81::b166",
+      "2600:1f18:631e:2f82::7870"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "guilds.netflix.com.",
+    "ipv4": "34.218.19.240",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2600:1f14:62a:de80::de70",
+      "2600:1f14:62a:de81::de70",
+      "2600:1f14:62a:de82::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "3.230.129.93",
+    "ipv6": [
+      "apiproxy-website-nlb-prod-2-22bf9dee8ebc92ff.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f80:77e5:13a7:6533:7584",
+      "2600:1f18:631e:2f84:ceae:e049:1e:6a96",
+      "2600:1f18:631e:2f82:c8cd:27b2:ac:8dbf"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ichnaea-web.netflix.com.",
+    "ipv4": "52.41.166.128",
+    "ipv6": [
+      "ichnaea-web.dradis.netflix.com.",
+      "ichnaea-web.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de84::1f5a",
+      "2600:1f14:62a:de82::7735",
+      "2600:1f14:62a:de83::2b44"
+    ],
+    "mx": [
+      "dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com.",
+      "ichnaea-web.dradis.netflix.com.",
+      "ichnaea-web.us-east-1.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "eu-west-1-probe.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "android.prod.dradis.netflix.com.",
+    "ipv4": "99.81.251.69",
+    "ipv6": [
+      "android.prod.eu-west-1.internal.dradis.netflix.com.",
+      "apiproxy-device-prod-nlb-2-76887c7bbd7a4697.elb.eu-west-1.amazonaws.com.",
+      "2a05:d018:76c:b682:a13f:3f99:495f:bda0",
+      "2a05:d018:76c:b683:97f0:bb9a:ddc:96b8",
+      "2a05:d018:76c:b681:db3b:8289:a1f2:bbb6"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ipv6only-anycast.prod.ftl.netflix.com.",
+    "ipv4": "",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp.prod.dradis.netflix.com.",
+    "ipv4": "54.73.99.78",
+    "ipv6": [
+      "nrdp.prod.eu-west-1.internal.dradis.netflix.com.",
+      "apiproxy-nrdp-prod-nlb-2-0f64ce184c7f19ca.elb.eu-west-1.amazonaws.com.",
+      "2a05:d018:76c:b683:b1a3:9ec1:24f3:d848",
+      "2a05:d018:76c:b682:fdc8:381f:c7e6:65e0",
+      "2a05:d018:76c:b681:6281:e040:83dd:a00e"
+    ],
+    "mx": [
+      "apiproxy-nrdp-prod-nlb-2-0f64ce184c7f19ca.elb.eu-west-1.amazonaws.com.",
+      "nrdp.prod.eu-west-1.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "testplan.dta.netflix.com.",
+    "ipv4": "100.82.165.2",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "tolakviruss.staging.cloud.netflix.com.",
+    "ipv4": "52.22.98.224",
+    "ipv6": [
+      "dualstack.apiproxy-device-staging-2095572804.us-east-1.elb.amazonaws.com.",
+      "2406:da00:ff00::3416:62e0",
+      "2406:da00:ff00::3457:2e78"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "turbot.test.netflix.com.",
+    "ipv4": "18.236.7.30",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2600:1f14:62a:de82::de70",
+      "2600:1f14:62a:de81::de70",
+      "2600:1f14:62a:de80::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "wvpn.netflix.com.",
+    "ipv4": "69.53.237.211",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "customerevents.us-west-2.internal.dradis.netflix.com.",
+    "ipv4": "52.41.166.128",
+    "ipv6": [
+      "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83::2b44",
+      "2600:1f14:62a:de84::1f5a",
+      "2600:1f14:62a:de82::7735"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ios-cell6.prod.ftl.netflix.com.",
+    "ipv4": "45.57.41.1",
+    "ipv6": [
+      "mobile-ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2041::1",
+      "2a00:86c0:2040::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp.prod.eu-west-1.internal.dradis.netflix.com.",
+    "ipv4": "54.73.99.78",
+    "ipv6": [
+      "apiproxy-nrdp-prod-nlb-2-0f64ce184c7f19ca.elb.eu-west-1.amazonaws.com.",
+      "2a05:d018:76c:b683:b1a3:9ec1:24f3:d848",
+      "2a05:d018:76c:b682:fdc8:381f:c7e6:65e0",
+      "2a05:d018:76c:b681:6281:e040:83dd:a00e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "android-appboot.dradis.netflix.com.",
+    "ipv4": "3.129.196.255",
+    "ipv6": [
+      "android-appboot.us-east-2.internal.dradis.netflix.com.",
+      "apiproxy-appboot-nlb-0416652d9fc14a2d.elb.us-east-2.amazonaws.com.",
+      "2a03:5640:f502:85::3490",
+      "2a03:5640:f502:84::dcc",
+      "2a03:5640:f502:83::b9fa"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "account.us-east-1.prodaa.netflix.com.",
+    "ipv4": "107.21.49.97",
+    "ipv6": [
+      "2406:da00:ff00::22c0:598a",
+      "2406:da00:ff00::22c2:4403",
+      "2406:da00:ff00::3407:17a",
+      "2406:da00:ff00::3448:edd1",
+      "2406:da00:ff00::3449:a1ab",
+      "2406:da00:ff00::36a5:9938",
+      "2406:da00:ff00::36ad:66b6",
+      "2406:da00:ff00::36d2:41fd"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "signupstage.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ios.prod.dradis.netflix.com.",
+    "ipv4": "44.235.227.192",
+    "ipv6": [
+      "ios.prod.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de81:3807:db5c:c78a:4ad0",
+      "2600:1f14:62a:de83:5ff5:433c:c95c:5a52",
+      "2600:1f14:62a:de82:ae49:4622:9224:8be1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "amadeus-api.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "android-cell5.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "mobile-ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2041::1",
+      "2a00:86c0:2040::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cast-uiboot.prod.cloud.netflix.com.",
+    "ipv4": "44.235.228.33",
+    "ipv6": [
+      "prod.cloud.dradis.netflix.com.",
+      "prod.cloud.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-device-prod-nlb-2-9a34ae4608b5939d.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de82:a197:da7d:25e4:783e",
+      "2600:1f14:62a:de81:7136:a5f:2597:8d0e",
+      "2600:1f14:62a:de83:6614:5a60:a864:ac2c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cast.prod.cloud.netflix.com.",
+    "ipv4": "52.87.23.187",
+    "ipv6": [
+      "prod.cloud.dradis.netflix.com.",
+      "prod.cloud.us-east-1.internal.dradis.netflix.com.",
+      "apiproxy-device-prod-nlb-2-300c995e1ce8a001.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f84:a39b:9160:fc04:5fec",
+      "2600:1f18:631e:2f80:8c98:76bb:7067:5dcf",
+      "2600:1f18:631e:2f82:cc6b:801e:741f:356b"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "movies.geo.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.dvd.netflix.com.",
+    "ipv4": "207.45.72.201",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "playstation.nccp.dradis.netflix.com.",
+    "ipv4": "52.25.203.151",
+    "ipv6": [
+      "playstation.nccp.us-west-2.internal.dradis.netflix.com.",
+      "dualstack.nccp-wildcard-nccp-netflix-com-v-1382264436.us-west-2.elb.amazonaws.com.",
+      "2620:108:700f::22d7:214d",
+      "2620:108:700f::3419:cb97",
+      "2620:108:700f::36ba:6f2e",
+      "2620:108:700f::36bf:1133",
+      "2620:108:700f::340a:2848",
+      "2620:108:700f::3420:b023"
+    ],
+    "mx": [
+      "dualstack.nccp-wildcard-nccp-netflix-com-v-940153566.us-east-2.elb.amazonaws.com.",
+      "playstation.nccp.us-east-2.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "mail.netflix.com.",
+    "ipv4": "100.127.238.17",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "oca-api.us-west-2.internal.dradis.netflix.com.",
+    "ipv4": "34.213.114.77",
+    "ipv6": [
+      "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de85:8b5c:f80e:a1b5:1e85",
+      "2600:1f14:62a:de84:4a6f:9bc6:4c92:b622",
+      "2600:1f14:62a:de83:c047:bac5:4731:1f1c"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nrdp-cell6.prod.ftl.netflix.com.",
+    "ipv4": "45.57.41.1",
+    "ipv6": [
+      "nrdp-ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.glencove.staging.cloud.netflix.com.",
+    "ipv4": "52.22.88.201",
+    "ipv6": [
+      "dualstack.apiproxy-device-staging-2095572804.us-east-1.elb.amazonaws.com.",
+      "2406:da00:ff00::34cf:59dc",
+      "2406:da00:ff00::22e1:6eed",
+      "2406:da00:ff00::3416:58c9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "voice-intent.prod.partner.netflix.net.",
+    "ipv4": "107.23.144.120",
+    "ipv6": [
+      "prod.partner.dradis.netflix.com.",
+      "prod.partner.us-east-1.internal.dradis.netflix.com.",
+      "apiproxy-partner-prod-nlb-a6ad37ff4985d5f0.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f83::d05:a27",
+      "2600:1f18:631e:2f84::d05:a27",
+      "2600:1f18:631e:2f85::d05:a27"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "makeit.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "email.netflix.com.",
+    "ipv4": "142.250.180.19",
+    "ipv6": [
+      "ghs.googlehosted.com.",
+      "2a00:1450:4009:81e::2013"
+    ],
+    "mx": [
+      "ghs.googlehosted.com."
+    ]
+  },
+  {
+    "domain": "monet.test.netflix.com.",
+    "ipv4": "204.236.236.127",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2600:1f18:631e:2f81::de70",
+      "2600:1f18:631e:2f80::de70",
+      "2600:1f18:631e:2f82::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "my.oc.netflix.com.",
+    "ipv4": "3.221.228.214",
+    "ipv6": [
+      "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f82::2c",
+      "2600:1f18:631e:2f83::45",
+      "2600:1f18:631e:2f84::137"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "cast.netflix.com.",
+    "ipv4": "45.57.91.1",
+    "ipv6": [
+      "cast-oc.netflix.com.",
+      "2a00:86c0:2090::1",
+      "2a00:86c0:2091::1"
+    ],
+    "mx": [
+      "cast-oc.netflix.com."
+    ]
+  },
+  {
+    "domain": "portal.dvd.netflix.com.",
+    "ipv4": "207.45.72.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ackbar.geo.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "anycast-t0-c3-scm.prod.ftl.netflix.com.",
+    "ipv4": "45.57.41.1",
+    "ipv6": [
+      "anycast.ftl.netflix.com.",
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mf-dvd-west-1a.itp.netflix.com.",
+    "ipv4": "10.201.104.85",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "probe.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2041::1",
+      "2a00:86c0:2040::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "customerevents.eu-west-1.internal.dradis.netflix.com.",
+    "ipv4": "54.76.168.36",
+    "ipv6": [
+      "apiproxy-log-nlb-d0872ab45f5e09a4.elb.eu-west-1.amazonaws.com.",
+      "2a05:d018:76c:b684::a504",
+      "2a05:d018:76c:b683::f7af",
+      "2a05:d018:76c:b682::265e"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "nccp-nrdp-31.cloud.netflix.net.",
+    "ipv4": "34.215.205.119",
+    "ipv6": [
+      "nccp-nrdp-31.dradis.netflix.com.",
+      "nccp-nrdp-31.us-west-2.internal.dradis.netflix.com.",
+      "dualstack.nccp-wc-cloud-netflix-net-vpc0-1574447995.us-west-2.elb.amazonaws.com.",
+      "2620:108:700f::341a:b998",
+      "2620:108:700f::23a3:93a3",
+      "2620:108:700f::22d7:cd77"
+    ],
+    "mx": [
+      "dualstack.nccp-wc-cloud-netflix-net-vpc0-1134081491.us-east-1.elb.amazonaws.com.",
+      "nccp-nrdp-31.dradis.netflix.com.",
+      "nccp-nrdp-31.us-east-1.internal.dradis.netflix.com."
+    ]
+  },
+  {
+    "domain": "alerte-antivirus.staging.cloud.netflix.com.",
+    "ipv4": "34.195.184.243",
+    "ipv6": [
+      "dualstack.apiproxy-device-staging-2095572804.us-east-1.elb.amazonaws.com.",
+      "2406:da00:ff00::22c3:b8f3",
+      "2406:da00:ff00::34cf:59dc",
+      "2406:da00:ff00::3416:58c9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "uncover.prod.http1.netflix.com.",
+    "ipv4": "52.42.44.244",
+    "ipv6": [
+      "prod.http1.dradis.netflix.com.",
+      "prod.http1.us-west-2.internal.dradis.netflix.com.",
+      "dualstack.apiproxy-http1-873404929.us-west-2.elb.amazonaws.com.",
+      "2620:108:700f::23a4:d190",
+      "2620:108:700f::3427:809d",
+      "2620:108:700f::342a:2cf4"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "athena.netflix.com.",
+    "ipv4": "44.226.113.145",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2600:1f14:62a:de80::de70",
+      "2600:1f14:62a:de81::de70",
+      "2600:1f14:62a:de82::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "file.dta.netflix.com.",
+    "ipv4": "100.97.163.241",
+    "ipv6": [
+      "dtafile.vip.us-west-2.prod.cloud.netflix.net.",
+      "2600:1f14:62a:de0e::f016",
+      "2600:1f14:62a:de0e::ec5a",
+      "2600:1f14:62a:de0e::ec5c",
+      "2600:1f14:62a:de0c::a29f",
+      "2600:1f14:62a:de0e::ec59",
+      "2600:1f14:62a:de0e::f017"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "mediawiki.netflix.com.",
+    "ipv4": "54.193.103.252",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "probe-cell4.prod.ftl.netflix.com.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "amadeus.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "efq727tudlshrur5uzvow-use1.r.nflxso.net.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2041::1",
+      "2a00:86c0:2040::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "uatwindscreencover.test.web.netflix.com.",
+    "ipv4": "52.45.63.68",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "android-appboot.us-east-1.internal.dradis.netflix.com.",
+    "ipv4": "52.206.20.66",
+    "ipv6": [
+      "apiproxy-appboot-nlb-4e919b1babac387a.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f81::b166",
+      "2600:1f18:631e:2f80::8991",
+      "2600:1f18:631e:2f82::7870"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "oca-api.us-east-1.origin.prodaa.netflix.com.",
+    "ipv4": "18.214.21.235",
+    "ipv6": [
+      "2600:1f18:631e:2f83:84b7:13b0:2fa6:660f",
+      "2600:1f18:631e:2f84:6bee:7685:3b1e:3cc3",
+      "2600:1f18:631e:2f85:781:71a7:e592:7223"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "oca-api.us-west-2.origin.prodaa.netflix.com.",
+    "ipv4": "34.213.114.77",
+    "ipv6": [
+      "2600:1f14:62a:de83:c047:bac5:4731:1f1c",
+      "2600:1f14:62a:de84:4a6f:9bc6:4c92:b622",
+      "2600:1f14:62a:de85:8b5c:f80e:a1b5:1e85"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ifquo7soelkuvesvlvlt4-use1.r.nflxso.net.",
+    "ipv4": "35.165.68.166",
+    "ipv6": [
+      "ixanycast.ftl.netflix.com.",
+      "oca-api.dradis.netflix.com.",
+      "oca-api.us-west-2.internal.dradis.netflix.com.",
+      "dualstack.apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de83:c047:bac5:4731:1f1c",
+      "2600:1f14:62a:de85:8b5c:f80e:a1b5:1e85",
+      "2600:1f14:62a:de84:4a6f:9bc6:4c92:b622"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "www.us-west-2.internal.dradis.netflix.com.",
+    "ipv4": "52.12.247.40",
+    "ipv6": [
+      "apiproxy-website-nlb-prod-3-587ba9e8593f37f4.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de81::a5bb:17e",
+      "2600:1f14:62a:de82::a5bb:17e",
+      "2600:1f14:62a:de80::a5bb:17e"
+    ],
+    "mx": [
+      "apiproxy-website-nlb-prod-3-587ba9e8593f37f4.elb.us-west-2.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "muse.netflix.com.",
+    "ipv4": "100.85.53.4",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "who.netflix.com.",
+    "ipv4": "18.236.7.30",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sv1-ddi01.netflix.com.",
+    "ipv4": "10.64.0.3",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "shop.netflix.com.",
+    "ipv4": "46.137.171.215",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2a05:d018:76c:b684::de70",
+      "2a05:d018:76c:b685::de70",
+      "2a05:d018:76c:b680::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "screeningplayer.netflix.com.",
+    "ipv4": "34.252.74.1",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2a05:d018:76c:b680::de70",
+      "2a05:d018:76c:b685::de70",
+      "2a05:d018:76c:b684::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "awards.netflix.com.",
+    "ipv4": "46.137.171.215",
+    "ipv6": [
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2a05:d018:76c:b680::de70",
+      "2a05:d018:76c:b685::de70",
+      "2a05:d018:76c:b684::de70"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "api-public.netflix.com.",
+    "ipv4": "54.189.73.148",
+    "ipv6": [
+      "api-global.dradis.netflix.com.",
+      "api-global.us-west-2.internal.dradis.netflix.com.",
+      "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de80::e317",
+      "2600:1f14:62a:de85::c584",
+      "2600:1f14:62a:de81::b588"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "virusfalcon.prod.http1.netflix.com.",
+    "ipv4": "34.224.76.143",
+    "ipv6": [
+      "prod.http1.dradis.netflix.com.",
+      "prod.http1.us-east-1.internal.dradis.netflix.com.",
+      "dualstack.apiproxy-http1-199106617.us-east-1.elb.amazonaws.com.",
+      "2406:da00:ff00::3449:81ab",
+      "2406:da00:ff00::23a8:e3ae",
+      "2406:da00:ff00::36d2:bee8",
+      "2406:da00:ff00::3446:d261",
+      "2406:da00:ff00::34ce:aaa3",
+      "2406:da00:ff00::3457:2b28",
+      "2406:da00:ff00::22e0:4c8f",
+      "2406:da00:ff00::3405:b44"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "sites.netflix.com.",
+    "ipv4": "142.250.180.19",
+    "ipv6": [
+      "ghs.googlehosted.com.",
+      "2a00:1450:4009:81e::2013"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "qbrphotobook.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "appboot.eu-west-1.origin.prodaa.netflix.com.",
+    "ipv4": "52.211.238.216",
+    "ipv6": [
+      "2a05:d018:76c:b683::c559",
+      "2a05:d018:76c:b684::b49e",
+      "2a05:d018:76c:b685::3a45"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "signup.eu-west-1.prodaa.netflix.com.",
+    "ipv4": "52.209.195.185",
+    "ipv6": [
+      "2a01:578:3::34d1:c3b9"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "us.mediaroom.netflix.com.",
+    "ipv4": "35.164.3.46",
+    "ipv6": [
+      "us.mediaroom.geo.netflix.com.",
+      "us.mediaroom.us-west-2.prodaa.netflix.com.",
+      "2620:108:700f::23a4:32e",
+      "2620:108:700f::3458:a7f3",
+      "2620:108:700f::3645:6b49"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "stm-go.netflix.com.",
+    "ipv4": "54.215.244.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "fame.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "internal-marqueeui-prod-frontend-fame-1534222568.us-east-1.elb.amazonaws.com."
+    ]
+  },
+  {
+    "domain": "snapbox.netflix.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "csapi.test.dvdco.netflix.com.",
+    "ipv4": "207.45.73.203",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "api-global.geo.netflix.com.",
+    "ipv4": "52.34.101.105",
+    "ipv6": [
+      "api-global.us-west-2.prodaa.netflix.com.",
+      "2620:108:700f::3428:7b54",
+      "2620:108:700f::3427:3b99",
+      "2620:108:700f::23a1:ab45",
+      "2620:108:700f::36bb:c57d",
+      "2620:108:700f::3644:153c",
+      "2620:108:700f::3422:a947"
+    ],
+    "mx": [
+      "api-global.us-west-2.prodaa.netflix.com."
+    ]
+  },
+  {
+    "domain": "ifqzc7tmfabygliivxnxu-use1.r.nflxso.net.",
+    "ipv4": "45.57.40.1",
+    "ipv6": [
+      "ixanycast.ftl.netflix.com.",
+      "2a00:86c0:2040::1",
+      "2a00:86c0:2041::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "hydra.netflix.com.",
+    "ipv4": "18.207.84.236",
+    "ipv6": [
+      "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com.",
+      "2600:1f18:631e:2f83::45",
+      "2600:1f18:631e:2f82::2c",
+      "2600:1f18:631e:2f84::137"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "push.prod.us-west-2.internal.dradis.netflix.com.",
+    "ipv4": "52.41.15.42",
+    "ipv6": [
+      "pushy-prod-nlb4-shard2-588ecec80760e6e6.elb.us-west-2.amazonaws.com.",
+      "2600:1f14:62a:de84::749e:20d",
+      "2600:1f14:62a:de83::749e:20d",
+      "2600:1f14:62a:de85::749e:20d"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "archive.backlot.netflix.com.",
+    "ipv4": "107.20.175.192",
+    "ipv6": [
+      "contenthub.netflix.com.",
+      "detour.netflix.net.",
+      "detour.prod.netflix.net.",
+      "2600:1f18:631e:2f82::de70",
+      "2600:1f18:631e:2f81::de70",
+      "2600:1f18:631e:2f80::de70"
+    ],
+    "mx": [
+      "contenthub.netflix.com.",
+      "detour.netflix.net.",
+      "detour.prod.netflix.net."
+    ]
+  }
+]

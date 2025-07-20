@@ -1,0 +1,945 @@
+[
+  {
+    "domain": "content.garena.com.",
+    "ipv4": "23.220.162.146",
+    "ipv6": [
+      "content.garena.com.akamaized.net.",
+      "a1809.dscb.akamai.net.",
+      "2600:1404:6400:52::17c0:df28",
+      "2600:1404:6400:52::17c0:df2c"
+    ],
+    "mx": [
+      "36d629c3.tweb.sched.ovscdns.com.",
+      "content.garena.com.cdn.dnsv1.com."
+    ]
+  },
+  {
+    "domain": "100067.msdk.garena.com.",
+    "ipv4": "202.81.112.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100067.connect.garena.com.",
+    "ipv4": "202.81.112.209",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "connect.garena.com.",
+    "ipv4": "148.222.71.15",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ffguide.garena.com.",
+    "ipv4": "202.81.96.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "game.garena.com.",
+    "ipv4": "103.247.205.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "xjp.garena.com.",
+    "ipv4": "150.109.27.137",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100082.msdk.garena.com.",
+    "ipv4": "148.222.71.16",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100082.connect.garena.com.",
+    "ipv4": "148.222.71.15",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "lobbysg1.codm.garena.com.",
+    "ipv4": "43.128.124.101",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "speed.codm.garena.com.",
+    "ipv4": "150.109.28.108",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "content.garena.com.cdn.dnsv1.com.",
+    "ipv4": "43.132.84.26",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100050.connect.garena.com.",
+    "ipv4": "148.222.71.17",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dir.4.497948935.codmsg.gcloudcs.com.",
+    "ipv4": "119.28.98.172",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "thematic-draw-ph.codm.garena.com.",
+    "ipv4": "103.247.207.171",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "prod-api.reward.ff.garena.com.",
+    "ipv4": "148.222.67.91",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ams.codm.garena.com.",
+    "ipv4": "150.109.27.228",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "auth.garena.com.",
+    "ipv4": "148.222.71.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100067.us.connect.garena.com.",
+    "ipv4": "202.81.112.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bounce.garena.com.",
+    "ipv4": "202.81.96.4",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "diwali2021.ff.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "undead.codm.garena.com.",
+    "ipv4": "103.247.207.173",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "reward.ff.garena.com.",
+    "ipv4": "202.81.96.6",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "diwali2021-comehome.ff.garena.com.",
+    "ipv4": "103.247.207.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "diwali2021-checkin.ff.garena.com.",
+    "ipv4": "103.247.207.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "diwali2021-rangoli.ff.garena.com.",
+    "ipv4": "103.247.207.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "diwalipass.ff.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100054.connect.garena.com.",
+    "ipv4": "148.222.71.17",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "puffer.6.497948935.codmsg.gcloudcs.com.",
+    "ipv4": "119.28.98.172",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dir.4.943094488.qqfcsa.gcloudcs.com.",
+    "ipv4": "35.247.196.28",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.garena.com.",
+    "ipv4": "202.81.112.196",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "prime.ff.garena.com.",
+    "ipv4": "103.247.207.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100067.ff.connect.garena.com.",
+    "ipv4": "202.81.112.209",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "msdk.garena.com.",
+    "ipv4": "148.222.71.16",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "giftoflight.ff.garena.com.",
+    "ipv4": "103.247.207.164",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ffsoporte.garena.com.",
+    "ipv4": "216.198.54.6",
+    "ipv6": [],
+    "mx": [
+      "ffsoporte.zendesk.com.",
+      "mail-pod-25.int.zendesk.com."
+    ]
+  },
+  {
+    "domain": "ff.garena.com.",
+    "ipv4": "148.222.67.157",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "networkselftest.ff.garena.com.",
+    "ipv4": "202.81.96.1",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dlt.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "content.garena.com.akamaized.net.",
+    "ipv4": "2.19.252.205",
+    "ipv6": [
+      "a1809.dscb.akamai.net.",
+      "2a02:26f0:5d00:10::684d:a0c5",
+      "2a02:26f0:5d00:10::684d:a0c8"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "event.ff.garena.com.",
+    "ipv4": "96.16.122.138",
+    "ipv6": [
+      "event.ff.garena.com.akamaized.net.",
+      "a1388.dscd.akamai.net.",
+      "2a02:26f0:2b00:12::5f64:554e",
+      "2a02:26f0:2b00:12::5f64:5544"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "download.2.943094488.qqfcsa.gcloudcs.com.",
+    "ipv4": "35.247.196.28",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ffarena.championship.garena.com.",
+    "ipv4": "202.81.96.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "itop-notice.fcsac.garena.com.",
+    "ipv4": "34.96.81.139",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gamesvr004.fcsac.garena.com.",
+    "ipv4": "35.198.41.22",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "api-midnight.ff.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "10058.connect.garena.com.",
+    "ipv4": "143.92.121.199",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100080.msdk.garena.com.",
+    "ipv4": "202.81.112.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "authgop.garena.com.",
+    "ipv4": "148.222.71.19",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "10058.msdk.garena.com.",
+    "ipv4": "143.92.121.200",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "bossgacha.lol.garena.com.",
+    "ipv4": "103.247.207.173",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ffshare.garena.com.",
+    "ipv4": "148.222.67.156",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "lobbyhk1.codm.garena.com.",
+    "ipv4": "43.159.222.114",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "fantasy.garena.com.",
+    "ipv4": "103.247.207.171",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hash.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "redirect.garena.com.",
+    "ipv4": "148.222.67.92",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "pandora.fcsac.garena.com.",
+    "ipv4": "35.198.27.179",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sso.garena.com.",
+    "ipv4": "148.222.71.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "wish.ff.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "prime-us.ff.garena.com.",
+    "ipv4": "148.153.133.110",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "admin.job.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "preprod.job.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "codm.gcloud.garena.com.",
+    "ipv4": "119.28.98.172",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "zendeskauth.ff.garena.com.",
+    "ipv4": "202.81.96.4",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gamevideo.test.garena.com.",
+    "ipv4": "122.11.130.70",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "pretest1.codm.garena.com.",
+    "ipv4": "119.28.121.156",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100090.msdk.garena.com.",
+    "ipv4": "143.92.121.200",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "esports.codm.garena.com.",
+    "ipv4": "202.81.96.6",
+    "ipv6": [],
+    "mx": [
+      "sea.k8s.garenanow.com."
+    ]
+  },
+  {
+    "domain": "download.2.497948935.codmsg.gcloudcs.com.",
+    "ipv4": "119.28.98.172",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.sukien-ff-garena.com.",
+    "ipv4": "103.255.237.97",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100091.msdk.garena.com.",
+    "ipv4": "148.222.71.14",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hon.garena.ph.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cyf-v2.ff.garena.com.",
+    "ipv4": "23.46.150.82",
+    "ipv6": [
+      "cyf-v2.ff.garena.com.akamaized.net.",
+      "a749.dscd.akamai.net.",
+      "2600:1408:5400:17::17dd:e3ad",
+      "2600:1408:5400:17::17dd:e3b2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "hdl.live.mrms.garena.com.",
+    "ipv4": "119.28.183.97",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "test.grid.codm.garena.com.",
+    "ipv4": "103.247.207.174",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "br.100080.connect.garena.com.",
+    "ipv4": "148.222.71.13",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "berkahlebaran.ff.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "redeem.codm.garena.com.",
+    "ipv4": "202.81.96.6",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "lol.garena.com.",
+    "ipv4": "143.92.120.30",
+    "ipv6": [],
+    "mx": [
+      "sg.garenatwdev.k8s.garenanow.com."
+    ]
+  },
+  {
+    "domain": "optionpanel.speed.garena.com.",
+    "ipv4": "103.247.207.173",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "test-removeitem.lol.garena.com.",
+    "ipv4": "103.247.207.173",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ffsupport.garena.com.",
+    "ipv4": "216.198.53.6",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100070.connect.garena.com.",
+    "ipv4": "148.222.71.15",
+    "ipv6": [],
+    "mx": [
+      "connect.garena.com."
+    ]
+  },
+  {
+    "domain": "user.data.garena.com.",
+    "ipv4": "148.222.67.92",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "captcha.garena.com.",
+    "ipv4": "202.81.112.197",
+    "ipv6": [],
+    "mx": [
+      "gop.captcha.garena.com."
+    ]
+  },
+  {
+    "domain": "100070.msdk.garena.com.",
+    "ipv4": "148.222.71.16",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hon.garena.com.",
+    "ipv4": "103.247.207.173",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "account.garena.com.",
+    "ipv4": "148.222.71.12",
+    "ipv6": [],
+    "mx": [
+      "sg.account.garena.com."
+    ]
+  },
+  {
+    "domain": "content.garena.com.domain.name.",
+    "ipv4": "185.38.109.109",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "evilbunny.poe.garena.com.",
+    "ipv4": "203.117.155.65",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gop.captcha.garena.com.",
+    "ipv4": "148.222.71.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ff-advance.ff.garena.com.",
+    "ipv4": "143.92.120.196",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "avatar.gtalk.garenanow.com.",
+    "ipv4": "122.11.131.7",
+    "ipv6": [],
+    "mx": [
+      "origin-intl.garena.com."
+    ]
+  },
+  {
+    "domain": "video.codm.garena.com.",
+    "ipv4": "150.109.27.189",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100066.msdk.garena.com.",
+    "ipv4": "202.81.112.208",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100092.connect.garena.com.",
+    "ipv4": "148.222.71.13",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100092.msdk.garena.com.",
+    "ipv4": "148.222.71.14",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "kg.connect.garena.com.",
+    "ipv4": "202.81.112.201",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "puffer.4.1067345395.hdl.gcloudcs.com.",
+    "ipv4": "150.109.3.12",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "invite.codm.garena.com.",
+    "ipv4": "148.222.67.91",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "watchesports.codm.garena.com.",
+    "ipv4": "148.222.67.87",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100058.connect.garena.com.",
+    "ipv4": "148.222.71.17",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100071.connect.garena.com.",
+    "ipv4": "202.81.112.199",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "tw.100070.connect.garena.com.",
+    "ipv4": "202.81.112.199",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "regisbr.codm.garena.com.",
+    "ipv4": "202.81.96.10",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "lobbysg1.codm.garena.com.domain.name.",
+    "ipv4": "185.38.109.109",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "codm.garena.com.",
+    "ipv4": "202.81.96.6",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "100057.connect.garena.com.",
+    "ipv4": "148.222.71.17",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gvoiceoffline.cros.garena.com.",
+    "ipv4": "101.33.43.59",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "internal.survey.website.garena.com.",
+    "ipv4": "164.52.101.14",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "admin.esports.garena.com.",
+    "ipv4": "124.108.141.151",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "admin.cloudctrl.cros.garena.com.",
+    "ipv4": "129.226.1.105",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "test-dof.codm.garena.com.",
+    "ipv4": "103.247.207.173",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "rank.garena.com.",
+    "ipv4": "148.222.67.91",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "xjp.garena.com.domain.name.",
+    "ipv4": "95.216.67.149",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "garena.com.",
+    "ipv4": "202.81.112.196",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "admin1nurnbergfet.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "2004-hdl.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "testconnect.garena.com.",
+    "ipv4": "202.81.112.32",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "18latin.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "2005-pb.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "admin1-marsilya-www1.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "admin1nurnbergus-east-15.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "admin4-hdl.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "24christmasloginhdl.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "4374.garena.com.",
+    "ipv4": "167.89.118.109",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "28worldspredicthdl.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "14-iot.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "16bizstation-13.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "an84-pb.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "letters.aov.garena.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "28pb.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "paas.17rayabns.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "3wwwz.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "28worldspredict-hdl.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "13-akali.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "itemfusion.codm.garena.com.",
+    "ipv4": "103.247.207.173",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "abint.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "2004hdl.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "acc-bis-hw.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "1rmb.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "6bus-east-15.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "6-dfw1.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "public.midas.sdk.garena.com.",
+    "ipv4": "101.32.173.163",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "job.hdl.19.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "7ndannivbns.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "174.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "paas.hdl.2018.bk.garena.com.",
+    "ipv4": "150.109.0.54",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "crashreport.garena.com.",
+    "ipv4": "203.117.155.197",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "preregistration.blockmango.garena.com.",
+    "ipv4": "164.52.101.12",
+    "ipv6": [],
+    "mx": []
+  }
+]
