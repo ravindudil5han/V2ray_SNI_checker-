@@ -30,7 +30,7 @@ A Python-based tool to check working **SNI (Server Name Indication)** domains fr
 │   ├── garena_data.json
 │   ├── steampowered_data.json
 ├── working_sni.txt
-├── sni_checker.py
+├── main.py
 ├── requirements.txt
 └── README.md
 ```
