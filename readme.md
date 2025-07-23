@@ -42,8 +42,8 @@ A Python-based tool to check working **SNI (Server Name Indication)** domains fr
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/sni-checker.git
-cd sni-checker
+https://github.com/ravindudil5han/V2ray_SNI_checker-.git
+cd V2ray_SNI_checker-
 ```
 
 2. **Install dependencies**
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 Run the tool:
 
 ```bash
-python sni_checker.py
+python main.py
 ```
 
 Select from the menu:
