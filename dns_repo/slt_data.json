@@ -1,0 +1,1211 @@
+[
+  {
+    "domain": "ips.lk.",
+    "ipv4": "35.213.153.12",
+    "ipv6": [],
+    "mx": [
+      "ips-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "slt.lk.",
+    "ipv4": "220.247.222.74",
+    "ipv6": [],
+    "mx": [
+      "mailin-01.gw.sltidc.lk.",
+      "mailin-03.gw.sltidc.lk.",
+      "mailin-04.gw.sltidc.lk.",
+      "mailin-05.gw.sltidc.lk.",
+      "mailin-06.gw.sltidc.lk.",
+      "mailin-07.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "hnb.lk.",
+    "ipv4": "159.60.150.144",
+    "ipv6": [],
+    "mx": [
+      "mx1.hc1051-21.ap.iphmx.com.",
+      "mx2.hc1051-21.ap.iphmx.com."
+    ]
+  },
+  {
+    "domain": "sliit.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "sliit-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "peoplesbank.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mx1.peoplesbank.lk.",
+      "mx2.peoplesbank.lk.",
+      "mx3.peoplesbank.lk.",
+      "peoplesbank-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "combank.net.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "nie.lk.",
+    "ipv4": "104.21.31.199",
+    "ipv6": [
+      "2606:4700:3033::6815:1fc7",
+      "2606:4700:3034::ac43:b3a8"
+    ],
+    "mx": [
+      "bsd01.gw.sltidc.lk.",
+      "mx02.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "edupub.gov.lk.",
+    "ipv4": "103.29.63.5",
+    "ipv6": [],
+    "mx": [
+      "mx1.gov.lk.",
+      "mx2.gov.lk."
+    ]
+  },
+  {
+    "domain": "army.lk.",
+    "ipv4": "222.165.133.215",
+    "ipv6": [],
+    "mx": [
+      "mail.army.lk."
+    ]
+  },
+  {
+    "domain": "dlb.lk.",
+    "ipv4": "67.227.172.118",
+    "ipv6": [],
+    "mx": [
+      "smt.dlb.lk."
+    ]
+  },
+  {
+    "domain": "slbfe.lk.",
+    "ipv4": "220.247.217.187",
+    "ipv6": [],
+    "mx": [
+      "mx-01-eu-west-1.prod.hydra.sophos.com.",
+      "mx-02-eu-west-1.prod.hydra.sophos.com."
+    ]
+  },
+  {
+    "domain": "cse.lk.",
+    "ipv4": "129.150.62.29",
+    "ipv6": [],
+    "mx": [
+      "cse-lk.mail.protection.outlook.com.",
+      "devmail.cse.lk.",
+      "drmail.cse.lk.",
+      "mail.cse.lk."
+    ]
+  },
+  {
+    "domain": "sltnet.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mailin-03.gw.sltidc.lk.",
+      "mailin-04.gw.sltidc.lk.",
+      "mailin-05.gw.sltidc.lk.",
+      "mailin-06.gw.sltidc.lk.",
+      "mailin-07.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "police.lk.",
+    "ipv4": "124.43.132.84",
+    "ipv6": [],
+    "mx": [
+      "mail.police.lk.",
+      "police-mx.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "seylanbank.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "nsbinternet.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "seylan.lk.",
+    "ipv4": "52.25.59.50",
+    "ipv6": [],
+    "mx": [
+      "mx1.seylan.lk.",
+      "mx3.seylan.lk.",
+      "mx4.seylan.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "nsb.lk.",
+    "ipv4": "192.124.249.59",
+    "ipv6": [],
+    "mx": [
+      "d321482a.ess.barracudanetworks.com.",
+      "d321482b.ess.barracudanetworks.com.",
+      "nsb-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "parliament.lk.",
+    "ipv4": "203.94.86.84",
+    "ipv6": [],
+    "mx": [
+      "mx1.parliament.lk.",
+      "mx2.parliament.lk."
+    ]
+  },
+  {
+    "domain": "cinec.edu.",
+    "ipv4": "54.200.141.10",
+    "ipv6": [],
+    "mx": [
+      "cinec-edu.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "ceb.lk.",
+    "ipv4": "104.22.40.225",
+    "ipv6": [
+      "2606:4700:10::6816:28e1",
+      "2606:4700:10::6816:29e1",
+      "2606:4700:10::ac43:1689"
+    ],
+    "mx": [
+      "mail4.ceb.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "ndbbankonline.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "slpa.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "d171385a.ess.barracudanetworks.com.",
+      "d171385b.ess.barracudanetworks.com."
+    ]
+  },
+  {
+    "domain": "defence.lk.",
+    "ipv4": "220.247.224.39",
+    "ipv6": [],
+    "mx": [
+      "mailin-01.gw.sltidc.lk.",
+      "mailin-02.gw.sltidc.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "toyota.lk.",
+    "ipv4": "18.140.134.19",
+    "ipv6": [],
+    "mx": [
+      "mail1.toyota.lk.",
+      "mail.toyota.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "www.slt.lk.",
+    "ipv4": "220.247.222.74",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "srilankainsurance.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "d322861a.ess.barracudanetworks.com.",
+      "d322861b.ess.barracudanetworks.com.",
+      "mx3.srilankainsurance.com."
+    ]
+  },
+  {
+    "domain": "drc.gov.lk.",
+    "ipv4": "43.224.126.115",
+    "ipv6": [],
+    "mx": [
+      "mailgw.drc.gov.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "kelanicables.com.",
+    "ipv4": "49.12.121.200",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "p1.ns.slt.lk.",
+    "ipv4": "203.115.0.1",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "slt.com.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "edge1.slt.com.lk.",
+      "edge2.slt.com.lk.",
+      "edge3.slt.com.lk.",
+      "edge4.slt.com.lk."
+    ]
+  },
+  {
+    "domain": "techinfo.lk.",
+    "ipv4": "108.167.143.219",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx.l.google.com.",
+      "techinfo-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "edna.lk.",
+    "ipv4": "78.128.81.213",
+    "ipv6": [],
+    "mx": [
+      "mail.edna.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "immigration.gov.lk.",
+    "ipv4": "124.43.162.53",
+    "ipv6": [],
+    "mx": [
+      "mail.immigration.gov.lk."
+    ]
+  },
+  {
+    "domain": "slida.lk.",
+    "ipv4": "203.94.69.165",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mountspring.lk.",
+    "ipv4": "23.227.38.65",
+    "ipv6": [],
+    "mx": [
+      "d130997a.ess.barracudanetworks.com.",
+      "d130997b.ess.barracudanetworks.com."
+    ]
+  },
+  {
+    "domain": "ftp.slt.lk.",
+    "ipv4": "203.115.0.20",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mail.slt.lk.",
+    "ipv4": "124.43.128.156",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hayleys.com.",
+    "ipv4": "168.119.182.131",
+    "ipv6": [],
+    "mx": [
+      "hayleys-com.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "dmc.gov.lk.",
+    "ipv4": "124.43.24.27",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "epg.slt.lk.",
+    "ipv4": "220.247.224.37",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sdb.lk.",
+    "ipv4": "45.60.78.68",
+    "ipv6": [],
+    "mx": [
+      "d212312a.ess.barracudanetworks.com.",
+      "d212312b.ess.barracudanetworks.com."
+    ]
+  },
+  {
+    "domain": "erd.gov.lk.",
+    "ipv4": "203.115.15.41",
+    "ipv6": [],
+    "mx": [
+      "mail.erd.gov.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "omniscapp.slt.lk.",
+    "ipv4": "203.94.73.105",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "aitkenspenceprinting.lk.",
+    "ipv4": "167.86.100.228",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "uda.lk.",
+    "ipv4": "203.115.23.145",
+    "ipv6": [],
+    "mx": [
+      "mailin-01.gw.sltidc.lk.",
+      "mailin-02.gw.sltidc.lk.",
+      "mailserv.uda.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "coastguard.gov.lk.",
+    "ipv4": "124.43.130.81",
+    "ipv6": [],
+    "mx": [
+      "mx1.gov.lk.",
+      "mx2.gov.lk.",
+      "mx5.gov.lk."
+    ]
+  },
+  {
+    "domain": "seamewe5.com.",
+    "ipv4": "222.165.180.167",
+    "ipv6": [],
+    "mx": [
+      "flik.gw.sltidc.lk.",
+      "mail.postfix.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "vsis.lk.",
+    "ipv4": "185.232.14.148",
+    "ipv6": [],
+    "mx": [
+      "vsis-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "fairfirst.lk.",
+    "ipv4": "104.196.44.166",
+    "ipv6": [],
+    "mx": [
+      "fairfirst-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "eteleshop.slt.lk.",
+    "ipv4": "124.43.136.179",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cbsl.lk.",
+    "ipv4": "203.115.31.228",
+    "ipv6": [],
+    "mx": [
+      "sanwada.cbsl.lk."
+    ]
+  },
+  {
+    "domain": "pabcbank.com.",
+    "ipv4": "192.124.249.29",
+    "ipv6": [],
+    "mx": [
+      "gateway.pabcbank.com.",
+      "mx1.dialogbb.net."
+    ]
+  },
+  {
+    "domain": "ocs.slt.lk.",
+    "ipv4": "203.189.72.5",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "billpay.slt.lk.",
+    "ipv4": "203.115.19.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "wacoaltimex.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "cust69099-1.in.mailcontrol.com.",
+      "cust69099-2.in.mailcontrol.com.",
+      "wacoaleurope-com01e.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "jb.lk.",
+    "ipv4": "203.115.20.190",
+    "ipv6": [],
+    "mx": [
+      "jb-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "ltl.lk.",
+    "ipv4": "52.74.51.55",
+    "ipv6": [],
+    "mx": [
+      "ltl-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "mail.itdg.slt.lk.",
+    "ipv4": "203.115.20.236",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "unicomtea.net.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "unicomtea-net.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "accesslk.com.",
+    "ipv4": "206.189.144.108",
+    "ipv6": [],
+    "mx": [
+      "tc.accesslk.com."
+    ]
+  },
+  {
+    "domain": "pership.com.",
+    "ipv4": "85.187.128.54",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "jkcs.slt.lk.",
+    "ipv4": "220.247.234.75",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.weeraketiyacentral.slt.lk.",
+    "ipv4": "222.165.190.222",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ndbbank.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "ndbbank-com.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "dsitiles.com.",
+    "ipv4": "74.220.218.122",
+    "ipv6": [],
+    "mx": [
+      "hostmx01.logix.in.",
+      "hostmx02.logix.in."
+    ]
+  },
+  {
+    "domain": "dsisamson.com.",
+    "ipv4": "220.247.223.174",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "macisc.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "macisc-com.mail.protection.outlook.com.",
+      "relay1.maccmb.com."
+    ]
+  },
+  {
+    "domain": "acuitystockbrokers.com.",
+    "ipv4": "222.165.141.206",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "janashakthi.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mail2.janashakthi.com.",
+      "vw2.janashakthi.com.",
+      "vw.janashakthi.com.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "85.sta.broadband.slt.lk.ca.",
+    "ipv4": "199.59.243.220",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "s1.ns.slt.lk.",
+    "ipv4": "203.115.0.18",
+    "ipv6": [
+      "2402:d000:8:0:203:115:0:18"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "whale.slt.lk.",
+    "ipv4": "203.115.0.14",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "s2.ns.slt.lk.",
+    "ipv4": "203.94.84.2",
+    "ipv6": [
+      "2402:d000:18:0:203:94:84:2"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "ceylife.lk.",
+    "ipv4": "222.165.133.195",
+    "ipv6": [],
+    "mx": [
+      "ceylife-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "srilankainsurance.net.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "56.sta.idc-2.slt.lk.localhost.",
+    "ipv4": "127.0.0.1",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sanasawekadaeast.com.",
+    "ipv4": "222.165.190.228",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "acs.slt.lk.",
+    "ipv4": "222.165.185.15",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mail.vas.slt.lk.",
+    "ipv4": "203.115.0.220",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "slt-ll-8.slt.lk.",
+    "ipv4": "203.115.1.62",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "srilankatelecom-ip-net1.slt.lk.",
+    "ipv4": "203.115.0.72",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.training.slt.lk.",
+    "ipv4": "203.115.23.238",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hs.slt.lk.",
+    "ipv4": "203.115.19.201",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dmsgt.com.",
+    "ipv4": "220.247.234.60",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "ute.lk.",
+    "ipv4": "68.178.228.96",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "usagemeter.slt.lk.",
+    "ipv4": "203.115.19.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "wartsilalanka.slt.lk.",
+    "ipv4": "124.43.25.152",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "relay5.slt.lk.",
+    "ipv4": "203.115.0.27",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "dmsltd-lk.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "seng.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "d130995a.ess.barracudanetworks.com.",
+      "d130995b.ess.barracudanetworks.com."
+    ]
+  },
+  {
+    "domain": "receptionhallranminithenna.lk.",
+    "ipv4": "203.94.76.101",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mclogistics.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mclogistics-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "cms.lk.",
+    "ipv4": "46.105.204.27",
+    "ipv6": [
+      "2001:41d0:301::27"
+    ],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx4.googlemail.com.",
+      "aspmx5.googlemail.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "nisol.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mailin-04.gw.sltidc.lk.",
+      "mailin-05.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "gestetnersl.com.",
+    "ipv4": "23.227.38.65",
+    "ipv6": [],
+    "mx": [
+      "mx.noip.com."
+    ]
+  },
+  {
+    "domain": "samtessi.com.",
+    "ipv4": "220.247.223.188",
+    "ipv6": [],
+    "mx": [
+      "hostmx01.logix.in.",
+      "hostmx02.logix.in."
+    ]
+  },
+  {
+    "domain": "abcconts.lk.",
+    "ipv4": "74.220.215.231",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "bannerportal.slt.lk.",
+    "ipv4": "203.115.19.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "atsl.lk.",
+    "ipv4": "192.185.198.196",
+    "ipv6": [],
+    "mx": [
+      "mail.atsl.lk."
+    ]
+  },
+  {
+    "domain": "smtp2.slt.lk.",
+    "ipv4": "203.115.0.29",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "lscl.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mail.lscl.lk."
+    ]
+  },
+  {
+    "domain": "crm.slt.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mailin-01.gw.sltidc.lk.",
+      "mailin-02.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "pureceylontea.com.",
+    "ipv4": "34.142.141.55",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "mailhost.slt.lk.",
+    "ipv4": "203.115.0.1",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cdbnet.lk.",
+    "ipv4": "203.115.13.50",
+    "ipv6": [],
+    "mx": [
+      "mail.cdbnet.lk.",
+      "mx.cdbnet.lk.",
+      "mx.mail.cdbnet.lk."
+    ]
+  },
+  {
+    "domain": "combank.net.bd.",
+    "ipv4": "103.241.27.58",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "softlogicfinance.lk.",
+    "ipv4": "152.67.128.251",
+    "ipv6": [],
+    "mx": [
+      "softlogicfinance-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "sagt.com.lk.",
+    "ipv4": "54.202.210.212",
+    "ipv6": [],
+    "mx": [
+      "cluster8a.us.messagelabs.com.",
+      "cluster8.us.messagelabs.com.",
+      "sagt-com-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "sltc.edu.lk.",
+    "ipv4": "3.134.11.201",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "webmail.slt.lk.",
+    "ipv4": "203.115.0.23",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "gennextteam.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "gennextteam-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "siedles.com.",
+    "ipv4": "185.230.63.107",
+    "ipv6": [],
+    "mx": [
+      "gajaba.eureka.lk.",
+      "mail.siedles.com.",
+      "whale1.slt.lk."
+    ]
+  },
+  {
+    "domain": "fleetmgt.slt.lk.",
+    "ipv4": "124.43.132.33",
+    "ipv6": [],
+    "mx": [
+      "mailin-04.gw.sltidc.lk.",
+      "mailin-05.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "mail.plus.slt.lk.",
+    "ipv4": "203.94.65.163",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "setmil.com.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "gateway.setmil.com.lk.",
+      "whale1.slt.lk.",
+      "whale.slt.lk."
+    ]
+  },
+  {
+    "domain": "marsylka.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "marsylka-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "gslanka.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "gslanka-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "dtech.lk.",
+    "ipv4": "104.21.9.131",
+    "ipv6": [
+      "2606:4700:3035::ac43:a00b",
+      "2606:4700:3036::6815:983"
+    ],
+    "mx": [
+      "dtech-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "internetvasmedia.slt.lk.",
+    "ipv4": "222.165.160.112",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "myslt.slt.lk.",
+    "ipv4": "203.115.19.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hqspeedtest1.slt.lk.prod.hosts.ooklaserver.net.",
+    "ipv4": "222.165.175.10",
+    "ipv6": [
+      "hqspeedtest1.slt.lk.",
+      "2402:d000:0:48::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "sltrvpn.slt.lk.",
+    "ipv4": "124.43.130.158",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "storage.slt.lk.",
+    "ipv4": "15.197.183.71",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sbill.slt.lk.",
+    "ipv4": "203.115.19.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hqspeedtest1.slt.lk.",
+    "ipv4": "222.165.175.10",
+    "ipv6": [
+      "2402:d000:0:48::1"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "studyglobal.lk.",
+    "ipv4": "13.228.118.247",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cs.slt.lk.",
+    "ipv4": "124.43.130.145",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "caa.lk.",
+    "ipv4": "124.43.161.198",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "alt3.aspmx.l.google.com.",
+      "alt4.aspmx.l.google.com.",
+      "caa-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "rock.slt.lk.",
+    "ipv4": "203.115.0.20",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "enterprise.slt.lk.",
+    "ipv4": "203.115.30.213",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.buddhistway.slt.lk.",
+    "ipv4": "203.115.0.23",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "billonline.slt.lk.",
+    "ipv4": "203.115.19.216",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "voyageshipping.lk.",
+    "ipv4": "222.165.190.229",
+    "ipv6": [],
+    "mx": [
+      "mailin-01.gw.sltidc.lk.",
+      "mailin-02.gw.sltidc.lk."
+    ]
+  },
+  {
+    "domain": "www.internetvas.slt.lk.",
+    "ipv4": "222.165.160.106",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "internetvas.slt.lk.",
+    "ipv4": "222.165.160.106",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "impratea.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "imperialtea.in.tmes-sg.trendmicro.com.",
+      "mail.impratea.lk."
+    ]
+  },
+  {
+    "domain": "smtp.slt.lk.",
+    "ipv4": "203.115.0.21",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "coopinsu.com.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "coopinsu-com.mail.protection.outlook.com.",
+      "mailserver1.coopinsu.com."
+    ]
+  },
+  {
+    "domain": "cahm.lk.",
+    "ipv4": "52.76.253.43",
+    "ipv6": [],
+    "mx": [
+      "cahm-lk.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "domain": "srilankainsurance.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": [
+      "mx1.srilankainsurance.com.",
+      "mx2.srilankainsurance.com."
+    ]
+  },
+  {
+    "domain": "ctclsa.lk.",
+    "ipv4": "222.165.180.143",
+    "ipv6": [],
+    "mx": [
+      "alt1.aspmx.l.google.com.",
+      "alt2.aspmx.l.google.com.",
+      "aspmx2.googlemail.com.",
+      "aspmx3.googlemail.com.",
+      "aspmx.l.google.com."
+    ]
+  },
+  {
+    "domain": "carcumb.com.",
+    "ipv4": "203.115.20.99",
+    "ipv6": [],
+    "mx": [
+      "carcumb-com.mail.protection.outlook.com."
+    ]
+  }
+]

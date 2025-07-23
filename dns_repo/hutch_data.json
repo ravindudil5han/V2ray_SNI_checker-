@@ -1,0 +1,117 @@
+[
+  {
+    "domain": "hutch.lk.",
+    "ipv4": "162.214.66.15",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "cliq.hutch.lk.",
+    "ipv4": "45.121.90.14",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sp1.hutch.lk.prod.hosts.ooklaserver.net.",
+    "ipv4": "103.21.167.137",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ns1.hutch.lk.",
+    "ipv4": "103.21.167.154",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ns2.hutch.lk.",
+    "ipv4": "43.252.14.25",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.hutch.lk.",
+    "ipv4": "162.214.66.15",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "online.hutch.lk.",
+    "ipv4": "45.121.90.2",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "selfcare.hutch.lk.",
+    "ipv4": "45.121.90.4",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "oneapp.hutch.lk.",
+    "ipv4": "45.121.90.9",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sp1.hutch.lk.",
+    "ipv4": "103.21.167.137",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "hutch-lk.translate.goog.",
+    "ipv4": "142.250.184.161",
+    "ipv6": [
+      "2a00:1450:4003:80c::2001"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "uat-daa-hutch-lk.frontend.tebra.com.pl.",
+    "ipv4": "89.161.244.247",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "uat-daa-hutch-lk.frontend.universalshowband.wixsite.com.",
+    "ipv4": "34.144.206.118",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "newordersim.hutch.lk.",
+    "ipv4": "35.227.197.119",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "webbsms.hutch.lk.",
+    "ipv4": "203.189.189.11",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "reloadpay.hutch.lk.",
+    "ipv4": "45.121.90.2",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "consent.hutch.lk.",
+    "ipv4": "45.121.90.22",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "uat-daa-hutch-lk.u003eus.legal-rights.us.",
+    "ipv4": "139.162.174.209",
+    "ipv6": [
+      "2a01:7e01::f03c:95ff:fe00:2692",
+      "2a01:7e01::f03c:95ff:fe91:5d91",
+      "2a01:7e01::f03c:95ff:feeb:9d4b",
+      "2a01:7e01::f03c:95ff:feed:783e"
+    ],
+    "mx": []
+  }
+]

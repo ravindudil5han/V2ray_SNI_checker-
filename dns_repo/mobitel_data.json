@@ -1,0 +1,248 @@
+[
+  {
+    "domain": "echannelling.com.",
+    "ipv4": "194.140.201.44",
+    "ipv6": [],
+    "mx": [
+      "mail.echannelling.com.",
+      "relay.lankacom.net."
+    ]
+  },
+  {
+    "domain": "mailgw3.mobitel.lk.",
+    "ipv4": "203.94.71.251",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ookla.mobitel.lk.prod.hosts.ooklaserver.net.",
+    "ipv4": "202.129.235.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mcash.lk.",
+    "ipv4": "202.129.235.94",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "www.mobitel.lk.",
+    "ipv4": "202.129.235.14",
+    "ipv6": [
+      "2407:c00:0:3001::21"
+    ],
+    "mx": []
+  },
+  {
+    "domain": "match.mobitel.lk.",
+    "ipv4": "203.94.71.246",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "speedtest2.mobitel.lk.prod.hosts.ooklaserver.net.",
+    "ipv4": "103.2.152.1",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mobitel.lk.",
+    "ipv4": "202.129.235.14",
+    "ipv6": [
+      "2407:c00:0:3001::21"
+    ],
+    "mx": [
+      "mailgw3.mobitel.lk.",
+      "mailgw4.mobitel.lk.",
+      "mailgw5.mobitel.lk.",
+      "mailgw6.mobitel.lk."
+    ]
+  },
+  {
+    "domain": "webmail.mobitel.lk.",
+    "ipv4": "202.129.235.48",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "speedtest2.mobitel.lk.",
+    "ipv4": "103.2.152.1",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sltmobitel.lk.",
+    "ipv4": "194.140.201.21",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mdp.mobitel.lk.",
+    "ipv4": "202.129.234.105",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ns5.mobitel.lk.",
+    "ipv4": "202.129.234.123",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ookla.mobitel.lk.",
+    "ipv4": "202.129.235.210",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "echannelling-apigw.mobitel.lk.",
+    "ipv4": "202.129.234.85",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mailgw4.mobitel.lk.",
+    "ipv4": "202.129.235.45",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "online.mobitel.lk.",
+    "ipv4": "202.129.234.108",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "selfcare.mobitel.lk.",
+    "ipv4": "202.129.234.81",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mailgw6.mobitel.lk.",
+    "ipv4": "203.94.71.249",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mobitellanka.com.",
+    "ipv4": "202.129.235.71",
+    "ipv6": [
+      "2407:c00:0:2::141"
+    ],
+    "mx": [
+      "mailgw2.mobitel.lk."
+    ]
+  },
+  {
+    "domain": "www.mms.mobitel.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mailmms.mms.mobitel.lk.",
+    "ipv4": "202.129.232.132",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ns2.mobitel.lk.",
+    "ipv4": "194.140.201.25",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "vesak.mobitel.lk.",
+    "ipv4": "50.87.116.245",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ivas.mobitel.lk.",
+    "ipv4": "202.129.232.181",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "rugby.mobitel.lk.",
+    "ipv4": "",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mailgw5.mobitel.lk.",
+    "ipv4": "194.140.201.35",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ns1.mobitel.lk.",
+    "ipv4": "202.129.235.65",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mms.mobitel.lk.",
+    "ipv4": "202.129.232.132",
+    "ipv6": [],
+    "mx": [
+      "mailmms.mms.mobitel.lk."
+    ]
+  },
+  {
+    "domain": "mas.mobitel.lk.",
+    "ipv4": "194.140.201.139",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "account.mobitel.lk.",
+    "ipv4": "194.140.201.6",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "apphub.mobitel.lk.",
+    "ipv4": "202.129.234.85",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mservices.mobitel.lk.",
+    "ipv4": "203.115.26.34",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "sc.mobitel.lk.",
+    "ipv4": "202.129.235.105",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "services.mobitel.lk.",
+    "ipv4": "202.129.234.99",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "ho-webchat.mobitel.lk.",
+    "ipv4": "202.129.234.106",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "mobpaygw.mobitel.lk.",
+    "ipv4": "202.129.234.68",
+    "ipv6": [],
+    "mx": []
+  },
+  {
+    "domain": "exchange.mobitel.lk.",
+    "ipv4": "192.168.7.67",
+    "ipv6": [],
+    "mx": []
+  }
+]
