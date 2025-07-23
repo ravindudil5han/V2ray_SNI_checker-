@@ -42,7 +42,7 @@ A Python-based tool to check working **SNI (Server Name Indication)** domains fr
 1. **Clone the repository**
 
 ```bash
-https://github.com/ravindudil5han/V2ray_SNI_checker-.git
+git clone https://github.com/ravindudil5han/V2ray_SNI_checker-.git
 cd V2ray_SNI_checker-
 ```
 
